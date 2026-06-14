@@ -1,0 +1,8 @@
+path: data/ml
+train: images/train
+val: images/val
+
+names:
+  0: welding_arc
+  1: spark_plume
+  2: fire

@@ -1,0 +1,8 @@
+path: data/ml_core_grinder
+train: images/train
+val: images/val
+
+names:
+  0: welding_arc
+  1: fire
+  2: grinder_spark

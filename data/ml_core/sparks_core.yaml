@@ -1,0 +1,7 @@
+path: data/ml_core
+train: images/train
+val: images/val
+
+names:
+  0: welding_arc
+  1: fire
