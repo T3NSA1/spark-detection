@@ -1,0 +1,876 @@
+video_name,frame_idx,time_sec,has_sparks,raw_has_sparks,pred_label,n_components,mask_pixels,boxes_json
+grinder2.mp4,0,0.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 171, ""y"": 179, ""w"": 209, ""h"": 180, ""area"": 37620.0, ""label"": ""grinder_spark"", ""confidence"": 0.9017798900604248}]"
+grinder2.mp4,1,0.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 195, ""y"": 178, ""w"": 185, ""h"": 181, ""area"": 33485.0, ""label"": ""grinder_spark"", ""confidence"": 0.9021279215812683}]"
+grinder2.mp4,2,0.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 201, ""y"": 179, ""w"": 180, ""h"": 180, ""area"": 32400.0, ""label"": ""grinder_spark"", ""confidence"": 0.8892958164215088}]"
+grinder2.mp4,3,0.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 215, ""y"": 180, ""w"": 166, ""h"": 179, ""area"": 29714.0, ""label"": ""grinder_spark"", ""confidence"": 0.8914933204650879}]"
+grinder2.mp4,4,0.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 233, ""y"": 184, ""w"": 149, ""h"": 175, ""area"": 26075.0, ""label"": ""grinder_spark"", ""confidence"": 0.8778818845748901}]"
+grinder2.mp4,5,0.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 247, ""y"": 183, ""w"": 135, ""h"": 175, ""area"": 23625.0, ""label"": ""grinder_spark"", ""confidence"": 0.8645409345626831}]"
+grinder2.mp4,6,0.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 277, ""y"": 186, ""w"": 106, ""h"": 173, ""area"": 18338.0, ""label"": ""grinder_spark"", ""confidence"": 0.8462074995040894}]"
+grinder2.mp4,7,0.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 280, ""y"": 193, ""w"": 104, ""h"": 167, ""area"": 17368.0, ""label"": ""grinder_spark"", ""confidence"": 0.9270557761192322}]"
+grinder2.mp4,8,0.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 283, ""y"": 196, ""w"": 101, ""h"": 164, ""area"": 16564.0, ""label"": ""grinder_spark"", ""confidence"": 0.9294052124023438}]"
+grinder2.mp4,9,0.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 320, ""y"": 198, ""w"": 65, ""h"": 161, ""area"": 10465.0, ""label"": ""grinder_spark"", ""confidence"": 0.819672167301178}]"
+grinder2.mp4,10,0.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 319, ""y"": 206, ""w"": 69, ""h"": 154, ""area"": 10626.0, ""label"": ""grinder_spark"", ""confidence"": 0.7711036205291748}]"
+grinder2.mp4,11,0.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 323, ""y"": 206, ""w"": 67, ""h"": 154, ""area"": 10318.0, ""label"": ""grinder_spark"", ""confidence"": 0.8009177446365356}]"
+grinder2.mp4,12,0.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 325, ""y"": 207, ""w"": 64, ""h"": 153, ""area"": 9792.0, ""label"": ""grinder_spark"", ""confidence"": 0.8492218852043152}]"
+grinder2.mp4,13,0.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 335, ""y"": 211, ""w"": 58, ""h"": 149, ""area"": 8642.0, ""label"": ""grinder_spark"", ""confidence"": 0.8656675219535828}]"
+grinder2.mp4,14,0.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 334, ""y"": 212, ""w"": 64, ""h"": 148, ""area"": 9472.0, ""label"": ""grinder_spark"", ""confidence"": 0.8771076202392578}]"
+grinder2.mp4,15,0.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 339, ""y"": 215, ""w"": 58, ""h"": 145, ""area"": 8410.0, ""label"": ""grinder_spark"", ""confidence"": 0.8281354308128357}]"
+grinder2.mp4,16,0.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 325, ""y"": 214, ""w"": 72, ""h"": 146, ""area"": 10512.0, ""label"": ""grinder_spark"", ""confidence"": 0.8499904870986938}]"
+grinder2.mp4,17,0.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 339, ""y"": 215, ""w"": 51, ""h"": 145, ""area"": 7395.0, ""label"": ""grinder_spark"", ""confidence"": 0.8147450089454651}]"
+grinder2.mp4,18,0.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 335, ""y"": 215, ""w"": 54, ""h"": 145, ""area"": 7830.0, ""label"": ""grinder_spark"", ""confidence"": 0.8529546856880188}]"
+grinder2.mp4,19,0.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 331, ""y"": 208, ""w"": 56, ""h"": 152, ""area"": 8512.0, ""label"": ""grinder_spark"", ""confidence"": 0.8525635600090027}]"
+grinder2.mp4,20,0.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 320, ""y"": 206, ""w"": 67, ""h"": 154, ""area"": 10318.0, ""label"": ""grinder_spark"", ""confidence"": 0.8223533630371094}]"
+grinder2.mp4,21,0.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 305, ""y"": 206, ""w"": 79, ""h"": 154, ""area"": 12166.0, ""label"": ""grinder_spark"", ""confidence"": 0.8203075528144836}]"
+grinder2.mp4,22,0.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 285, ""y"": 201, ""w"": 99, ""h"": 159, ""area"": 15741.0, ""label"": ""grinder_spark"", ""confidence"": 0.9350095987319946}]"
+grinder2.mp4,23,0.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 285, ""y"": 194, ""w"": 99, ""h"": 166, ""area"": 16434.0, ""label"": ""grinder_spark"", ""confidence"": 0.9206451177597046}]"
+grinder2.mp4,24,0.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 272, ""y"": 192, ""w"": 111, ""h"": 168, ""area"": 18648.0, ""label"": ""grinder_spark"", ""confidence"": 0.9092715978622437}]"
+grinder2.mp4,25,1.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 253, ""y"": 190, ""w"": 130, ""h"": 170, ""area"": 22100.0, ""label"": ""grinder_spark"", ""confidence"": 0.881234347820282}]"
+grinder2.mp4,26,1.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 239, ""y"": 184, ""w"": 142, ""h"": 175, ""area"": 24850.0, ""label"": ""grinder_spark"", ""confidence"": 0.8804767727851868}]"
+grinder2.mp4,27,1.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 210, ""y"": 182, ""w"": 171, ""h"": 177, ""area"": 30267.0, ""label"": ""grinder_spark"", ""confidence"": 0.8889389038085938}]"
+grinder2.mp4,28,1.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 207, ""y"": 179, ""w"": 174, ""h"": 181, ""area"": 31494.0, ""label"": ""grinder_spark"", ""confidence"": 0.8989864587783813}]"
+grinder2.mp4,29,1.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 192, ""y"": 177, ""w"": 188, ""h"": 182, ""area"": 34216.0, ""label"": ""grinder_spark"", ""confidence"": 0.9027383923530579}]"
+grinder2.mp4,30,1.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 168, ""y"": 178, ""w"": 213, ""h"": 181, ""area"": 38553.0, ""label"": ""grinder_spark"", ""confidence"": 0.9061810970306396}]"
+grinder2.mp4,31,1.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 162, ""y"": 175, ""w"": 216, ""h"": 183, ""area"": 39528.0, ""label"": ""grinder_spark"", ""confidence"": 0.8803210258483887}]"
+grinder2.mp4,32,1.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 145, ""y"": 176, ""w"": 239, ""h"": 183, ""area"": 43737.0, ""label"": ""grinder_spark"", ""confidence"": 0.8886027336120605}]"
+grinder2.mp4,33,1.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 119, ""y"": 171, ""w"": 266, ""h"": 187, ""area"": 49742.0, ""label"": ""grinder_spark"", ""confidence"": 0.8820897340774536}]"
+grinder2.mp4,34,1.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 108, ""y"": 167, ""w"": 279, ""h"": 192, ""area"": 53568.0, ""label"": ""grinder_spark"", ""confidence"": 0.8492628335952759}]"
+grinder2.mp4,35,1.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 126, ""y"": 171, ""w"": 260, ""h"": 187, ""area"": 48620.0, ""label"": ""grinder_spark"", ""confidence"": 0.8961672186851501}]"
+grinder2.mp4,36,1.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 119, ""y"": 168, ""w"": 264, ""h"": 191, ""area"": 50424.0, ""label"": ""grinder_spark"", ""confidence"": 0.893054187297821}]"
+grinder2.mp4,37,1.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 99, ""y"": 169, ""w"": 290, ""h"": 190, ""area"": 55100.0, ""label"": ""grinder_spark"", ""confidence"": 0.896172285079956}]"
+grinder2.mp4,38,1.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 100, ""y"": 166, ""w"": 279, ""h"": 193, ""area"": 53847.0, ""label"": ""grinder_spark"", ""confidence"": 0.8966076970100403}]"
+grinder2.mp4,39,1.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 71, ""y"": 166, ""w"": 320, ""h"": 192, ""area"": 61440.0, ""label"": ""grinder_spark"", ""confidence"": 0.8769821524620056}]"
+grinder2.mp4,40,1.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 58, ""y"": 163, ""w"": 327, ""h"": 195, ""area"": 63765.0, ""label"": ""grinder_spark"", ""confidence"": 0.9013577103614807}]"
+grinder2.mp4,41,1.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 159, ""w"": 387, ""h"": 200, ""area"": 77400.0, ""label"": ""grinder_spark"", ""confidence"": 0.8927322626113892}]"
+grinder2.mp4,42,1.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 160, ""w"": 384, ""h"": 197, ""area"": 75648.0, ""label"": ""grinder_spark"", ""confidence"": 0.8808164000511169}]"
+grinder2.mp4,43,1.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 154, ""w"": 382, ""h"": 188, ""area"": 71816.0, ""label"": ""grinder_spark"", ""confidence"": 0.8844676613807678}]"
+grinder2.mp4,44,1.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 150, ""w"": 385, ""h"": 181, ""area"": 69685.0, ""label"": ""grinder_spark"", ""confidence"": 0.8714198470115662}]"
+grinder2.mp4,45,1.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 148, ""w"": 388, ""h"": 172, ""area"": 66736.0, ""label"": ""grinder_spark"", ""confidence"": 0.846771240234375}]"
+grinder2.mp4,46,1.84,False,False,no sparks (grinder_spark),2,0,"[{""x"": 0, ""y"": 141, ""w"": 392, ""h"": 93, ""area"": 36456.0, ""label"": ""grinder_spark"", ""confidence"": 0.7104535698890686}, {""x"": 0, ""y"": 145, ""w"": 391, ""h"": 174, ""area"": 68034.0, ""label"": ""grinder_spark"", ""confidence"": 0.31674474477767944}]"
+grinder2.mp4,47,1.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 137, ""w"": 391, ""h"": 78, ""area"": 30498.0, ""label"": ""grinder_spark"", ""confidence"": 0.7519698143005371}]"
+grinder2.mp4,48,1.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 130, ""w"": 393, ""h"": 48, ""area"": 18864.0, ""label"": ""grinder_spark"", ""confidence"": 0.7256825566291809}]"
+grinder2.mp4,49,1.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 112, ""w"": 398, ""h"": 68, ""area"": 27064.0, ""label"": ""grinder_spark"", ""confidence"": 0.7130292654037476}]"
+grinder2.mp4,50,2.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 89, ""w"": 408, ""h"": 87, ""area"": 35496.0, ""label"": ""grinder_spark"", ""confidence"": 0.7644452452659607}]"
+grinder2.mp4,51,2.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 64, ""w"": 413, ""h"": 86, ""area"": 35518.0, ""label"": ""grinder_spark"", ""confidence"": 0.7697261571884155}]"
+grinder2.mp4,52,2.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 70, ""w"": 423, ""h"": 78, ""area"": 32994.0, ""label"": ""grinder_spark"", ""confidence"": 0.7778269648551941}]"
+grinder2.mp4,53,2.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 54, ""w"": 426, ""h"": 94, ""area"": 40044.0, ""label"": ""grinder_spark"", ""confidence"": 0.7824928164482117}]"
+grinder2.mp4,54,2.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 56, ""w"": 431, ""h"": 88, ""area"": 37928.0, ""label"": ""grinder_spark"", ""confidence"": 0.8063843250274658}]"
+grinder2.mp4,55,2.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 52, ""w"": 438, ""h"": 89, ""area"": 38982.0, ""label"": ""grinder_spark"", ""confidence"": 0.7717952132225037}]"
+grinder2.mp4,56,2.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 12, ""w"": 446, ""h"": 134, ""area"": 59764.0, ""label"": ""grinder_spark"", ""confidence"": 0.7905297875404358}]"
+grinder2.mp4,57,2.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 2, ""w"": 455, ""h"": 130, ""area"": 59150.0, ""label"": ""grinder_spark"", ""confidence"": 0.8276592493057251}]"
+grinder2.mp4,58,2.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 0, ""w"": 457, ""h"": 147, ""area"": 67179.0, ""label"": ""grinder_spark"", ""confidence"": 0.8609551191329956}]"
+grinder2.mp4,59,2.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 0, ""w"": 461, ""h"": 143, ""area"": 65923.0, ""label"": ""grinder_spark"", ""confidence"": 0.8441190123558044}]"
+grinder2.mp4,60,2.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 7, ""y"": 1, ""w"": 464, ""h"": 143, ""area"": 66352.0, ""label"": ""grinder_spark"", ""confidence"": 0.7612093091011047}]"
+grinder2.mp4,61,2.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 50, ""y"": 0, ""w"": 426, ""h"": 160, ""area"": 68160.0, ""label"": ""grinder_spark"", ""confidence"": 0.6874310970306396}]"
+grinder2.mp4,62,2.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 92, ""y"": 0, ""w"": 384, ""h"": 151, ""area"": 57984.0, ""label"": ""grinder_spark"", ""confidence"": 0.7033237218856812}]"
+grinder2.mp4,63,2.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 91, ""y"": 1, ""w"": 385, ""h"": 146, ""area"": 56210.0, ""label"": ""grinder_spark"", ""confidence"": 0.7182436585426331}]"
+grinder2.mp4,64,2.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 98, ""y"": 2, ""w"": 378, ""h"": 146, ""area"": 55188.0, ""label"": ""grinder_spark"", ""confidence"": 0.7587283849716187}]"
+grinder2.mp4,65,2.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 107, ""y"": 3, ""w"": 370, ""h"": 146, ""area"": 54020.0, ""label"": ""grinder_spark"", ""confidence"": 0.7893609404563904}]"
+grinder2.mp4,66,2.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 53, ""y"": 1, ""w"": 421, ""h"": 144, ""area"": 60624.0, ""label"": ""grinder_spark"", ""confidence"": 0.8089500069618225}]"
+grinder2.mp4,67,2.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 7, ""y"": 0, ""w"": 468, ""h"": 140, ""area"": 65520.0, ""label"": ""grinder_spark"", ""confidence"": 0.7647190093994141}]"
+grinder2.mp4,68,2.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 5, ""y"": 0, ""w"": 461, ""h"": 151, ""area"": 69611.0, ""label"": ""grinder_spark"", ""confidence"": 0.8040183186531067}]"
+grinder2.mp4,69,2.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 0, ""w"": 459, ""h"": 146, ""area"": 67014.0, ""label"": ""grinder_spark"", ""confidence"": 0.7992272973060608}]"
+grinder2.mp4,70,2.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 0, ""w"": 447, ""h"": 153, ""area"": 68391.0, ""label"": ""grinder_spark"", ""confidence"": 0.8034178018569946}]"
+grinder2.mp4,71,2.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 13, ""w"": 443, ""h"": 125, ""area"": 55375.0, ""label"": ""grinder_spark"", ""confidence"": 0.7075120210647583}]"
+grinder2.mp4,72,2.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 53, ""w"": 423, ""h"": 95, ""area"": 40185.0, ""label"": ""grinder_spark"", ""confidence"": 0.7701149582862854}]"
+grinder2.mp4,73,2.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 62, ""w"": 419, ""h"": 86, ""area"": 36034.0, ""label"": ""grinder_spark"", ""confidence"": 0.7567775249481201}]"
+grinder2.mp4,74,2.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 57, ""w"": 409, ""h"": 107, ""area"": 43763.0, ""label"": ""grinder_spark"", ""confidence"": 0.7200950384140015}]"
+grinder2.mp4,75,3.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 107, ""w"": 402, ""h"": 73, ""area"": 29346.0, ""label"": ""grinder_spark"", ""confidence"": 0.7185541391372681}]"
+grinder2.mp4,76,3.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 113, ""w"": 392, ""h"": 82, ""area"": 32144.0, ""label"": ""grinder_spark"", ""confidence"": 0.7357569932937622}]"
+grinder2.mp4,77,3.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 130, ""w"": 393, ""h"": 81, ""area"": 31833.0, ""label"": ""grinder_spark"", ""confidence"": 0.7316669821739197}]"
+grinder2.mp4,78,3.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 139, ""w"": 387, ""h"": 143, ""area"": 55341.0, ""label"": ""grinder_spark"", ""confidence"": 0.7816545963287354}]"
+grinder2.mp4,79,3.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 148, ""w"": 386, ""h"": 155, ""area"": 59830.0, ""label"": ""grinder_spark"", ""confidence"": 0.8574049472808838}]"
+grinder2.mp4,80,3.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 152, ""w"": 384, ""h"": 183, ""area"": 70272.0, ""label"": ""grinder_spark"", ""confidence"": 0.8940252661705017}]"
+grinder2.mp4,81,3.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 157, ""w"": 385, ""h"": 187, ""area"": 71995.0, ""label"": ""grinder_spark"", ""confidence"": 0.863828718662262}]"
+grinder2.mp4,82,3.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 161, ""w"": 390, ""h"": 195, ""area"": 76050.0, ""label"": ""grinder_spark"", ""confidence"": 0.8944690227508545}]"
+grinder2.mp4,83,3.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 160, ""w"": 391, ""h"": 199, ""area"": 77809.0, ""label"": ""grinder_spark"", ""confidence"": 0.8771905303001404}]"
+grinder2.mp4,84,3.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 15, ""y"": 166, ""w"": 367, ""h"": 192, ""area"": 70464.0, ""label"": ""grinder_spark"", ""confidence"": 0.8988465666770935}]"
+grinder2.mp4,85,3.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 39, ""y"": 170, ""w"": 364, ""h"": 189, ""area"": 68796.0, ""label"": ""grinder_spark"", ""confidence"": 0.8830848336219788}]"
+grinder2.mp4,86,3.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 66, ""y"": 175, ""w"": 316, ""h"": 184, ""area"": 58144.0, ""label"": ""grinder_spark"", ""confidence"": 0.8826828002929688}]"
+grinder2.mp4,87,3.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 70, ""y"": 175, ""w"": 312, ""h"": 184, ""area"": 57408.0, ""label"": ""grinder_spark"", ""confidence"": 0.8794167041778564}]"
+grinder2.mp4,88,3.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 98, ""y"": 175, ""w"": 282, ""h"": 183, ""area"": 51606.0, ""label"": ""grinder_spark"", ""confidence"": 0.9176684021949768}]"
+grinder2.mp4,89,3.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 96, ""y"": 179, ""w"": 285, ""h"": 179, ""area"": 51015.0, ""label"": ""grinder_spark"", ""confidence"": 0.9045207500457764}]"
+grinder2.mp4,90,3.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 117, ""y"": 180, ""w"": 262, ""h"": 178, ""area"": 46636.0, ""label"": ""grinder_spark"", ""confidence"": 0.8898851871490479}]"
+grinder2.mp4,91,3.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 142, ""y"": 180, ""w"": 239, ""h"": 179, ""area"": 42781.0, ""label"": ""grinder_spark"", ""confidence"": 0.8840935230255127}]"
+grinder2.mp4,92,3.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 121, ""y"": 183, ""w"": 260, ""h"": 176, ""area"": 45760.0, ""label"": ""grinder_spark"", ""confidence"": 0.8909046649932861}]"
+grinder2.mp4,93,3.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 156, ""y"": 182, ""w"": 224, ""h"": 177, ""area"": 39648.0, ""label"": ""grinder_spark"", ""confidence"": 0.8979737758636475}]"
+grinder2.mp4,94,3.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 161, ""y"": 181, ""w"": 220, ""h"": 177, ""area"": 38940.0, ""label"": ""grinder_spark"", ""confidence"": 0.892433762550354}]"
+grinder2.mp4,95,3.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 169, ""y"": 183, ""w"": 212, ""h"": 175, ""area"": 37100.0, ""label"": ""grinder_spark"", ""confidence"": 0.906710684299469}]"
+grinder2.mp4,96,3.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 178, ""y"": 186, ""w"": 204, ""h"": 173, ""area"": 35292.0, ""label"": ""grinder_spark"", ""confidence"": 0.901413083076477}]"
+grinder2.mp4,97,3.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 178, ""y"": 185, ""w"": 204, ""h"": 174, ""area"": 35496.0, ""label"": ""grinder_spark"", ""confidence"": 0.8986158967018127}]"
+grinder2.mp4,98,3.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 210, ""y"": 186, ""w"": 171, ""h"": 173, ""area"": 29583.0, ""label"": ""grinder_spark"", ""confidence"": 0.9064874649047852}]"
+grinder2.mp4,99,3.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 217, ""y"": 187, ""w"": 166, ""h"": 172, ""area"": 28552.0, ""label"": ""grinder_spark"", ""confidence"": 0.8834755420684814}]"
+grinder2.mp4,100,4.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 231, ""y"": 187, ""w"": 152, ""h"": 171, ""area"": 25992.0, ""label"": ""grinder_spark"", ""confidence"": 0.8745511174201965}]"
+grinder2.mp4,101,4.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 245, ""y"": 189, ""w"": 137, ""h"": 169, ""area"": 23153.0, ""label"": ""grinder_spark"", ""confidence"": 0.87786465883255}]"
+grinder2.mp4,102,4.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 274, ""y"": 195, ""w"": 110, ""h"": 165, ""area"": 18150.0, ""label"": ""grinder_spark"", ""confidence"": 0.9160635471343994}]"
+grinder2.mp4,103,4.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 271, ""y"": 197, ""w"": 113, ""h"": 163, ""area"": 18419.0, ""label"": ""grinder_spark"", ""confidence"": 0.8865669965744019}]"
+grinder2.mp4,104,4.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 284, ""y"": 198, ""w"": 100, ""h"": 162, ""area"": 16200.0, ""label"": ""grinder_spark"", ""confidence"": 0.9173443913459778}]"
+grinder2.mp4,105,4.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 294, ""y"": 203, ""w"": 90, ""h"": 157, ""area"": 14130.0, ""label"": ""grinder_spark"", ""confidence"": 0.8738725185394287}]"
+grinder2.mp4,106,4.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 283, ""y"": 206, ""w"": 106, ""h"": 154, ""area"": 16324.0, ""label"": ""grinder_spark"", ""confidence"": 0.8242256045341492}]"
+grinder2.mp4,107,4.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 275, ""y"": 207, ""w"": 115, ""h"": 153, ""area"": 17595.0, ""label"": ""grinder_spark"", ""confidence"": 0.7351173758506775}]"
+grinder2.mp4,108,4.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 308, ""y"": 211, ""w"": 87, ""h"": 149, ""area"": 12963.0, ""label"": ""grinder_spark"", ""confidence"": 0.8202944397926331}]"
+grinder2.mp4,109,4.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 292, ""y"": 215, ""w"": 103, ""h"": 145, ""area"": 14935.0, ""label"": ""grinder_spark"", ""confidence"": 0.8023067712783813}]"
+grinder2.mp4,110,4.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 340, ""y"": 218, ""w"": 56, ""h"": 142, ""area"": 7952.0, ""label"": ""grinder_spark"", ""confidence"": 0.829049825668335}]"
+grinder2.mp4,111,4.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 333, ""y"": 220, ""w"": 66, ""h"": 140, ""area"": 9240.0, ""label"": ""grinder_spark"", ""confidence"": 0.8147010207176208}]"
+grinder2.mp4,112,4.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 349, ""y"": 220, ""w"": 49, ""h"": 140, ""area"": 6860.0, ""label"": ""grinder_spark"", ""confidence"": 0.7882363796234131}]"
+grinder2.mp4,113,4.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 347, ""y"": 223, ""w"": 54, ""h"": 137, ""area"": 7398.0, ""label"": ""grinder_spark"", ""confidence"": 0.7894825339317322}]"
+grinder2.mp4,114,4.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 341, ""y"": 221, ""w"": 55, ""h"": 139, ""area"": 7645.0, ""label"": ""grinder_spark"", ""confidence"": 0.7503289580345154}]"
+grinder2.mp4,115,4.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 339, ""y"": 221, ""w"": 52, ""h"": 139, ""area"": 7228.0, ""label"": ""grinder_spark"", ""confidence"": 0.8199289441108704}]"
+grinder2.mp4,116,4.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 329, ""y"": 220, ""w"": 62, ""h"": 140, ""area"": 8680.0, ""label"": ""grinder_spark"", ""confidence"": 0.8516591787338257}]"
+grinder2.mp4,117,4.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 339, ""y"": 215, ""w"": 50, ""h"": 145, ""area"": 7250.0, ""label"": ""grinder_spark"", ""confidence"": 0.8521286845207214}]"
+grinder2.mp4,118,4.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 318, ""y"": 212, ""w"": 71, ""h"": 148, ""area"": 10508.0, ""label"": ""grinder_spark"", ""confidence"": 0.8630722165107727}]"
+grinder2.mp4,119,4.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 318, ""y"": 208, ""w"": 69, ""h"": 152, ""area"": 10488.0, ""label"": ""grinder_spark"", ""confidence"": 0.8396537899971008}]"
+grinder2.mp4,120,4.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 303, ""y"": 208, ""w"": 83, ""h"": 152, ""area"": 12616.0, ""label"": ""grinder_spark"", ""confidence"": 0.8665459752082825}]"
+grinder2.mp4,121,4.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 288, ""y"": 206, ""w"": 95, ""h"": 154, ""area"": 14630.0, ""label"": ""grinder_spark"", ""confidence"": 0.9090266823768616}]"
+grinder2.mp4,122,4.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 280, ""y"": 203, ""w"": 103, ""h"": 157, ""area"": 16171.0, ""label"": ""grinder_spark"", ""confidence"": 0.9319761991500854}]"
+grinder2.mp4,123,4.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 266, ""y"": 200, ""w"": 117, ""h"": 160, ""area"": 18720.0, ""label"": ""grinder_spark"", ""confidence"": 0.9203749299049377}]"
+grinder2.mp4,124,4.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 250, ""y"": 197, ""w"": 133, ""h"": 162, ""area"": 21546.0, ""label"": ""grinder_spark"", ""confidence"": 0.8947307467460632}]"
+grinder2.mp4,125,5.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 225, ""y"": 192, ""w"": 156, ""h"": 166, ""area"": 25896.0, ""label"": ""grinder_spark"", ""confidence"": 0.8880113363265991}]"
+grinder2.mp4,126,5.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 214, ""y"": 189, ""w"": 167, ""h"": 170, ""area"": 28390.0, ""label"": ""grinder_spark"", ""confidence"": 0.9053913354873657}]"
+grinder2.mp4,127,5.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 199, ""y"": 186, ""w"": 182, ""h"": 173, ""area"": 31486.0, ""label"": ""grinder_spark"", ""confidence"": 0.9083495140075684}]"
+grinder2.mp4,128,5.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 175, ""y"": 183, ""w"": 207, ""h"": 176, ""area"": 36432.0, ""label"": ""grinder_spark"", ""confidence"": 0.9099945425987244}]"
+grinder2.mp4,129,5.16,False,False,no sparks (grinder_spark),2,0,"[{""x"": 156, ""y"": 187, ""w"": 236, ""h"": 171, ""area"": 40356.0, ""label"": ""grinder_spark"", ""confidence"": 0.8959220051765442}, {""x"": 386, ""y"": 171, ""w"": 110, ""h"": 157, ""area"": 17270.0, ""label"": ""grinder_spark"", ""confidence"": 0.352681428194046}]"
+grinder2.mp4,130,5.2,False,False,no sparks (grinder_spark),2,0,"[{""x"": 126, ""y"": 163, ""w"": 278, ""h"": 195, ""area"": 54210.0, ""label"": ""grinder_spark"", ""confidence"": 0.8277655839920044}, {""x"": 388, ""y"": 177, ""w"": 227, ""h"": 181, ""area"": 41087.0, ""label"": ""grinder_spark"", ""confidence"": 0.27490490674972534}]"
+grinder2.mp4,131,5.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 53, ""y"": 166, ""w"": 372, ""h"": 192, ""area"": 71424.0, ""label"": ""grinder_spark"", ""confidence"": 0.8501228094100952}]"
+grinder2.mp4,132,5.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 162, ""y"": 165, ""w"": 232, ""h"": 193, ""area"": 44776.0, ""label"": ""grinder_spark"", ""confidence"": 0.8733754754066467}]"
+grinder2.mp4,133,5.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 122, ""y"": 163, ""w"": 306, ""h"": 196, ""area"": 59976.0, ""label"": ""grinder_spark"", ""confidence"": 0.8864241242408752}]"
+grinder2.mp4,134,5.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 100, ""y"": 167, ""w"": 291, ""h"": 191, ""area"": 55581.0, ""label"": ""grinder_spark"", ""confidence"": 0.8824881911277771}]"
+grinder2.mp4,135,5.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 50, ""y"": 167, ""w"": 339, ""h"": 191, ""area"": 64749.0, ""label"": ""grinder_spark"", ""confidence"": 0.8758643269538879}]"
+grinder2.mp4,136,5.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 162, ""w"": 390, ""h"": 196, ""area"": 76440.0, ""label"": ""grinder_spark"", ""confidence"": 0.9069604873657227}]"
+grinder2.mp4,137,5.48,False,False,no sparks (grinder_spark),2,0,"[{""x"": 0, ""y"": 156, ""w"": 392, ""h"": 197, ""area"": 77224.0, ""label"": ""grinder_spark"", ""confidence"": 0.8911813497543335}]"
+grinder2.mp4,138,5.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 157, ""w"": 390, ""h"": 180, ""area"": 70200.0, ""label"": ""grinder_spark"", ""confidence"": 0.8809012174606323}]"
+grinder2.mp4,139,5.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 146, ""w"": 384, ""h"": 186, ""area"": 71424.0, ""label"": ""grinder_spark"", ""confidence"": 0.884299635887146}]"
+grinder2.mp4,140,5.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 141, ""w"": 391, ""h"": 156, ""area"": 60996.0, ""label"": ""grinder_spark"", ""confidence"": 0.8217069506645203}]"
+grinder2.mp4,141,5.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 142, ""w"": 387, ""h"": 166, ""area"": 64242.0, ""label"": ""grinder_spark"", ""confidence"": 0.7744433879852295}]"
+grinder2.mp4,142,5.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 137, ""w"": 392, ""h"": 82, ""area"": 32144.0, ""label"": ""grinder_spark"", ""confidence"": 0.7415151596069336}]"
+grinder2.mp4,143,5.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 123, ""w"": 394, ""h"": 55, ""area"": 21670.0, ""label"": ""grinder_spark"", ""confidence"": 0.6682727932929993}]"
+grinder2.mp4,144,5.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 106, ""w"": 406, ""h"": 74, ""area"": 30044.0, ""label"": ""grinder_spark"", ""confidence"": 0.7460095286369324}]"
+grinder2.mp4,145,5.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 82, ""w"": 410, ""h"": 82, ""area"": 33620.0, ""label"": ""grinder_spark"", ""confidence"": 0.738490879535675}]"
+grinder2.mp4,146,5.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 68, ""w"": 420, ""h"": 82, ""area"": 34440.0, ""label"": ""grinder_spark"", ""confidence"": 0.7675613164901733}]"
+grinder2.mp4,147,5.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 60, ""w"": 425, ""h"": 87, ""area"": 36975.0, ""label"": ""grinder_spark"", ""confidence"": 0.7848432064056396}]"
+grinder2.mp4,148,5.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 42, ""w"": 426, ""h"": 102, ""area"": 43452.0, ""label"": ""grinder_spark"", ""confidence"": 0.7746701836585999}]"
+grinder2.mp4,149,5.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 7, ""w"": 440, ""h"": 134, ""area"": 58960.0, ""label"": ""grinder_spark"", ""confidence"": 0.7604389786720276}]"
+grinder2.mp4,150,6.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 5, ""w"": 447, ""h"": 136, ""area"": 60792.0, ""label"": ""grinder_spark"", ""confidence"": 0.8383574485778809}]"
+grinder2.mp4,151,6.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 4, ""w"": 453, ""h"": 151, ""area"": 68403.0, ""label"": ""grinder_spark"", ""confidence"": 0.8149499893188477}]"
+grinder2.mp4,152,6.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 56, ""y"": 7, ""w"": 402, ""h"": 143, ""area"": 57486.0, ""label"": ""grinder_spark"", ""confidence"": 0.7497943639755249}]"
+grinder2.mp4,153,6.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 94, ""y"": 10, ""w"": 373, ""h"": 138, ""area"": 51474.0, ""label"": ""grinder_spark"", ""confidence"": 0.7621216773986816}]"
+grinder2.mp4,154,6.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 73, ""y"": 14, ""w"": 397, ""h"": 134, ""area"": 53198.0, ""label"": ""grinder_spark"", ""confidence"": 0.7958140969276428}]"
+grinder2.mp4,155,6.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 117, ""y"": 15, ""w"": 357, ""h"": 133, ""area"": 47481.0, ""label"": ""grinder_spark"", ""confidence"": 0.7919371128082275}]"
+grinder2.mp4,156,6.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 127, ""y"": 19, ""w"": 347, ""h"": 129, ""area"": 44763.0, ""label"": ""grinder_spark"", ""confidence"": 0.7825124859809875}]"
+grinder2.mp4,157,6.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 136, ""y"": 21, ""w"": 342, ""h"": 121, ""area"": 41382.0, ""label"": ""grinder_spark"", ""confidence"": 0.7605458498001099}]"
+grinder2.mp4,158,6.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 162, ""y"": 22, ""w"": 316, ""h"": 120, ""area"": 37920.0, ""label"": ""grinder_spark"", ""confidence"": 0.7575972676277161}]"
+grinder2.mp4,159,6.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 159, ""y"": 23, ""w"": 319, ""h"": 122, ""area"": 38918.0, ""label"": ""grinder_spark"", ""confidence"": 0.7433069348335266}]"
+grinder2.mp4,160,6.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 128, ""y"": 18, ""w"": 349, ""h"": 125, ""area"": 43625.0, ""label"": ""grinder_spark"", ""confidence"": 0.7809327840805054}]"
+grinder2.mp4,161,6.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 107, ""y"": 15, ""w"": 368, ""h"": 128, ""area"": 47104.0, ""label"": ""grinder_spark"", ""confidence"": 0.8063260912895203}]"
+grinder2.mp4,162,6.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 2, ""y"": 13, ""w"": 456, ""h"": 134, ""area"": 61104.0, ""label"": ""grinder_spark"", ""confidence"": 0.8126170635223389}]"
+grinder2.mp4,163,6.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 7, ""w"": 453, ""h"": 143, ""area"": 64779.0, ""label"": ""grinder_spark"", ""confidence"": 0.8002275228500366}]"
+grinder2.mp4,164,6.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 4, ""w"": 442, ""h"": 139, ""area"": 61438.0, ""label"": ""grinder_spark"", ""confidence"": 0.8052473664283752}]"
+grinder2.mp4,165,6.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 3, ""w"": 433, ""h"": 144, ""area"": 62352.0, ""label"": ""grinder_spark"", ""confidence"": 0.8102002143859863}]"
+grinder2.mp4,166,6.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 69, ""w"": 425, ""h"": 77, ""area"": 32725.0, ""label"": ""grinder_spark"", ""confidence"": 0.7572718858718872}]"
+grinder2.mp4,167,6.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 60, ""w"": 415, ""h"": 100, ""area"": 41500.0, ""label"": ""grinder_spark"", ""confidence"": 0.7545703053474426}]"
+grinder2.mp4,168,6.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 81, ""w"": 406, ""h"": 100, ""area"": 40600.0, ""label"": ""grinder_spark"", ""confidence"": 0.8281725645065308}]"
+grinder2.mp4,169,6.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 1, ""y"": 112, ""w"": 395, ""h"": 85, ""area"": 33575.0, ""label"": ""grinder_spark"", ""confidence"": 0.720468282699585}]"
+grinder2.mp4,170,6.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 127, ""w"": 392, ""h"": 85, ""area"": 33320.0, ""label"": ""grinder_spark"", ""confidence"": 0.7530005574226379}]"
+grinder2.mp4,171,6.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 138, ""w"": 386, ""h"": 158, ""area"": 60988.0, ""label"": ""grinder_spark"", ""confidence"": 0.7364412546157837}]"
+grinder2.mp4,172,6.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 144, ""w"": 389, ""h"": 168, ""area"": 65352.0, ""label"": ""grinder_spark"", ""confidence"": 0.8422167897224426}]"
+grinder2.mp4,173,6.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 147, ""w"": 391, ""h"": 194, ""area"": 75854.0, ""label"": ""grinder_spark"", ""confidence"": 0.8667410016059875}]"
+grinder2.mp4,174,6.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 152, ""w"": 392, ""h"": 197, ""area"": 77224.0, ""label"": ""grinder_spark"", ""confidence"": 0.8918389678001404}]"
+grinder2.mp4,175,7.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 156, ""w"": 412, ""h"": 196, ""area"": 80752.0, ""label"": ""grinder_spark"", ""confidence"": 0.8728076815605164}]"
+grinder2.mp4,176,7.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 157, ""w"": 401, ""h"": 199, ""area"": 79799.0, ""label"": ""grinder_spark"", ""confidence"": 0.8812949657440186}]"
+grinder2.mp4,177,7.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 36, ""y"": 160, ""w"": 384, ""h"": 198, ""area"": 76032.0, ""label"": ""grinder_spark"", ""confidence"": 0.8800933361053467}]"
+grinder2.mp4,178,7.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 96, ""y"": 160, ""w"": 296, ""h"": 198, ""area"": 58608.0, ""label"": ""grinder_spark"", ""confidence"": 0.8773066401481628}]"
+grinder2.mp4,179,7.16,False,False,no sparks (grinder_spark),2,0,"[{""x"": 183, ""y"": 162, ""w"": 214, ""h"": 188, ""area"": 40232.0, ""label"": ""grinder_spark"", ""confidence"": 0.6530119776725769}, {""x"": 383, ""y"": 154, ""w"": 103, ""h"": 205, ""area"": 21115.0, ""label"": ""grinder_spark"", ""confidence"": 0.4245834946632385}]"
+grinder2.mp4,180,7.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 94, ""y"": 185, ""w"": 291, ""h"": 173, ""area"": 50343.0, ""label"": ""grinder_spark"", ""confidence"": 0.8926361203193665}]"
+grinder2.mp4,181,7.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 102, ""y"": 185, ""w"": 277, ""h"": 174, ""area"": 48198.0, ""label"": ""grinder_spark"", ""confidence"": 0.884468674659729}]"
+grinder2.mp4,182,7.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 99, ""y"": 188, ""w"": 282, ""h"": 171, ""area"": 48222.0, ""label"": ""grinder_spark"", ""confidence"": 0.8985030055046082}]"
+grinder2.mp4,183,7.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 123, ""y"": 186, ""w"": 259, ""h"": 173, ""area"": 44807.0, ""label"": ""grinder_spark"", ""confidence"": 0.8927497863769531}]"
+grinder2.mp4,184,7.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 100, ""y"": 186, ""w"": 281, ""h"": 172, ""area"": 48332.0, ""label"": ""grinder_spark"", ""confidence"": 0.891240119934082}]"
+grinder2.mp4,185,7.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 99, ""y"": 188, ""w"": 282, ""h"": 170, ""area"": 47940.0, ""label"": ""grinder_spark"", ""confidence"": 0.892911970615387}]"
+grinder2.mp4,186,7.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 107, ""y"": 188, ""w"": 274, ""h"": 171, ""area"": 46854.0, ""label"": ""grinder_spark"", ""confidence"": 0.9020892977714539}]"
+grinder2.mp4,187,7.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 92, ""y"": 187, ""w"": 288, ""h"": 171, ""area"": 49248.0, ""label"": ""grinder_spark"", ""confidence"": 0.8925539255142212}]"
+grinder2.mp4,188,7.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 99, ""y"": 192, ""w"": 281, ""h"": 167, ""area"": 46927.0, ""label"": ""grinder_spark"", ""confidence"": 0.8456070423126221}]"
+grinder2.mp4,189,7.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 77, ""y"": 192, ""w"": 305, ""h"": 167, ""area"": 50935.0, ""label"": ""grinder_spark"", ""confidence"": 0.8775337934494019}]"
+grinder2.mp4,190,7.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 100, ""y"": 192, ""w"": 281, ""h"": 167, ""area"": 46927.0, ""label"": ""grinder_spark"", ""confidence"": 0.8896212577819824}]"
+grinder2.mp4,191,7.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 116, ""y"": 191, ""w"": 265, ""h"": 168, ""area"": 44520.0, ""label"": ""grinder_spark"", ""confidence"": 0.8880348205566406}]"
+grinder2.mp4,192,7.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 154, ""y"": 191, ""w"": 228, ""h"": 168, ""area"": 38304.0, ""label"": ""grinder_spark"", ""confidence"": 0.9075182676315308}]"
+grinder2.mp4,193,7.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 165, ""y"": 193, ""w"": 216, ""h"": 166, ""area"": 35856.0, ""label"": ""grinder_spark"", ""confidence"": 0.9064135551452637}]"
+grinder2.mp4,194,7.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 190, ""y"": 194, ""w"": 191, ""h"": 166, ""area"": 31706.0, ""label"": ""grinder_spark"", ""confidence"": 0.9083731174468994}]"
+grinder2.mp4,195,7.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 163, ""y"": 196, ""w"": 219, ""h"": 163, ""area"": 35697.0, ""label"": ""grinder_spark"", ""confidence"": 0.8994086384773254}]"
+grinder2.mp4,196,7.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 208, ""y"": 197, ""w"": 174, ""h"": 162, ""area"": 28188.0, ""label"": ""grinder_spark"", ""confidence"": 0.8759742379188538}]"
+grinder2.mp4,197,7.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 222, ""y"": 198, ""w"": 160, ""h"": 161, ""area"": 25760.0, ""label"": ""grinder_spark"", ""confidence"": 0.8744995594024658}]"
+grinder2.mp4,198,7.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 227, ""y"": 201, ""w"": 156, ""h"": 157, ""area"": 24492.0, ""label"": ""grinder_spark"", ""confidence"": 0.880790650844574}]"
+grinder2.mp4,199,7.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 258, ""y"": 203, ""w"": 127, ""h"": 157, ""area"": 19939.0, ""label"": ""grinder_spark"", ""confidence"": 0.9027356505393982}]"
+grinder2.mp4,200,8.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 276, ""y"": 204, ""w"": 108, ""h"": 156, ""area"": 16848.0, ""label"": ""grinder_spark"", ""confidence"": 0.9165136814117432}]"
+grinder2.mp4,201,8.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 272, ""y"": 206, ""w"": 112, ""h"": 154, ""area"": 17248.0, ""label"": ""grinder_spark"", ""confidence"": 0.9216481447219849}]"
+grinder2.mp4,202,8.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 281, ""y"": 208, ""w"": 103, ""h"": 152, ""area"": 15656.0, ""label"": ""grinder_spark"", ""confidence"": 0.9068768620491028}]"
+grinder2.mp4,203,8.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 279, ""y"": 208, ""w"": 105, ""h"": 152, ""area"": 15960.0, ""label"": ""grinder_spark"", ""confidence"": 0.9261255264282227}]"
+grinder2.mp4,204,8.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 277, ""y"": 208, ""w"": 108, ""h"": 152, ""area"": 16416.0, ""label"": ""grinder_spark"", ""confidence"": 0.9220247864723206}]"
+grinder2.mp4,205,8.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 281, ""y"": 208, ""w"": 104, ""h"": 152, ""area"": 15808.0, ""label"": ""grinder_spark"", ""confidence"": 0.9181634783744812}]"
+grinder2.mp4,206,8.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 285, ""y"": 210, ""w"": 100, ""h"": 150, ""area"": 15000.0, ""label"": ""grinder_spark"", ""confidence"": 0.9004366397857666}]"
+grinder2.mp4,207,8.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 280, ""y"": 210, ""w"": 104, ""h"": 150, ""area"": 15600.0, ""label"": ""grinder_spark"", ""confidence"": 0.9146321415901184}]"
+grinder2.mp4,208,8.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 275, ""y"": 208, ""w"": 109, ""h"": 152, ""area"": 16568.0, ""label"": ""grinder_spark"", ""confidence"": 0.9134834408760071}]"
+grinder2.mp4,209,8.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 274, ""y"": 206, ""w"": 110, ""h"": 154, ""area"": 16940.0, ""label"": ""grinder_spark"", ""confidence"": 0.921284019947052}]"
+grinder2.mp4,210,8.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 253, ""y"": 204, ""w"": 132, ""h"": 156, ""area"": 20592.0, ""label"": ""grinder_spark"", ""confidence"": 0.9081772565841675}]"
+grinder2.mp4,211,8.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 235, ""y"": 200, ""w"": 148, ""h"": 158, ""area"": 23384.0, ""label"": ""grinder_spark"", ""confidence"": 0.8811712265014648}]"
+grinder2.mp4,212,8.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 229, ""y"": 198, ""w"": 154, ""h"": 160, ""area"": 24640.0, ""label"": ""grinder_spark"", ""confidence"": 0.8800323009490967}]"
+grinder2.mp4,213,8.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 201, ""y"": 196, ""w"": 181, ""h"": 163, ""area"": 29503.0, ""label"": ""grinder_spark"", ""confidence"": 0.8960296511650085}]"
+grinder2.mp4,214,8.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 186, ""y"": 194, ""w"": 197, ""h"": 164, ""area"": 32308.0, ""label"": ""grinder_spark"", ""confidence"": 0.9126369953155518}]"
+grinder2.mp4,215,8.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 182, ""y"": 195, ""w"": 200, ""h"": 164, ""area"": 32800.0, ""label"": ""grinder_spark"", ""confidence"": 0.916020393371582}]"
+grinder2.mp4,216,8.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 159, ""y"": 193, ""w"": 223, ""h"": 166, ""area"": 37018.0, ""label"": ""grinder_spark"", ""confidence"": 0.9062219858169556}]"
+grinder2.mp4,217,8.68,False,False,no sparks (fire),3,0,"[{""x"": 375, ""y"": 179, ""w"": 125, ""h"": 175, ""area"": 21875.0, ""label"": ""fire"", ""confidence"": 0.8578043580055237}, {""x"": 131, ""y"": 201, ""w"": 243, ""h"": 157, ""area"": 38151.0, ""label"": ""grinder_spark"", ""confidence"": 0.7082403302192688}, {""x"": 372, ""y"": 184, ""w"": 116, ""h"": 174, ""area"": 20184.0, ""label"": ""grinder_spark"", ""confidence"": 0.569849967956543}]"
+grinder2.mp4,218,8.72,False,False,no sparks (grinder_spark),3,0,"[{""x"": 423, ""y"": 172, ""w"": 212, ""h"": 186, ""area"": 39432.0, ""label"": ""grinder_spark"", ""confidence"": 0.6320210695266724}, {""x"": 373, ""y"": 178, ""w"": 123, ""h"": 182, ""area"": 22386.0, ""label"": ""fire"", ""confidence"": 0.4693702757358551}, {""x"": 378, ""y"": 177, ""w"": 130, ""h"": 181, ""area"": 23530.0, ""label"": ""grinder_spark"", ""confidence"": 0.368325799703598}]"
+grinder2.mp4,219,8.76,False,False,no sparks (grinder_spark),2,0,"[{""x"": 402, ""y"": 190, ""w"": 237, ""h"": 168, ""area"": 39816.0, ""label"": ""grinder_spark"", ""confidence"": 0.5986770391464233}, {""x"": 371, ""y"": 175, ""w"": 123, ""h"": 183, ""area"": 22509.0, ""label"": ""grinder_spark"", ""confidence"": 0.4605959951877594}]"
+grinder2.mp4,220,8.8,False,False,no sparks (grinder_spark),4,0,"[{""x"": 97, ""y"": 175, ""w"": 309, ""h"": 183, ""area"": 56547.0, ""label"": ""grinder_spark"", ""confidence"": 0.8057006597518921}, {""x"": 387, ""y"": 170, ""w"": 118, ""h"": 188, ""area"": 22184.0, ""label"": ""grinder_spark"", ""confidence"": 0.6429969668388367}, {""x"": 492, ""y"": 232, ""w"": 133, ""h"": 126, ""area"": 16758.0, ""label"": ""grinder_spark"", ""confidence"": 0.5828263163566589}, {""x"": 370, ""y"": 175, ""w"": 134, ""h"": 184, ""area"": 24656.0, ""label"": ""fire"", ""confidence"": 0.48423051834106445}]"
+grinder2.mp4,221,8.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 133, ""y"": 196, ""w"": 249, ""h"": 163, ""area"": 40587.0, ""label"": ""grinder_spark"", ""confidence"": 0.8668584227561951}]"
+grinder2.mp4,222,8.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 110, ""y"": 194, ""w"": 270, ""h"": 164, ""area"": 44280.0, ""label"": ""grinder_spark"", ""confidence"": 0.8688845038414001}]"
+grinder2.mp4,223,8.92,False,False,no sparks (grinder_spark),2,0,"[{""x"": 389, ""y"": 173, ""w"": 251, ""h"": 185, ""area"": 46435.0, ""label"": ""grinder_spark"", ""confidence"": 0.6361324787139893}, {""x"": 390, ""y"": 175, ""w"": 125, ""h"": 183, ""area"": 22875.0, ""label"": ""grinder_spark"", ""confidence"": 0.29869306087493896}]"
+grinder2.mp4,224,8.96,False,False,no sparks (grinder_spark),2,0,"[{""x"": 499, ""y"": 232, ""w"": 141, ""h"": 127, ""area"": 17907.0, ""label"": ""grinder_spark"", ""confidence"": 0.7103577852249146}, {""x"": 110, ""y"": 183, ""w"": 302, ""h"": 172, ""area"": 51944.0, ""label"": ""grinder_spark"", ""confidence"": 0.562189519405365}]"
+grinder2.mp4,225,9.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 115, ""y"": 188, ""w"": 281, ""h"": 170, ""area"": 47770.0, ""label"": ""grinder_spark"", ""confidence"": 0.8465576767921448}]"
+grinder2.mp4,226,9.04,False,False,no sparks (grinder_spark),2,0,"[{""x"": 119, ""y"": 198, ""w"": 272, ""h"": 160, ""area"": 43520.0, ""label"": ""grinder_spark"", ""confidence"": 0.8367902636528015}, {""x"": 390, ""y"": 188, ""w"": 157, ""h"": 171, ""area"": 26847.0, ""label"": ""grinder_spark"", ""confidence"": 0.801444947719574}]"
+grinder2.mp4,227,9.08,False,False,no sparks (grinder_spark),2,0,"[{""x"": 381, ""y"": 174, ""w"": 176, ""h"": 184, ""area"": 32384.0, ""label"": ""grinder_spark"", ""confidence"": 0.8646993041038513}, {""x"": 112, ""y"": 187, ""w"": 271, ""h"": 171, ""area"": 46341.0, ""label"": ""grinder_spark"", ""confidence"": 0.8546125888824463}]"
+grinder2.mp4,228,9.12,False,False,no sparks (grinder_spark),2,0,"[{""x"": 130, ""y"": 171, ""w"": 291, ""h"": 178, ""area"": 51798.0, ""label"": ""grinder_spark"", ""confidence"": 0.835730254650116}, {""x"": 419, ""y"": 235, ""w"": 208, ""h"": 123, ""area"": 25584.0, ""label"": ""grinder_spark"", ""confidence"": 0.2716430127620697}]"
+grinder2.mp4,229,9.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 403, ""y"": 180, ""w"": 230, ""h"": 178, ""area"": 40940.0, ""label"": ""grinder_spark"", ""confidence"": 0.7488216161727905}]"
+grinder2.mp4,230,9.2,False,False,no sparks,0,0,[]
+grinder2.mp4,231,9.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 379, ""y"": 173, ""w"": 256, ""h"": 185, ""area"": 47360.0, ""label"": ""grinder_spark"", ""confidence"": 0.8054121136665344}]"
+grinder2.mp4,232,9.28,False,False,no sparks (grinder_spark),2,0,"[{""x"": 196, ""y"": 185, ""w"": 197, ""h"": 173, ""area"": 34081.0, ""label"": ""grinder_spark"", ""confidence"": 0.8545700907707214}, {""x"": 389, ""y"": 160, ""w"": 180, ""h"": 198, ""area"": 35640.0, ""label"": ""grinder_spark"", ""confidence"": 0.532468318939209}]"
+grinder2.mp4,233,9.32,False,False,no sparks (grinder_spark),3,0,"[{""x"": 530, ""y"": 256, ""w"": 105, ""h"": 103, ""area"": 10815.0, ""label"": ""grinder_spark"", ""confidence"": 0.865092396736145}, {""x"": 168, ""y"": 175, ""w"": 227, ""h"": 184, ""area"": 41768.0, ""label"": ""grinder_spark"", ""confidence"": 0.8330183625221252}, {""x"": 384, ""y"": 163, ""w"": 164, ""h"": 195, ""area"": 31980.0, ""label"": ""grinder_spark"", ""confidence"": 0.44652751088142395}]"
+grinder2.mp4,234,9.36,False,False,no sparks (grinder_spark),2,0,"[{""x"": 126, ""y"": 173, ""w"": 264, ""h"": 185, ""area"": 48840.0, ""label"": ""grinder_spark"", ""confidence"": 0.8853665590286255}, {""x"": 390, ""y"": 161, ""w"": 193, ""h"": 197, ""area"": 38021.0, ""label"": ""grinder_spark"", ""confidence"": 0.6479846239089966}]"
+grinder2.mp4,235,9.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 86, ""y"": 168, ""w"": 303, ""h"": 190, ""area"": 57570.0, ""label"": ""grinder_spark"", ""confidence"": 0.8994763493537903}]"
+grinder2.mp4,236,9.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 25, ""y"": 162, ""w"": 366, ""h"": 197, ""area"": 72102.0, ""label"": ""grinder_spark"", ""confidence"": 0.8787820935249329}]"
+grinder2.mp4,237,9.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 163, ""w"": 388, ""h"": 187, ""area"": 72556.0, ""label"": ""grinder_spark"", ""confidence"": 0.8856508731842041}]"
+grinder2.mp4,238,9.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 160, ""w"": 386, ""h"": 184, ""area"": 71024.0, ""label"": ""grinder_spark"", ""confidence"": 0.8907373547554016}]"
+grinder2.mp4,239,9.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 158, ""w"": 390, ""h"": 160, ""area"": 62400.0, ""label"": ""grinder_spark"", ""confidence"": 0.8465412259101868}]"
+grinder2.mp4,240,9.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 156, ""w"": 389, ""h"": 146, ""area"": 56794.0, ""label"": ""grinder_spark"", ""confidence"": 0.8740444183349609}]"
+grinder2.mp4,241,9.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 153, ""w"": 398, ""h"": 143, ""area"": 56914.0, ""label"": ""grinder_spark"", ""confidence"": 0.8550102114677429}]"
+grinder2.mp4,242,9.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 150, ""w"": 392, ""h"": 139, ""area"": 54488.0, ""label"": ""grinder_spark"", ""confidence"": 0.8242683410644531}]"
+grinder2.mp4,243,9.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 150, ""w"": 400, ""h"": 110, ""area"": 44000.0, ""label"": ""grinder_spark"", ""confidence"": 0.7984066009521484}]"
+grinder2.mp4,244,9.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 144, ""w"": 387, ""h"": 90, ""area"": 34830.0, ""label"": ""grinder_spark"", ""confidence"": 0.7416991591453552}]"
+grinder2.mp4,245,9.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 145, ""w"": 390, ""h"": 73, ""area"": 28470.0, ""label"": ""grinder_spark"", ""confidence"": 0.7622312307357788}]"
+grinder2.mp4,246,9.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 143, ""w"": 390, ""h"": 65, ""area"": 25350.0, ""label"": ""grinder_spark"", ""confidence"": 0.7338558435440063}]"
+grinder2.mp4,247,9.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 137, ""w"": 390, ""h"": 70, ""area"": 27300.0, ""label"": ""grinder_spark"", ""confidence"": 0.7600247859954834}]"
+grinder2.mp4,248,9.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 131, ""w"": 391, ""h"": 64, ""area"": 25024.0, ""label"": ""grinder_spark"", ""confidence"": 0.7509975433349609}]"
+grinder2.mp4,249,9.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 128, ""w"": 393, ""h"": 60, ""area"": 23580.0, ""label"": ""grinder_spark"", ""confidence"": 0.730604350566864}]"
+grinder2.mp4,250,10.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 115, ""w"": 396, ""h"": 62, ""area"": 24552.0, ""label"": ""grinder_spark"", ""confidence"": 0.6820148229598999}]"
+grinder2.mp4,251,10.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 115, ""w"": 409, ""h"": 62, ""area"": 25358.0, ""label"": ""grinder_spark"", ""confidence"": 0.6879850029945374}]"
+grinder2.mp4,252,10.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 93, ""w"": 389, ""h"": 85, ""area"": 33065.0, ""label"": ""grinder_spark"", ""confidence"": 0.7492877840995789}]"
+grinder2.mp4,253,10.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 58, ""w"": 417, ""h"": 96, ""area"": 40032.0, ""label"": ""grinder_spark"", ""confidence"": 0.8173649311065674}]"
+grinder2.mp4,254,10.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 26, ""w"": 418, ""h"": 123, ""area"": 51414.0, ""label"": ""grinder_spark"", ""confidence"": 0.7779584527015686}]"
+grinder2.mp4,255,10.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 26, ""w"": 428, ""h"": 121, ""area"": 51788.0, ""label"": ""grinder_spark"", ""confidence"": 0.7505636215209961}]"
+grinder2.mp4,256,10.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 24, ""w"": 431, ""h"": 122, ""area"": 52582.0, ""label"": ""grinder_spark"", ""confidence"": 0.7671715617179871}]"
+grinder2.mp4,257,10.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 15, ""w"": 438, ""h"": 132, ""area"": 57816.0, ""label"": ""grinder_spark"", ""confidence"": 0.7575117349624634}]"
+grinder2.mp4,258,10.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 15, ""w"": 438, ""h"": 132, ""area"": 57816.0, ""label"": ""grinder_spark"", ""confidence"": 0.7441512942314148}]"
+grinder2.mp4,259,10.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 6, ""w"": 438, ""h"": 141, ""area"": 61758.0, ""label"": ""grinder_spark"", ""confidence"": 0.7634062767028809}]"
+grinder2.mp4,260,10.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 6, ""w"": 430, ""h"": 143, ""area"": 61490.0, ""label"": ""grinder_spark"", ""confidence"": 0.8044720888137817}]"
+grinder2.mp4,261,10.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 2, ""w"": 425, ""h"": 142, ""area"": 60350.0, ""label"": ""grinder_spark"", ""confidence"": 0.7778124809265137}]"
+grinder2.mp4,262,10.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 12, ""w"": 421, ""h"": 141, ""area"": 59361.0, ""label"": ""grinder_spark"", ""confidence"": 0.7567008137702942}]"
+grinder2.mp4,263,10.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 19, ""w"": 416, ""h"": 145, ""area"": 60320.0, ""label"": ""grinder_spark"", ""confidence"": 0.7725743651390076}]"
+grinder2.mp4,264,10.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 53, ""w"": 411, ""h"": 127, ""area"": 52197.0, ""label"": ""grinder_spark"", ""confidence"": 0.7866309285163879}]"
+grinder2.mp4,265,10.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 73, ""w"": 411, ""h"": 130, ""area"": 53430.0, ""label"": ""grinder_spark"", ""confidence"": 0.7411997318267822}]"
+grinder2.mp4,266,10.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 109, ""w"": 393, ""h"": 103, ""area"": 40479.0, ""label"": ""grinder_spark"", ""confidence"": 0.7318699359893799}]"
+grinder2.mp4,267,10.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 134, ""w"": 391, ""h"": 84, ""area"": 32844.0, ""label"": ""grinder_spark"", ""confidence"": 0.7802947163581848}]"
+grinder2.mp4,268,10.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 137, ""w"": 390, ""h"": 138, ""area"": 53820.0, ""label"": ""grinder_spark"", ""confidence"": 0.8114117980003357}]"
+grinder2.mp4,269,10.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 148, ""w"": 414, ""h"": 144, ""area"": 59616.0, ""label"": ""grinder_spark"", ""confidence"": 0.8101481795310974}]"
+grinder2.mp4,270,10.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 155, ""w"": 411, ""h"": 158, ""area"": 64938.0, ""label"": ""grinder_spark"", ""confidence"": 0.8882400989532471}]"
+grinder2.mp4,271,10.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 157, ""w"": 416, ""h"": 195, ""area"": 81120.0, ""label"": ""grinder_spark"", ""confidence"": 0.8927693367004395}]"
+grinder2.mp4,272,10.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 17, ""y"": 160, ""w"": 409, ""h"": 197, ""area"": 80573.0, ""label"": ""grinder_spark"", ""confidence"": 0.8522750735282898}]"
+grinder2.mp4,273,10.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 57, ""y"": 162, ""w"": 406, ""h"": 196, ""area"": 79576.0, ""label"": ""grinder_spark"", ""confidence"": 0.8546042442321777}]"
+grinder2.mp4,274,10.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 117, ""y"": 168, ""w"": 290, ""h"": 190, ""area"": 55100.0, ""label"": ""grinder_spark"", ""confidence"": 0.8262602686882019}]"
+grinder2.mp4,275,11.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 379, ""y"": 170, ""w"": 112, ""h"": 188, ""area"": 21056.0, ""label"": ""grinder_spark"", ""confidence"": 0.6653231978416443}]"
+grinder2.mp4,276,11.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 68, ""y"": 195, ""w"": 310, ""h"": 164, ""area"": 50840.0, ""label"": ""grinder_spark"", ""confidence"": 0.8800132274627686}]"
+grinder2.mp4,277,11.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 103, ""y"": 200, ""w"": 279, ""h"": 160, ""area"": 44640.0, ""label"": ""grinder_spark"", ""confidence"": 0.8923791646957397}]"
+grinder2.mp4,278,11.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 132, ""y"": 201, ""w"": 249, ""h"": 159, ""area"": 39591.0, ""label"": ""grinder_spark"", ""confidence"": 0.8884168863296509}]"
+grinder2.mp4,279,11.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 111, ""y"": 201, ""w"": 270, ""h"": 159, ""area"": 42930.0, ""label"": ""grinder_spark"", ""confidence"": 0.8962854743003845}]"
+grinder2.mp4,280,11.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 108, ""y"": 199, ""w"": 275, ""h"": 161, ""area"": 44275.0, ""label"": ""grinder_spark"", ""confidence"": 0.9019318222999573}]"
+grinder2.mp4,281,11.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 121, ""y"": 200, ""w"": 261, ""h"": 160, ""area"": 41760.0, ""label"": ""grinder_spark"", ""confidence"": 0.8660245537757874}]"
+grinder2.mp4,282,11.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 102, ""y"": 199, ""w"": 282, ""h"": 161, ""area"": 45402.0, ""label"": ""grinder_spark"", ""confidence"": 0.9021167755126953}]"
+grinder2.mp4,283,11.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 122, ""y"": 201, ""w"": 260, ""h"": 158, ""area"": 41080.0, ""label"": ""grinder_spark"", ""confidence"": 0.8890891671180725}]"
+grinder2.mp4,284,11.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 145, ""y"": 200, ""w"": 239, ""h"": 160, ""area"": 38240.0, ""label"": ""grinder_spark"", ""confidence"": 0.8913477063179016}]"
+grinder2.mp4,285,11.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 150, ""y"": 202, ""w"": 230, ""h"": 158, ""area"": 36340.0, ""label"": ""grinder_spark"", ""confidence"": 0.8905606269836426}]"
+grinder2.mp4,286,11.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 164, ""y"": 201, ""w"": 217, ""h"": 158, ""area"": 34286.0, ""label"": ""grinder_spark"", ""confidence"": 0.8999027609825134}]"
+grinder2.mp4,287,11.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 160, ""y"": 201, ""w"": 222, ""h"": 157, ""area"": 34854.0, ""label"": ""grinder_spark"", ""confidence"": 0.8964150547981262}]"
+grinder2.mp4,288,11.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 165, ""y"": 202, ""w"": 218, ""h"": 156, ""area"": 34008.0, ""label"": ""grinder_spark"", ""confidence"": 0.89668208360672}]"
+grinder2.mp4,289,11.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 178, ""y"": 204, ""w"": 204, ""h"": 154, ""area"": 31416.0, ""label"": ""grinder_spark"", ""confidence"": 0.9076711535453796}]"
+grinder2.mp4,290,11.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 213, ""y"": 205, ""w"": 168, ""h"": 155, ""area"": 26040.0, ""label"": ""grinder_spark"", ""confidence"": 0.890315592288971}]"
+grinder2.mp4,291,11.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 212, ""y"": 205, ""w"": 170, ""h"": 154, ""area"": 26180.0, ""label"": ""grinder_spark"", ""confidence"": 0.8911832571029663}]"
+grinder2.mp4,292,11.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 222, ""y"": 207, ""w"": 160, ""h"": 152, ""area"": 24320.0, ""label"": ""grinder_spark"", ""confidence"": 0.8888620734214783}]"
+grinder2.mp4,293,11.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 209, ""y"": 207, ""w"": 173, ""h"": 152, ""area"": 26296.0, ""label"": ""grinder_spark"", ""confidence"": 0.8956608176231384}]"
+grinder2.mp4,294,11.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 225, ""y"": 208, ""w"": 158, ""h"": 151, ""area"": 23858.0, ""label"": ""grinder_spark"", ""confidence"": 0.8857981562614441}]"
+grinder2.mp4,295,11.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 222, ""y"": 208, ""w"": 161, ""h"": 151, ""area"": 24311.0, ""label"": ""grinder_spark"", ""confidence"": 0.8931028842926025}]"
+grinder2.mp4,296,11.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 229, ""y"": 208, ""w"": 154, ""h"": 151, ""area"": 23254.0, ""label"": ""grinder_spark"", ""confidence"": 0.8842151165008545}]"
+grinder2.mp4,297,11.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 218, ""y"": 208, ""w"": 165, ""h"": 150, ""area"": 24750.0, ""label"": ""grinder_spark"", ""confidence"": 0.887691080570221}]"
+grinder2.mp4,298,11.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 230, ""y"": 207, ""w"": 153, ""h"": 151, ""area"": 23103.0, ""label"": ""grinder_spark"", ""confidence"": 0.876839280128479}]"
+grinder2.mp4,299,11.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 238, ""y"": 208, ""w"": 148, ""h"": 152, ""area"": 22496.0, ""label"": ""grinder_spark"", ""confidence"": 0.8882142305374146}]"
+grinder2.mp4,300,12.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 273, ""y"": 210, ""w"": 112, ""h"": 150, ""area"": 16800.0, ""label"": ""grinder_spark"", ""confidence"": 0.9039664268493652}]"
+grinder2.mp4,301,12.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 269, ""y"": 212, ""w"": 118, ""h"": 148, ""area"": 17464.0, ""label"": ""grinder_spark"", ""confidence"": 0.8982102274894714}]"
+grinder2.mp4,302,12.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 286, ""y"": 213, ""w"": 102, ""h"": 147, ""area"": 14994.0, ""label"": ""grinder_spark"", ""confidence"": 0.9093876481056213}]"
+grinder2.mp4,303,12.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 294, ""y"": 217, ""w"": 99, ""h"": 143, ""area"": 14157.0, ""label"": ""grinder_spark"", ""confidence"": 0.8748754858970642}]"
+grinder2.mp4,304,12.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 285, ""y"": 217, ""w"": 106, ""h"": 143, ""area"": 15158.0, ""label"": ""grinder_spark"", ""confidence"": 0.8839920163154602}]"
+grinder2.mp4,305,12.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 301, ""y"": 220, ""w"": 93, ""h"": 140, ""area"": 13020.0, ""label"": ""grinder_spark"", ""confidence"": 0.9114845395088196}]"
+grinder2.mp4,306,12.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 315, ""y"": 222, ""w"": 81, ""h"": 138, ""area"": 11178.0, ""label"": ""grinder_spark"", ""confidence"": 0.8692019581794739}]"
+grinder2.mp4,307,12.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 320, ""y"": 222, ""w"": 78, ""h"": 138, ""area"": 10764.0, ""label"": ""grinder_spark"", ""confidence"": 0.8795814514160156}]"
+grinder2.mp4,308,12.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 323, ""y"": 227, ""w"": 76, ""h"": 133, ""area"": 10108.0, ""label"": ""grinder_spark"", ""confidence"": 0.8820080161094666}]"
+grinder2.mp4,309,12.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 330, ""y"": 229, ""w"": 71, ""h"": 131, ""area"": 9301.0, ""label"": ""grinder_spark"", ""confidence"": 0.8659814596176147}]"
+grinder2.mp4,310,12.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 326, ""y"": 228, ""w"": 74, ""h"": 132, ""area"": 9768.0, ""label"": ""grinder_spark"", ""confidence"": 0.864816427230835}]"
+grinder2.mp4,311,12.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 284, ""y"": 189, ""w"": 90, ""h"": 94, ""area"": 8460.0, ""label"": ""grinder_spark"", ""confidence"": 0.8318914771080017}]"
+grinder2.mp4,312,12.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 287, ""y"": 188, ""w"": 84, ""h"": 111, ""area"": 9324.0, ""label"": ""grinder_spark"", ""confidence"": 0.9045274257659912}]"
+grinder2.mp4,313,12.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 281, ""y"": 188, ""w"": 89, ""h"": 130, ""area"": 11570.0, ""label"": ""grinder_spark"", ""confidence"": 0.8881637454032898}]"
+grinder2.mp4,314,12.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 291, ""y"": 187, ""w"": 77, ""h"": 141, ""area"": 10857.0, ""label"": ""grinder_spark"", ""confidence"": 0.8808174133300781}]"
+grinder2.mp4,315,12.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 283, ""y"": 187, ""w"": 84, ""h"": 138, ""area"": 11592.0, ""label"": ""grinder_spark"", ""confidence"": 0.8985297083854675}]"
+grinder2.mp4,316,12.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 285, ""y"": 187, ""w"": 83, ""h"": 144, ""area"": 11952.0, ""label"": ""grinder_spark"", ""confidence"": 0.8869848847389221}]"
+grinder2.mp4,317,12.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 286, ""y"": 185, ""w"": 81, ""h"": 151, ""area"": 12231.0, ""label"": ""grinder_spark"", ""confidence"": 0.8804839253425598}]"
+grinder2.mp4,318,12.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 288, ""y"": 184, ""w"": 79, ""h"": 155, ""area"": 12245.0, ""label"": ""grinder_spark"", ""confidence"": 0.870651125907898}]"
+grinder2.mp4,319,12.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 302, ""y"": 186, ""w"": 64, ""h"": 152, ""area"": 9728.0, ""label"": ""grinder_spark"", ""confidence"": 0.8238230347633362}]"
+grinder2.mp4,320,12.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 302, ""y"": 185, ""w"": 66, ""h"": 146, ""area"": 9636.0, ""label"": ""grinder_spark"", ""confidence"": 0.8301025629043579}]"
+grinder2.mp4,321,12.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 309, ""y"": 185, ""w"": 59, ""h"": 143, ""area"": 8437.0, ""label"": ""grinder_spark"", ""confidence"": 0.8003997802734375}]"
+grinder2.mp4,322,12.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 318, ""y"": 186, ""w"": 50, ""h"": 140, ""area"": 7000.0, ""label"": ""grinder_spark"", ""confidence"": 0.792622447013855}]"
+grinder2.mp4,323,12.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 309, ""y"": 185, ""w"": 61, ""h"": 138, ""area"": 8418.0, ""label"": ""grinder_spark"", ""confidence"": 0.8445585370063782}]"
+grinder2.mp4,324,12.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 334, ""y"": 186, ""w"": 39, ""h"": 129, ""area"": 5031.0, ""label"": ""grinder_spark"", ""confidence"": 0.7920480370521545}]"
+grinder2.mp4,325,13.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 339, ""y"": 184, ""w"": 41, ""h"": 127, ""area"": 5207.0, ""label"": ""grinder_spark"", ""confidence"": 0.7306952476501465}]"
+grinder2.mp4,326,13.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 343, ""y"": 184, ""w"": 33, ""h"": 124, ""area"": 4092.0, ""label"": ""grinder_spark"", ""confidence"": 0.69029301404953}]"
+grinder2.mp4,327,13.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 336, ""y"": 184, ""w"": 41, ""h"": 121, ""area"": 4961.0, ""label"": ""grinder_spark"", ""confidence"": 0.854276716709137}]"
+grinder2.mp4,328,13.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 345, ""y"": 186, ""w"": 38, ""h"": 114, ""area"": 4332.0, ""label"": ""grinder_spark"", ""confidence"": 0.7905080318450928}]"
+grinder2.mp4,329,13.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 338, ""y"": 185, ""w"": 44, ""h"": 114, ""area"": 5016.0, ""label"": ""grinder_spark"", ""confidence"": 0.7745205760002136}]"
+grinder2.mp4,330,13.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 343, ""y"": 185, ""w"": 33, ""h"": 115, ""area"": 3795.0, ""label"": ""grinder_spark"", ""confidence"": 0.6916959881782532}]"
+grinder2.mp4,331,13.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 337, ""y"": 183, ""w"": 41, ""h"": 122, ""area"": 5002.0, ""label"": ""grinder_spark"", ""confidence"": 0.8058332204818726}]"
+grinder2.mp4,332,13.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 318, ""y"": 183, ""w"": 62, ""h"": 121, ""area"": 7502.0, ""label"": ""grinder_spark"", ""confidence"": 0.7280389666557312}]"
+grinder2.mp4,333,13.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 339, ""y"": 185, ""w"": 30, ""h"": 117, ""area"": 3510.0, ""label"": ""grinder_spark"", ""confidence"": 0.7360403537750244}]"
+grinder2.mp4,334,13.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 335, ""y"": 185, ""w"": 34, ""h"": 121, ""area"": 4114.0, ""label"": ""grinder_spark"", ""confidence"": 0.8012591004371643}]"
+grinder2.mp4,335,13.4,False,False,no sparks (grinder_spark),2,0,"[{""x"": 335, ""y"": 185, ""w"": 34, ""h"": 121, ""area"": 4114.0, ""label"": ""grinder_spark"", ""confidence"": 0.768884539604187}, {""x"": 205, ""y"": 34, ""w"": 50, ""h"": 64, ""area"": 3200.0, ""label"": ""grinder_spark"", ""confidence"": 0.6156964302062988}]"
+grinder2.mp4,336,13.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 329, ""y"": 183, ""w"": 39, ""h"": 124, ""area"": 4836.0, ""label"": ""grinder_spark"", ""confidence"": 0.7915496230125427}]"
+grinder2.mp4,337,13.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 340, ""y"": 181, ""w"": 32, ""h"": 120, ""area"": 3840.0, ""label"": ""grinder_spark"", ""confidence"": 0.7098495364189148}]"
+grinder2.mp4,338,13.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 337, ""y"": 180, ""w"": 33, ""h"": 122, ""area"": 4026.0, ""label"": ""grinder_spark"", ""confidence"": 0.7802348732948303}]"
+grinder2.mp4,339,13.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 334, ""y"": 183, ""w"": 32, ""h"": 118, ""area"": 3776.0, ""label"": ""grinder_spark"", ""confidence"": 0.7636706829071045}]"
+grinder2.mp4,340,13.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 337, ""y"": 181, ""w"": 38, ""h"": 121, ""area"": 4598.0, ""label"": ""grinder_spark"", ""confidence"": 0.770668625831604}]"
+grinder2.mp4,341,13.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 335, ""y"": 181, ""w"": 32, ""h"": 118, ""area"": 3776.0, ""label"": ""grinder_spark"", ""confidence"": 0.7332574129104614}]"
+grinder2.mp4,342,13.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 320, ""y"": 182, ""w"": 56, ""h"": 120, ""area"": 6720.0, ""label"": ""grinder_spark"", ""confidence"": 0.7962037324905396}]"
+grinder2.mp4,343,13.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 334, ""y"": 184, ""w"": 33, ""h"": 119, ""area"": 3927.0, ""label"": ""grinder_spark"", ""confidence"": 0.7854887843132019}]"
+grinder2.mp4,344,13.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 336, ""y"": 183, ""w"": 38, ""h"": 122, ""area"": 4636.0, ""label"": ""grinder_spark"", ""confidence"": 0.8240771889686584}]"
+grinder2.mp4,345,13.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 328, ""y"": 183, ""w"": 37, ""h"": 121, ""area"": 4477.0, ""label"": ""grinder_spark"", ""confidence"": 0.8079243302345276}]"
+grinder2.mp4,346,13.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 321, ""y"": 182, ""w"": 44, ""h"": 124, ""area"": 5456.0, ""label"": ""grinder_spark"", ""confidence"": 0.741517961025238}]"
+grinder2.mp4,347,13.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 334, ""y"": 181, ""w"": 30, ""h"": 122, ""area"": 3660.0, ""label"": ""grinder_spark"", ""confidence"": 0.7380651831626892}]"
+grinder2.mp4,348,13.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 323, ""y"": 182, ""w"": 49, ""h"": 125, ""area"": 6125.0, ""label"": ""grinder_spark"", ""confidence"": 0.8260999321937561}]"
+grinder2.mp4,349,13.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 329, ""y"": 182, ""w"": 33, ""h"": 124, ""area"": 4092.0, ""label"": ""grinder_spark"", ""confidence"": 0.7591386437416077}]"
+grinder2.mp4,350,14.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 326, ""y"": 181, ""w"": 38, ""h"": 127, ""area"": 4826.0, ""label"": ""grinder_spark"", ""confidence"": 0.7622684240341187}]"
+grinder2.mp4,351,14.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 327, ""y"": 183, ""w"": 35, ""h"": 125, ""area"": 4375.0, ""label"": ""grinder_spark"", ""confidence"": 0.7121850252151489}]"
+grinder2.mp4,352,14.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 323, ""y"": 182, ""w"": 34, ""h"": 126, ""area"": 4284.0, ""label"": ""grinder_spark"", ""confidence"": 0.7617298364639282}]"
+grinder2.mp4,353,14.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 325, ""y"": 183, ""w"": 33, ""h"": 123, ""area"": 4059.0, ""label"": ""grinder_spark"", ""confidence"": 0.6940538883209229}]"
+grinder2.mp4,354,14.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 323, ""y"": 183, ""w"": 34, ""h"": 123, ""area"": 4182.0, ""label"": ""grinder_spark"", ""confidence"": 0.7585957646369934}]"
+grinder2.mp4,355,14.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 329, ""y"": 182, ""w"": 40, ""h"": 124, ""area"": 4960.0, ""label"": ""grinder_spark"", ""confidence"": 0.8136378526687622}]"
+grinder2.mp4,356,14.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 326, ""y"": 180, ""w"": 31, ""h"": 123, ""area"": 3813.0, ""label"": ""grinder_spark"", ""confidence"": 0.7335076332092285}]"
+grinder2.mp4,357,14.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 331, ""y"": 182, ""w"": 29, ""h"": 118, ""area"": 3422.0, ""label"": ""grinder_spark"", ""confidence"": 0.6916759014129639}]"
+grinder2.mp4,358,14.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 302, ""y"": 181, ""w"": 55, ""h"": 117, ""area"": 6435.0, ""label"": ""grinder_spark"", ""confidence"": 0.8216001391410828}]"
+grinder2.mp4,359,14.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 303, ""y"": 181, ""w"": 72, ""h"": 116, ""area"": 8352.0, ""label"": ""grinder_spark"", ""confidence"": 0.8496401906013489}]"
+grinder2.mp4,360,14.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 333, ""y"": 182, ""w"": 39, ""h"": 109, ""area"": 4251.0, ""label"": ""grinder_spark"", ""confidence"": 0.7869577407836914}]"
+grinder2.mp4,361,14.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 315, ""y"": 181, ""w"": 51, ""h"": 105, ""area"": 5355.0, ""label"": ""grinder_spark"", ""confidence"": 0.805112898349762}]"
+grinder2.mp4,362,14.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 335, ""y"": 183, ""w"": 27, ""h"": 98, ""area"": 2646.0, ""label"": ""grinder_spark"", ""confidence"": 0.72324538230896}]"
+grinder2.mp4,363,14.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 335, ""y"": 183, ""w"": 33, ""h"": 98, ""area"": 3234.0, ""label"": ""grinder_spark"", ""confidence"": 0.7273299098014832}]"
+grinder2.mp4,364,14.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 340, ""y"": 184, ""w"": 26, ""h"": 90, ""area"": 2340.0, ""label"": ""grinder_spark"", ""confidence"": 0.713917076587677}]"
+grinder2.mp4,365,14.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 344, ""y"": 184, ""w"": 27, ""h"": 87, ""area"": 2349.0, ""label"": ""grinder_spark"", ""confidence"": 0.7356882095336914}]"
+grinder2.mp4,366,14.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 347, ""y"": 187, ""w"": 31, ""h"": 81, ""area"": 2511.0, ""label"": ""grinder_spark"", ""confidence"": 0.828560471534729}]"
+grinder2.mp4,367,14.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 350, ""y"": 188, ""w"": 27, ""h"": 78, ""area"": 2106.0, ""label"": ""grinder_spark"", ""confidence"": 0.7950807213783264}]"
+grinder2.mp4,368,14.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 351, ""y"": 188, ""w"": 24, ""h"": 75, ""area"": 1800.0, ""label"": ""grinder_spark"", ""confidence"": 0.7180984020233154}]"
+grinder2.mp4,369,14.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 351, ""y"": 187, ""w"": 26, ""h"": 73, ""area"": 1898.0, ""label"": ""grinder_spark"", ""confidence"": 0.7467464804649353}]"
+grinder2.mp4,370,14.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 355, ""y"": 189, ""w"": 25, ""h"": 67, ""area"": 1675.0, ""label"": ""grinder_spark"", ""confidence"": 0.8179974555969238}]"
+grinder2.mp4,371,14.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 354, ""y"": 191, ""w"": 27, ""h"": 65, ""area"": 1755.0, ""label"": ""grinder_spark"", ""confidence"": 0.8191329836845398}]"
+grinder2.mp4,372,14.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 358, ""y"": 191, ""w"": 22, ""h"": 62, ""area"": 1364.0, ""label"": ""grinder_spark"", ""confidence"": 0.7800849676132202}]"
+grinder2.mp4,373,14.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 359, ""y"": 193, ""w"": 21, ""h"": 58, ""area"": 1218.0, ""label"": ""grinder_spark"", ""confidence"": 0.693946361541748}]"
+grinder2.mp4,374,14.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 359, ""y"": 196, ""w"": 24, ""h"": 53, ""area"": 1272.0, ""label"": ""grinder_spark"", ""confidence"": 0.8968529105186462}]"
+grinder2.mp4,375,15.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 363, ""y"": 182, ""w"": 20, ""h"": 62, ""area"": 1240.0, ""label"": ""grinder_spark"", ""confidence"": 0.5499526262283325}]"
+grinder2.mp4,376,15.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 364, ""y"": 199, ""w"": 17, ""h"": 42, ""area"": 714.0, ""label"": ""grinder_spark"", ""confidence"": 0.767901599407196}]"
+grinder2.mp4,377,15.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 364, ""y"": 175, ""w"": 21, ""h"": 68, ""area"": 1428.0, ""label"": ""grinder_spark"", ""confidence"": 0.7329711318016052}]"
+grinder2.mp4,378,15.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 368, ""y"": 173, ""w"": 20, ""h"": 67, ""area"": 1340.0, ""label"": ""grinder_spark"", ""confidence"": 0.7754162549972534}]"
+grinder2.mp4,379,15.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 368, ""y"": 175, ""w"": 15, ""h"": 60, ""area"": 900.0, ""label"": ""grinder_spark"", ""confidence"": 0.27501222491264343}]"
+grinder2.mp4,380,15.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 367, ""y"": 181, ""w"": 17, ""h"": 52, ""area"": 884.0, ""label"": ""grinder_spark"", ""confidence"": 0.6904183626174927}]"
+grinder2.mp4,381,15.24,False,False,no sparks,0,0,[]
+grinder2.mp4,382,15.28,False,False,no sparks,0,0,[]
+grinder2.mp4,383,15.32,False,False,no sparks,0,0,[]
+grinder2.mp4,384,15.36,False,False,no sparks,0,0,[]
+grinder2.mp4,385,15.4,False,False,no sparks,0,0,[]
+grinder2.mp4,386,15.44,False,False,no sparks,0,0,[]
+grinder2.mp4,387,15.48,False,False,no sparks,0,0,[]
+grinder2.mp4,388,15.52,False,False,no sparks,0,0,[]
+grinder2.mp4,389,15.56,False,False,no sparks,0,0,[]
+grinder2.mp4,390,15.6,False,False,no sparks,0,0,[]
+grinder2.mp4,391,15.64,False,False,no sparks,0,0,[]
+grinder2.mp4,392,15.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 364, ""y"": 191, ""w"": 13, ""h"": 45, ""area"": 585.0, ""label"": ""grinder_spark"", ""confidence"": 0.37670090794563293}]"
+grinder2.mp4,393,15.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 364, ""y"": 195, ""w"": 13, ""h"": 43, ""area"": 559.0, ""label"": ""grinder_spark"", ""confidence"": 0.33062535524368286}]"
+grinder2.mp4,394,15.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 361, ""y"": 192, ""w"": 16, ""h"": 48, ""area"": 768.0, ""label"": ""grinder_spark"", ""confidence"": 0.7838994264602661}]"
+grinder2.mp4,395,15.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 358, ""y"": 193, ""w"": 19, ""h"": 47, ""area"": 893.0, ""label"": ""grinder_spark"", ""confidence"": 0.8529456853866577}]"
+grinder2.mp4,396,15.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 358, ""y"": 197, ""w"": 17, ""h"": 44, ""area"": 748.0, ""label"": ""grinder_spark"", ""confidence"": 0.8892742991447449}]"
+grinder2.mp4,397,15.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 357, ""y"": 195, ""w"": 20, ""h"": 48, ""area"": 960.0, ""label"": ""grinder_spark"", ""confidence"": 0.8624359369277954}]"
+grinder2.mp4,398,15.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 357, ""y"": 193, ""w"": 20, ""h"": 55, ""area"": 1100.0, ""label"": ""grinder_spark"", ""confidence"": 0.8307167887687683}]"
+grinder2.mp4,399,15.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 356, ""y"": 193, ""w"": 21, ""h"": 57, ""area"": 1197.0, ""label"": ""grinder_spark"", ""confidence"": 0.8112960457801819}]"
+grinder2.mp4,400,16.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 354, ""y"": 192, ""w"": 23, ""h"": 60, ""area"": 1380.0, ""label"": ""grinder_spark"", ""confidence"": 0.838546097278595}]"
+grinder2.mp4,401,16.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 353, ""y"": 191, ""w"": 25, ""h"": 65, ""area"": 1625.0, ""label"": ""grinder_spark"", ""confidence"": 0.7504934668540955}]"
+grinder2.mp4,402,16.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 348, ""y"": 189, ""w"": 29, ""h"": 71, ""area"": 2059.0, ""label"": ""grinder_spark"", ""confidence"": 0.8168661594390869}]"
+grinder2.mp4,403,16.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 350, ""y"": 189, ""w"": 27, ""h"": 75, ""area"": 2025.0, ""label"": ""grinder_spark"", ""confidence"": 0.818859338760376}]"
+grinder2.mp4,404,16.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 341, ""y"": 189, ""w"": 36, ""h"": 80, ""area"": 2880.0, ""label"": ""grinder_spark"", ""confidence"": 0.8403337597846985}]"
+grinder2.mp4,405,16.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 342, ""y"": 189, ""w"": 36, ""h"": 85, ""area"": 3060.0, ""label"": ""grinder_spark"", ""confidence"": 0.8197066187858582}]"
+grinder2.mp4,406,16.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 337, ""y"": 188, ""w"": 41, ""h"": 90, ""area"": 3690.0, ""label"": ""grinder_spark"", ""confidence"": 0.8346662521362305}]"
+grinder2.mp4,407,16.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 343, ""y"": 188, ""w"": 33, ""h"": 95, ""area"": 3135.0, ""label"": ""grinder_spark"", ""confidence"": 0.7653545141220093}]"
+grinder2.mp4,408,16.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 326, ""y"": 188, ""w"": 46, ""h"": 96, ""area"": 4416.0, ""label"": ""grinder_spark"", ""confidence"": 0.855630099773407}]"
+grinder2.mp4,409,16.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 332, ""y"": 188, ""w"": 40, ""h"": 102, ""area"": 4080.0, ""label"": ""grinder_spark"", ""confidence"": 0.842709481716156}]"
+grinder2.mp4,410,16.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 334, ""y"": 189, ""w"": 36, ""h"": 102, ""area"": 3672.0, ""label"": ""grinder_spark"", ""confidence"": 0.7985108494758606}]"
+grinder2.mp4,411,16.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 326, ""y"": 188, ""w"": 44, ""h"": 108, ""area"": 4752.0, ""label"": ""grinder_spark"", ""confidence"": 0.8126534819602966}]"
+grinder2.mp4,412,16.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 335, ""y"": 188, ""w"": 35, ""h"": 107, ""area"": 3745.0, ""label"": ""grinder_spark"", ""confidence"": 0.7859457731246948}]"
+grinder2.mp4,413,16.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 334, ""y"": 189, ""w"": 36, ""h"": 105, ""area"": 3780.0, ""label"": ""grinder_spark"", ""confidence"": 0.7820497155189514}]"
+grinder2.mp4,414,16.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 332, ""y"": 189, ""w"": 38, ""h"": 105, ""area"": 3990.0, ""label"": ""grinder_spark"", ""confidence"": 0.7929932475090027}]"
+grinder2.mp4,415,16.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 336, ""y"": 189, ""w"": 31, ""h"": 104, ""area"": 3224.0, ""label"": ""grinder_spark"", ""confidence"": 0.767123818397522}]"
+grinder2.mp4,416,16.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 333, ""y"": 190, ""w"": 38, ""h"": 105, ""area"": 3990.0, ""label"": ""grinder_spark"", ""confidence"": 0.8260940909385681}]"
+grinder2.mp4,417,16.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 340, ""y"": 190, ""w"": 31, ""h"": 107, ""area"": 3317.0, ""label"": ""grinder_spark"", ""confidence"": 0.6976796388626099}]"
+grinder2.mp4,418,16.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 333, ""y"": 189, ""w"": 39, ""h"": 107, ""area"": 4173.0, ""label"": ""grinder_spark"", ""confidence"": 0.8140500783920288}]"
+grinder2.mp4,419,16.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 326, ""y"": 190, ""w"": 45, ""h"": 108, ""area"": 4860.0, ""label"": ""grinder_spark"", ""confidence"": 0.7806490659713745}]"
+grinder2.mp4,420,16.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 331, ""y"": 190, ""w"": 39, ""h"": 109, ""area"": 4251.0, ""label"": ""grinder_spark"", ""confidence"": 0.8392605185508728}]"
+grinder2.mp4,421,16.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 326, ""y"": 188, ""w"": 43, ""h"": 115, ""area"": 4945.0, ""label"": ""grinder_spark"", ""confidence"": 0.8338820338249207}]"
+grinder2.mp4,422,16.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 326, ""y"": 189, ""w"": 42, ""h"": 116, ""area"": 4872.0, ""label"": ""grinder_spark"", ""confidence"": 0.8062307238578796}]"
+grinder2.mp4,423,16.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 319, ""y"": 190, ""w"": 43, ""h"": 117, ""area"": 5031.0, ""label"": ""grinder_spark"", ""confidence"": 0.8162983059883118}]"
+grinder2.mp4,424,16.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 318, ""y"": 189, ""w"": 43, ""h"": 123, ""area"": 5289.0, ""label"": ""grinder_spark"", ""confidence"": 0.8000329732894897}]"
+grinder2.mp4,425,17.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 315, ""y"": 189, ""w"": 43, ""h"": 122, ""area"": 5246.0, ""label"": ""grinder_spark"", ""confidence"": 0.7959105968475342}]"
+grinder2.mp4,426,17.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 309, ""y"": 188, ""w"": 46, ""h"": 124, ""area"": 5704.0, ""label"": ""grinder_spark"", ""confidence"": 0.792019784450531}]"
+grinder2.mp4,427,17.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 308, ""y"": 188, ""w"": 40, ""h"": 125, ""area"": 5000.0, ""label"": ""grinder_spark"", ""confidence"": 0.6601397395133972}]"
+grinder2.mp4,428,17.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 304, ""y"": 188, ""w"": 36, ""h"": 124, ""area"": 4464.0, ""label"": ""grinder_spark"", ""confidence"": 0.7542662024497986}]"
+grinder2.mp4,429,17.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 305, ""y"": 188, ""w"": 33, ""h"": 124, ""area"": 4092.0, ""label"": ""grinder_spark"", ""confidence"": 0.7295951247215271}]"
+grinder2.mp4,430,17.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 299, ""y"": 188, ""w"": 38, ""h"": 124, ""area"": 4712.0, ""label"": ""grinder_spark"", ""confidence"": 0.7351292371749878}]"
+grinder2.mp4,431,17.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 302, ""y"": 188, ""w"": 31, ""h"": 125, ""area"": 3875.0, ""label"": ""grinder_spark"", ""confidence"": 0.6814213991165161}]"
+grinder2.mp4,432,17.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 301, ""y"": 187, ""w"": 32, ""h"": 124, ""area"": 3968.0, ""label"": ""grinder_spark"", ""confidence"": 0.6842313408851624}]"
+grinder2.mp4,433,17.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 302, ""y"": 188, ""w"": 30, ""h"": 125, ""area"": 3750.0, ""label"": ""grinder_spark"", ""confidence"": 0.6189613342285156}]"
+grinder2.mp4,434,17.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 297, ""y"": 188, ""w"": 35, ""h"": 125, ""area"": 4375.0, ""label"": ""grinder_spark"", ""confidence"": 0.6563729643821716}]"
+grinder2.mp4,435,17.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 295, ""y"": 188, ""w"": 37, ""h"": 125, ""area"": 4625.0, ""label"": ""grinder_spark"", ""confidence"": 0.6609345078468323}]"
+grinder2.mp4,436,17.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 294, ""y"": 188, ""w"": 37, ""h"": 125, ""area"": 4625.0, ""label"": ""grinder_spark"", ""confidence"": 0.6380459666252136}]"
+grinder2.mp4,437,17.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 294, ""y"": 189, ""w"": 33, ""h"": 123, ""area"": 4059.0, ""label"": ""grinder_spark"", ""confidence"": 0.6506929993629456}]"
+grinder2.mp4,438,17.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 292, ""y"": 189, ""w"": 40, ""h"": 123, ""area"": 4920.0, ""label"": ""grinder_spark"", ""confidence"": 0.7081335186958313}]"
+grinder2.mp4,439,17.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 300, ""y"": 190, ""w"": 30, ""h"": 124, ""area"": 3720.0, ""label"": ""grinder_spark"", ""confidence"": 0.6433398723602295}]"
+grinder2.mp4,440,17.6,False,False,no sparks,0,0,[]
+grinder2.mp4,441,17.64,False,False,no sparks,0,0,[]
+grinder2.mp4,442,17.68,False,False,no sparks,0,0,[]
+grinder2.mp4,443,17.72,False,False,no sparks,0,0,[]
+grinder2.mp4,444,17.76,False,False,no sparks,0,0,[]
+grinder2.mp4,445,17.8,False,False,no sparks,0,0,[]
+grinder2.mp4,446,17.84,False,False,no sparks,0,0,[]
+grinder2.mp4,447,17.88,False,False,no sparks,0,0,[]
+grinder2.mp4,448,17.92,False,False,no sparks,0,0,[]
+grinder2.mp4,449,17.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 265, ""y"": 197, ""w"": 44, ""h"": 79, ""area"": 3476.0, ""label"": ""grinder_spark"", ""confidence"": 0.6851849555969238}]"
+grinder2.mp4,450,18.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 263, ""y"": 198, ""w"": 45, ""h"": 77, ""area"": 3465.0, ""label"": ""grinder_spark"", ""confidence"": 0.878845751285553}]"
+grinder2.mp4,451,18.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 266, ""y"": 200, ""w"": 42, ""h"": 80, ""area"": 3360.0, ""label"": ""grinder_spark"", ""confidence"": 0.8490882515907288}]"
+grinder2.mp4,452,18.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 265, ""y"": 199, ""w"": 44, ""h"": 83, ""area"": 3652.0, ""label"": ""grinder_spark"", ""confidence"": 0.8878392577171326}]"
+grinder2.mp4,453,18.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 266, ""y"": 200, ""w"": 43, ""h"": 83, ""area"": 3569.0, ""label"": ""grinder_spark"", ""confidence"": 0.8672251105308533}]"
+grinder2.mp4,454,18.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 270, ""y"": 201, ""w"": 39, ""h"": 71, ""area"": 2769.0, ""label"": ""grinder_spark"", ""confidence"": 0.8429215550422668}]"
+grinder2.mp4,455,18.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 264, ""y"": 202, ""w"": 46, ""h"": 57, ""area"": 2622.0, ""label"": ""grinder_spark"", ""confidence"": 0.8693028092384338}]"
+grinder2.mp4,456,18.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 265, ""y"": 203, ""w"": 48, ""h"": 58, ""area"": 2784.0, ""label"": ""grinder_spark"", ""confidence"": 0.8730165362358093}]"
+grinder2.mp4,457,18.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 267, ""y"": 203, ""w"": 46, ""h"": 59, ""area"": 2714.0, ""label"": ""grinder_spark"", ""confidence"": 0.8576973080635071}]"
+grinder2.mp4,458,18.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 265, ""y"": 204, ""w"": 50, ""h"": 69, ""area"": 3450.0, ""label"": ""grinder_spark"", ""confidence"": 0.8934036493301392}]"
+grinder2.mp4,459,18.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 265, ""y"": 205, ""w"": 50, ""h"": 67, ""area"": 3350.0, ""label"": ""grinder_spark"", ""confidence"": 0.8954071998596191}]"
+grinder2.mp4,460,18.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 268, ""y"": 205, ""w"": 50, ""h"": 72, ""area"": 3600.0, ""label"": ""grinder_spark"", ""confidence"": 0.8842885494232178}]"
+grinder2.mp4,461,18.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 270, ""y"": 205, ""w"": 53, ""h"": 76, ""area"": 4028.0, ""label"": ""grinder_spark"", ""confidence"": 0.8831737041473389}]"
+grinder2.mp4,462,18.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 272, ""y"": 205, ""w"": 52, ""h"": 84, ""area"": 4368.0, ""label"": ""grinder_spark"", ""confidence"": 0.8805612921714783}]"
+grinder2.mp4,463,18.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 277, ""y"": 205, ""w"": 49, ""h"": 91, ""area"": 4459.0, ""label"": ""grinder_spark"", ""confidence"": 0.8752822279930115}]"
+grinder2.mp4,464,18.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 275, ""y"": 206, ""w"": 53, ""h"": 94, ""area"": 4982.0, ""label"": ""grinder_spark"", ""confidence"": 0.8876248598098755}]"
+grinder2.mp4,465,18.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 280, ""y"": 207, ""w"": 49, ""h"": 94, ""area"": 4606.0, ""label"": ""grinder_spark"", ""confidence"": 0.8880391716957092}]"
+grinder2.mp4,466,18.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 278, ""y"": 207, ""w"": 52, ""h"": 95, ""area"": 4940.0, ""label"": ""grinder_spark"", ""confidence"": 0.9003888964653015}]"
+grinder2.mp4,467,18.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 280, ""y"": 207, ""w"": 51, ""h"": 95, ""area"": 4845.0, ""label"": ""grinder_spark"", ""confidence"": 0.891805112361908}]"
+grinder2.mp4,468,18.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 279, ""y"": 206, ""w"": 53, ""h"": 98, ""area"": 5194.0, ""label"": ""grinder_spark"", ""confidence"": 0.90184086561203}]"
+grinder2.mp4,469,18.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 283, ""y"": 207, ""w"": 48, ""h"": 98, ""area"": 4704.0, ""label"": ""grinder_spark"", ""confidence"": 0.8831724524497986}]"
+grinder2.mp4,470,18.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 280, ""y"": 206, ""w"": 51, ""h"": 95, ""area"": 4845.0, ""label"": ""grinder_spark"", ""confidence"": 0.9049345254898071}]"
+grinder2.mp4,471,18.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 281, ""y"": 207, ""w"": 49, ""h"": 94, ""area"": 4606.0, ""label"": ""grinder_spark"", ""confidence"": 0.8885250091552734}]"
+grinder2.mp4,472,18.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 281, ""y"": 207, ""w"": 49, ""h"": 90, ""area"": 4410.0, ""label"": ""grinder_spark"", ""confidence"": 0.8953737616539001}]"
+grinder2.mp4,473,18.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 282, ""y"": 207, ""w"": 49, ""h"": 81, ""area"": 3969.0, ""label"": ""grinder_spark"", ""confidence"": 0.9001964926719666}]"
+grinder2.mp4,474,18.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 279, ""y"": 206, ""w"": 52, ""h"": 81, ""area"": 4212.0, ""label"": ""grinder_spark"", ""confidence"": 0.9106026291847229}]"
+grinder2.mp4,475,19.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 279, ""y"": 208, ""w"": 53, ""h"": 81, ""area"": 4293.0, ""label"": ""grinder_spark"", ""confidence"": 0.9079575538635254}]"
+grinder2.mp4,476,19.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 282, ""y"": 209, ""w"": 52, ""h"": 81, ""area"": 4212.0, ""label"": ""grinder_spark"", ""confidence"": 0.9041143655776978}]"
+grinder2.mp4,477,19.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 280, ""y"": 208, ""w"": 56, ""h"": 87, ""area"": 4872.0, ""label"": ""grinder_spark"", ""confidence"": 0.908312976360321}]"
+grinder2.mp4,478,19.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 286, ""y"": 209, ""w"": 50, ""h"": 91, ""area"": 4550.0, ""label"": ""grinder_spark"", ""confidence"": 0.8756377696990967}]"
+grinder2.mp4,479,19.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 282, ""y"": 209, ""w"": 57, ""h"": 93, ""area"": 5301.0, ""label"": ""grinder_spark"", ""confidence"": 0.8870802521705627}]"
+grinder2.mp4,480,19.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 286, ""y"": 209, ""w"": 53, ""h"": 93, ""area"": 4929.0, ""label"": ""grinder_spark"", ""confidence"": 0.8678939342498779}]"
+grinder2.mp4,481,19.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 284, ""y"": 209, ""w"": 53, ""h"": 93, ""area"": 4929.0, ""label"": ""grinder_spark"", ""confidence"": 0.8860388398170471}]"
+grinder2.mp4,482,19.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 286, ""y"": 208, ""w"": 54, ""h"": 93, ""area"": 5022.0, ""label"": ""grinder_spark"", ""confidence"": 0.8741613626480103}]"
+grinder2.mp4,483,19.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 288, ""y"": 208, ""w"": 53, ""h"": 91, ""area"": 4823.0, ""label"": ""grinder_spark"", ""confidence"": 0.8797711133956909}]"
+grinder2.mp4,484,19.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 290, ""y"": 208, ""w"": 50, ""h"": 92, ""area"": 4600.0, ""label"": ""grinder_spark"", ""confidence"": 0.8852879405021667}]"
+grinder2.mp4,485,19.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 291, ""y"": 208, ""w"": 50, ""h"": 91, ""area"": 4550.0, ""label"": ""grinder_spark"", ""confidence"": 0.8834940195083618}]"
+grinder2.mp4,486,19.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 291, ""y"": 208, ""w"": 49, ""h"": 91, ""area"": 4459.0, ""label"": ""grinder_spark"", ""confidence"": 0.8812904357910156}]"
+grinder2.mp4,487,19.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 291, ""y"": 208, ""w"": 50, ""h"": 90, ""area"": 4500.0, ""label"": ""grinder_spark"", ""confidence"": 0.887972891330719}]"
+grinder2.mp4,488,19.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 293, ""y"": 207, ""w"": 50, ""h"": 91, ""area"": 4550.0, ""label"": ""grinder_spark"", ""confidence"": 0.9061909914016724}]"
+grinder2.mp4,489,19.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 293, ""y"": 208, ""w"": 48, ""h"": 89, ""area"": 4272.0, ""label"": ""grinder_spark"", ""confidence"": 0.8870925307273865}]"
+grinder2.mp4,490,19.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 295, ""y"": 208, ""w"": 46, ""h"": 88, ""area"": 4048.0, ""label"": ""grinder_spark"", ""confidence"": 0.8905401825904846}]"
+grinder2.mp4,491,19.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 294, ""y"": 208, ""w"": 46, ""h"": 88, ""area"": 4048.0, ""label"": ""grinder_spark"", ""confidence"": 0.8844684362411499}]"
+grinder2.mp4,492,19.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 295, ""y"": 208, ""w"": 47, ""h"": 87, ""area"": 4089.0, ""label"": ""grinder_spark"", ""confidence"": 0.8966031074523926}]"
+grinder2.mp4,493,19.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 294, ""y"": 207, ""w"": 49, ""h"": 88, ""area"": 4312.0, ""label"": ""grinder_spark"", ""confidence"": 0.8909178376197815}]"
+grinder2.mp4,494,19.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 295, ""y"": 208, ""w"": 47, ""h"": 87, ""area"": 4089.0, ""label"": ""grinder_spark"", ""confidence"": 0.9042495489120483}]"
+grinder2.mp4,495,19.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 292, ""y"": 208, ""w"": 51, ""h"": 88, ""area"": 4488.0, ""label"": ""grinder_spark"", ""confidence"": 0.9049420356750488}]"
+grinder2.mp4,496,19.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 295, ""y"": 208, ""w"": 48, ""h"": 87, ""area"": 4176.0, ""label"": ""grinder_spark"", ""confidence"": 0.9054445624351501}]"
+grinder2.mp4,497,19.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 353, ""y"": 164, ""w"": 127, ""h"": 195, ""area"": 24765.0, ""label"": ""grinder_spark"", ""confidence"": 0.8634755611419678}]"
+grinder2.mp4,498,19.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 362, ""y"": 164, ""w"": 122, ""h"": 194, ""area"": 23668.0, ""label"": ""grinder_spark"", ""confidence"": 0.8604636192321777}]"
+grinder2.mp4,499,19.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 340, ""y"": 166, ""w"": 141, ""h"": 192, ""area"": 27072.0, ""label"": ""grinder_spark"", ""confidence"": 0.8722056746482849}]"
+grinder2.mp4,500,20.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 344, ""y"": 166, ""w"": 141, ""h"": 192, ""area"": 27072.0, ""label"": ""grinder_spark"", ""confidence"": 0.879349946975708}]"
+grinder2.mp4,501,20.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 339, ""y"": 166, ""w"": 141, ""h"": 192, ""area"": 27072.0, ""label"": ""grinder_spark"", ""confidence"": 0.863555908203125}]"
+grinder2.mp4,502,20.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 344, ""y"": 168, ""w"": 142, ""h"": 190, ""area"": 26980.0, ""label"": ""grinder_spark"", ""confidence"": 0.8713378310203552}]"
+grinder2.mp4,503,20.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 319, ""y"": 169, ""w"": 169, ""h"": 190, ""area"": 32110.0, ""label"": ""grinder_spark"", ""confidence"": 0.8743064999580383}]"
+grinder2.mp4,504,20.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 317, ""y"": 166, ""w"": 167, ""h"": 193, ""area"": 32231.0, ""label"": ""grinder_spark"", ""confidence"": 0.8756151795387268}]"
+grinder2.mp4,505,20.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 325, ""y"": 169, ""w"": 163, ""h"": 190, ""area"": 30970.0, ""label"": ""grinder_spark"", ""confidence"": 0.8754851222038269}]"
+grinder2.mp4,506,20.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 304, ""y"": 166, ""w"": 182, ""h"": 193, ""area"": 35126.0, ""label"": ""grinder_spark"", ""confidence"": 0.8821591138839722}]"
+grinder2.mp4,507,20.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 290, ""y"": 166, ""w"": 198, ""h"": 193, ""area"": 38214.0, ""label"": ""grinder_spark"", ""confidence"": 0.8756919503211975}]"
+grinder2.mp4,508,20.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 168, ""w"": 178, ""h"": 191, ""area"": 33998.0, ""label"": ""grinder_spark"", ""confidence"": 0.8884145021438599}]"
+grinder2.mp4,509,20.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 289, ""y"": 169, ""w"": 199, ""h"": 190, ""area"": 37810.0, ""label"": ""grinder_spark"", ""confidence"": 0.8833460807800293}]"
+grinder2.mp4,510,20.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 276, ""y"": 170, ""w"": 212, ""h"": 188, ""area"": 39856.0, ""label"": ""grinder_spark"", ""confidence"": 0.8897066712379456}]"
+grinder2.mp4,511,20.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 266, ""y"": 179, ""w"": 221, ""h"": 179, ""area"": 39559.0, ""label"": ""grinder_spark"", ""confidence"": 0.8267676830291748}]"
+grinder2.mp4,512,20.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 264, ""y"": 173, ""w"": 216, ""h"": 185, ""area"": 39960.0, ""label"": ""grinder_spark"", ""confidence"": 0.8758670687675476}]"
+grinder2.mp4,513,20.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 252, ""y"": 171, ""w"": 237, ""h"": 187, ""area"": 44319.0, ""label"": ""grinder_spark"", ""confidence"": 0.8880103826522827}]"
+grinder2.mp4,514,20.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 236, ""y"": 172, ""w"": 250, ""h"": 187, ""area"": 46750.0, ""label"": ""grinder_spark"", ""confidence"": 0.9014564752578735}]"
+grinder2.mp4,515,20.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 234, ""y"": 175, ""w"": 248, ""h"": 184, ""area"": 45632.0, ""label"": ""grinder_spark"", ""confidence"": 0.8743860721588135}]"
+grinder2.mp4,516,20.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 236, ""y"": 172, ""w"": 251, ""h"": 187, ""area"": 46937.0, ""label"": ""grinder_spark"", ""confidence"": 0.8870938420295715}]"
+grinder2.mp4,517,20.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 244, ""y"": 173, ""w"": 246, ""h"": 186, ""area"": 45756.0, ""label"": ""grinder_spark"", ""confidence"": 0.8919429183006287}]"
+grinder2.mp4,518,20.72,False,False,no sparks (grinder_spark),3,0,"[{""x"": 318, ""y"": 174, ""w"": 166, ""h"": 184, ""area"": 30544.0, ""label"": ""grinder_spark"", ""confidence"": 0.7434718608856201}, {""x"": 242, ""y"": 273, ""w"": 129, ""h"": 86, ""area"": 11094.0, ""label"": ""grinder_spark"", ""confidence"": 0.3668205440044403}, {""x"": 243, ""y"": 192, ""w"": 135, ""h"": 167, ""area"": 22545.0, ""label"": ""grinder_spark"", ""confidence"": 0.34992220997810364}]"
+grinder2.mp4,519,20.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 251, ""y"": 173, ""w"": 239, ""h"": 186, ""area"": 44454.0, ""label"": ""grinder_spark"", ""confidence"": 0.8984678387641907}]"
+grinder2.mp4,520,20.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 224, ""y"": 186, ""w"": 261, ""h"": 173, ""area"": 45153.0, ""label"": ""grinder_spark"", ""confidence"": 0.8171892762184143}]"
+grinder2.mp4,521,20.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 242, ""y"": 174, ""w"": 249, ""h"": 185, ""area"": 46065.0, ""label"": ""grinder_spark"", ""confidence"": 0.8954936861991882}]"
+grinder2.mp4,522,20.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 286, ""y"": 180, ""w"": 206, ""h"": 179, ""area"": 36874.0, ""label"": ""grinder_spark"", ""confidence"": 0.8548426628112793}]"
+grinder2.mp4,523,20.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 244, ""y"": 178, ""w"": 248, ""h"": 181, ""area"": 44888.0, ""label"": ""grinder_spark"", ""confidence"": 0.8773708939552307}]"
+grinder2.mp4,524,20.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 218, ""y"": 178, ""w"": 273, ""h"": 181, ""area"": 49413.0, ""label"": ""grinder_spark"", ""confidence"": 0.894371747970581}]"
+grinder2.mp4,525,21.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 192, ""y"": 175, ""w"": 299, ""h"": 183, ""area"": 54717.0, ""label"": ""grinder_spark"", ""confidence"": 0.876814603805542}]"
+grinder2.mp4,526,21.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 182, ""y"": 173, ""w"": 307, ""h"": 185, ""area"": 56795.0, ""label"": ""grinder_spark"", ""confidence"": 0.8856863379478455}]"
+grinder2.mp4,527,21.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 167, ""y"": 175, ""w"": 322, ""h"": 184, ""area"": 59248.0, ""label"": ""grinder_spark"", ""confidence"": 0.8885331749916077}]"
+grinder2.mp4,528,21.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 122, ""y"": 175, ""w"": 367, ""h"": 184, ""area"": 67528.0, ""label"": ""grinder_spark"", ""confidence"": 0.8997349739074707}]"
+grinder2.mp4,529,21.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 84, ""y"": 175, ""w"": 404, ""h"": 184, ""area"": 74336.0, ""label"": ""grinder_spark"", ""confidence"": 0.8467754125595093}]"
+grinder2.mp4,530,21.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 78, ""y"": 173, ""w"": 411, ""h"": 185, ""area"": 76035.0, ""label"": ""grinder_spark"", ""confidence"": 0.8096301555633545}]"
+grinder2.mp4,531,21.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 49, ""y"": 192, ""w"": 397, ""h"": 166, ""area"": 65902.0, ""label"": ""grinder_spark"", ""confidence"": 0.639003574848175}]"
+grinder2.mp4,532,21.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 193, ""w"": 444, ""h"": 165, ""area"": 73260.0, ""label"": ""grinder_spark"", ""confidence"": 0.7721596956253052}]"
+grinder2.mp4,533,21.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 176, ""w"": 448, ""h"": 175, ""area"": 78400.0, ""label"": ""grinder_spark"", ""confidence"": 0.7107410430908203}]"
+grinder2.mp4,534,21.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 20, ""y"": 189, ""w"": 439, ""h"": 162, ""area"": 71118.0, ""label"": ""grinder_spark"", ""confidence"": 0.811353325843811}]"
+grinder2.mp4,535,21.4,False,False,no sparks (grinder_spark),2,0,"[{""x"": 0, ""y"": 185, ""w"": 423, ""h"": 165, ""area"": 69795.0, ""label"": ""grinder_spark"", ""confidence"": 0.727231502532959}, {""x"": 397, ""y"": 79, ""w"": 34, ""h"": 53, ""area"": 1802.0, ""label"": ""grinder_spark"", ""confidence"": 0.5754585862159729}]"
+grinder2.mp4,536,21.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 156, ""w"": 405, ""h"": 188, ""area"": 76140.0, ""label"": ""grinder_spark"", ""confidence"": 0.8729508519172668}]"
+grinder2.mp4,537,21.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 162, ""w"": 455, ""h"": 134, ""area"": 60970.0, ""label"": ""grinder_spark"", ""confidence"": 0.5889700651168823}]"
+grinder2.mp4,538,21.52,False,False,no sparks,0,0,[]
+grinder2.mp4,539,21.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 156, ""w"": 462, ""h"": 112, ""area"": 51744.0, ""label"": ""grinder_spark"", ""confidence"": 0.6385717988014221}]"
+grinder2.mp4,540,21.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 147, ""w"": 453, ""h"": 97, ""area"": 43941.0, ""label"": ""grinder_spark"", ""confidence"": 0.6847487092018127}]"
+grinder2.mp4,541,21.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 141, ""w"": 351, ""h"": 101, ""area"": 35451.0, ""label"": ""grinder_spark"", ""confidence"": 0.5334645509719849}]"
+grinder2.mp4,542,21.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 142, ""y"": 147, ""w"": 321, ""h"": 110, ""area"": 35310.0, ""label"": ""grinder_spark"", ""confidence"": 0.2777823209762573}]"
+grinder2.mp4,543,21.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 161, ""w"": 466, ""h"": 87, ""area"": 40542.0, ""label"": ""grinder_spark"", ""confidence"": 0.5893584489822388}]"
+grinder2.mp4,544,21.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 160, ""w"": 387, ""h"": 105, ""area"": 40635.0, ""label"": ""grinder_spark"", ""confidence"": 0.4033662974834442}]"
+grinder2.mp4,545,21.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 176, ""w"": 462, ""h"": 105, ""area"": 48510.0, ""label"": ""grinder_spark"", ""confidence"": 0.6897812485694885}]"
+grinder2.mp4,546,21.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 1, ""y"": 210, ""w"": 203, ""h"": 139, ""area"": 28217.0, ""label"": ""grinder_spark"", ""confidence"": 0.4530790448188782}]"
+grinder2.mp4,547,21.88,False,False,no sparks,0,0,[]
+grinder2.mp4,548,21.92,False,False,no sparks (grinder_spark),2,0,"[{""x"": 307, ""y"": 205, ""w"": 177, ""h"": 109, ""area"": 19293.0, ""label"": ""grinder_spark"", ""confidence"": 0.5358316898345947}, {""x"": 92, ""y"": 210, ""w"": 239, ""h"": 147, ""area"": 35133.0, ""label"": ""grinder_spark"", ""confidence"": 0.44586965441703796}]"
+grinder2.mp4,549,21.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 220, ""y"": 194, ""w"": 272, ""h"": 153, ""area"": 41616.0, ""label"": ""grinder_spark"", ""confidence"": 0.6345824599266052}]"
+grinder2.mp4,550,22.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 167, ""y"": 197, ""w"": 283, ""h"": 163, ""area"": 46129.0, ""label"": ""grinder_spark"", ""confidence"": 0.651531457901001}]"
+grinder2.mp4,551,22.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 227, ""y"": 201, ""w"": 267, ""h"": 158, ""area"": 42186.0, ""label"": ""grinder_spark"", ""confidence"": 0.8426240682601929}]"
+grinder2.mp4,552,22.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 351, ""y"": 199, ""w"": 144, ""h"": 160, ""area"": 23040.0, ""label"": ""grinder_spark"", ""confidence"": 0.8518169522285461}]"
+grinder2.mp4,553,22.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 293, ""y"": 199, ""w"": 201, ""h"": 160, ""area"": 32160.0, ""label"": ""grinder_spark"", ""confidence"": 0.8705936074256897}]"
+grinder2.mp4,554,22.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 326, ""y"": 200, ""w"": 170, ""h"": 159, ""area"": 27030.0, ""label"": ""grinder_spark"", ""confidence"": 0.8936936259269714}]"
+grinder2.mp4,555,22.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 336, ""y"": 201, ""w"": 160, ""h"": 158, ""area"": 25280.0, ""label"": ""grinder_spark"", ""confidence"": 0.9012780785560608}]"
+grinder2.mp4,556,22.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 344, ""y"": 204, ""w"": 152, ""h"": 155, ""area"": 23560.0, ""label"": ""grinder_spark"", ""confidence"": 0.8821088075637817}]"
+grinder2.mp4,557,22.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 382, ""y"": 206, ""w"": 115, ""h"": 154, ""area"": 17710.0, ""label"": ""grinder_spark"", ""confidence"": 0.929654598236084}]"
+grinder2.mp4,558,22.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 368, ""y"": 208, ""w"": 129, ""h"": 152, ""area"": 19608.0, ""label"": ""grinder_spark"", ""confidence"": 0.8852309584617615}]"
+grinder2.mp4,559,22.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 385, ""y"": 211, ""w"": 113, ""h"": 149, ""area"": 16837.0, ""label"": ""grinder_spark"", ""confidence"": 0.915087103843689}]"
+grinder2.mp4,560,22.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 398, ""y"": 212, ""w"": 100, ""h"": 148, ""area"": 14800.0, ""label"": ""grinder_spark"", ""confidence"": 0.9013084769248962}]"
+grinder2.mp4,561,22.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 396, ""y"": 216, ""w"": 102, ""h"": 144, ""area"": 14688.0, ""label"": ""grinder_spark"", ""confidence"": 0.9209783673286438}]"
+grinder2.mp4,562,22.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 403, ""y"": 217, ""w"": 95, ""h"": 143, ""area"": 13585.0, ""label"": ""grinder_spark"", ""confidence"": 0.9061000347137451}]"
+grinder2.mp4,563,22.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 399, ""y"": 217, ""w"": 99, ""h"": 142, ""area"": 14058.0, ""label"": ""grinder_spark"", ""confidence"": 0.9212512373924255}]"
+grinder2.mp4,564,22.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 398, ""y"": 217, ""w"": 100, ""h"": 143, ""area"": 14300.0, ""label"": ""grinder_spark"", ""confidence"": 0.897257387638092}]"
+grinder2.mp4,565,22.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 394, ""y"": 217, ""w"": 104, ""h"": 143, ""area"": 14872.0, ""label"": ""grinder_spark"", ""confidence"": 0.9309474229812622}]"
+grinder2.mp4,566,22.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 391, ""y"": 217, ""w"": 106, ""h"": 143, ""area"": 15158.0, ""label"": ""grinder_spark"", ""confidence"": 0.9370943307876587}]"
+grinder2.mp4,567,22.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 382, ""y"": 213, ""w"": 116, ""h"": 147, ""area"": 17052.0, ""label"": ""grinder_spark"", ""confidence"": 0.9260362982749939}]"
+grinder2.mp4,568,22.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 371, ""y"": 212, ""w"": 126, ""h"": 148, ""area"": 18648.0, ""label"": ""grinder_spark"", ""confidence"": 0.9339876174926758}]"
+grinder2.mp4,569,22.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 358, ""y"": 209, ""w"": 139, ""h"": 151, ""area"": 20989.0, ""label"": ""grinder_spark"", ""confidence"": 0.9242398738861084}]"
+grinder2.mp4,570,22.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 361, ""y"": 208, ""w"": 136, ""h"": 152, ""area"": 20672.0, ""label"": ""grinder_spark"", ""confidence"": 0.9009383320808411}]"
+grinder2.mp4,571,22.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 327, ""y"": 205, ""w"": 169, ""h"": 154, ""area"": 26026.0, ""label"": ""grinder_spark"", ""confidence"": 0.9039442539215088}]"
+grinder2.mp4,572,22.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 203, ""w"": 185, ""h"": 156, ""area"": 28860.0, ""label"": ""grinder_spark"", ""confidence"": 0.9105368256568909}]"
+grinder2.mp4,573,22.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 296, ""y"": 203, ""w"": 201, ""h"": 156, ""area"": 31356.0, ""label"": ""grinder_spark"", ""confidence"": 0.905234694480896}]"
+grinder2.mp4,574,22.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 278, ""y"": 204, ""w"": 217, ""h"": 155, ""area"": 33635.0, ""label"": ""grinder_spark"", ""confidence"": 0.9079672694206238}]"
+grinder2.mp4,575,23.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 226, ""y"": 202, ""w"": 269, ""h"": 157, ""area"": 42233.0, ""label"": ""grinder_spark"", ""confidence"": 0.9068950414657593}]"
+grinder2.mp4,576,23.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 188, ""y"": 202, ""w"": 307, ""h"": 157, ""area"": 48199.0, ""label"": ""grinder_spark"", ""confidence"": 0.9098283052444458}]"
+grinder2.mp4,577,23.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 145, ""y"": 201, ""w"": 350, ""h"": 156, ""area"": 54600.0, ""label"": ""grinder_spark"", ""confidence"": 0.8805371522903442}]"
+grinder2.mp4,578,23.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 47, ""y"": 208, ""w"": 453, ""h"": 149, ""area"": 67497.0, ""label"": ""grinder_spark"", ""confidence"": 0.8704850673675537}]"
+grinder2.mp4,579,23.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 204, ""w"": 492, ""h"": 152, ""area"": 74784.0, ""label"": ""grinder_spark"", ""confidence"": 0.8355336785316467}]"
+grinder2.mp4,580,23.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 1, ""y"": 194, ""w"": 480, ""h"": 148, ""area"": 71040.0, ""label"": ""grinder_spark"", ""confidence"": 0.8707984685897827}]"
+grinder2.mp4,581,23.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 175, ""w"": 495, ""h"": 117, ""area"": 57915.0, ""label"": ""grinder_spark"", ""confidence"": 0.7015087604522705}]"
+grinder2.mp4,582,23.28,False,False,no sparks (grinder_spark),2,0,"[{""x"": 0, ""y"": 160, ""w"": 469, ""h"": 86, ""area"": 40334.0, ""label"": ""grinder_spark"", ""confidence"": 0.742510199546814}, {""x"": 497, ""y"": 232, ""w"": 102, ""h"": 128, ""area"": 13056.0, ""label"": ""grinder_spark"", ""confidence"": 0.25900378823280334}]"
+grinder2.mp4,583,23.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 146, ""w"": 482, ""h"": 106, ""area"": 51092.0, ""label"": ""grinder_spark"", ""confidence"": 0.687680184841156}]"
+grinder2.mp4,584,23.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 141, ""w"": 501, ""h"": 98, ""area"": 49098.0, ""label"": ""grinder_spark"", ""confidence"": 0.677238404750824}]"
+grinder2.mp4,585,23.4,False,False,no sparks (grinder_spark),2,0,"[{""x"": 0, ""y"": 125, ""w"": 482, ""h"": 92, ""area"": 44344.0, ""label"": ""grinder_spark"", ""confidence"": 0.6888739466667175}, {""x"": 497, ""y"": 235, ""w"": 92, ""h"": 124, ""area"": 11408.0, ""label"": ""grinder_spark"", ""confidence"": 0.4803584814071655}]"
+grinder2.mp4,586,23.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 110, ""w"": 492, ""h"": 113, ""area"": 55596.0, ""label"": ""grinder_spark"", ""confidence"": 0.6302363276481628}]"
+grinder2.mp4,587,23.48,False,False,no sparks (grinder_spark),2,0,"[{""x"": 0, ""y"": 100, ""w"": 431, ""h"": 115, ""area"": 49565.0, ""label"": ""grinder_spark"", ""confidence"": 0.5760377049446106}, {""x"": 52, ""y"": 153, ""w"": 480, ""h"": 104, ""area"": 49920.0, ""label"": ""grinder_spark"", ""confidence"": 0.3980747163295746}]"
+grinder2.mp4,588,23.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 136, ""w"": 535, ""h"": 104, ""area"": 55640.0, ""label"": ""grinder_spark"", ""confidence"": 0.5965882539749146}]"
+grinder2.mp4,589,23.56,False,False,no sparks (grinder_spark),3,0,"[{""x"": 133, ""y"": 134, ""w"": 360, ""h"": 87, ""area"": 31320.0, ""label"": ""grinder_spark"", ""confidence"": 0.5173675417900085}, {""x"": 0, ""y"": 98, ""w"": 161, ""h"": 108, ""area"": 17388.0, ""label"": ""grinder_spark"", ""confidence"": 0.46208256483078003}, {""x"": 128, ""y"": 131, ""w"": 372, ""h"": 175, ""area"": 65100.0, ""label"": ""grinder_spark"", ""confidence"": 0.38059160113334656}]"
+grinder2.mp4,590,23.6,False,False,no sparks (grinder_spark),2,0,"[{""x"": 82, ""y"": 143, ""w"": 419, ""h"": 115, ""area"": 48185.0, ""label"": ""grinder_spark"", ""confidence"": 0.6633947491645813}, {""x"": 511, ""y"": 229, ""w"": 92, ""h"": 129, ""area"": 11868.0, ""label"": ""grinder_spark"", ""confidence"": 0.40352103114128113}]"
+grinder2.mp4,591,23.64,False,False,no sparks (grinder_spark),2,0,"[{""x"": 135, ""y"": 174, ""w"": 371, ""h"": 71, ""area"": 26341.0, ""label"": ""grinder_spark"", ""confidence"": 0.6140092015266418}, {""x"": 1, ""y"": 150, ""w"": 177, ""h"": 150, ""area"": 26550.0, ""label"": ""grinder_spark"", ""confidence"": 0.2577733099460602}]"
+grinder2.mp4,592,23.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 179, ""w"": 516, ""h"": 138, ""area"": 71208.0, ""label"": ""grinder_spark"", ""confidence"": 0.6420279741287231}]"
+grinder2.mp4,593,23.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 192, ""w"": 492, ""h"": 161, ""area"": 79212.0, ""label"": ""grinder_spark"", ""confidence"": 0.6966570019721985}]"
+grinder2.mp4,594,23.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 215, ""w"": 477, ""h"": 140, ""area"": 66780.0, ""label"": ""grinder_spark"", ""confidence"": 0.7867415547370911}]"
+grinder2.mp4,595,23.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 142, ""y"": 212, ""w"": 353, ""h"": 144, ""area"": 50832.0, ""label"": ""grinder_spark"", ""confidence"": 0.8447970151901245}]"
+grinder2.mp4,596,23.84,False,False,no sparks (grinder_spark),2,0,"[{""x"": 105, ""y"": 217, ""w"": 378, ""h"": 142, ""area"": 53676.0, ""label"": ""grinder_spark"", ""confidence"": 0.8944751620292664}, {""x"": 524, ""y"": 294, ""w"": 29, ""h"": 66, ""area"": 1914.0, ""label"": ""grinder_spark"", ""confidence"": 0.5471883416175842}]"
+grinder2.mp4,597,23.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 197, ""y"": 214, ""w"": 300, ""h"": 145, ""area"": 43500.0, ""label"": ""grinder_spark"", ""confidence"": 0.8959359526634216}]"
+grinder2.mp4,598,23.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 222, ""y"": 210, ""w"": 274, ""h"": 149, ""area"": 40826.0, ""label"": ""grinder_spark"", ""confidence"": 0.8720928430557251}]"
+grinder2.mp4,599,23.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 261, ""y"": 218, ""w"": 233, ""h"": 141, ""area"": 32853.0, ""label"": ""grinder_spark"", ""confidence"": 0.8934906125068665}]"
+grinder2.mp4,600,24.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 292, ""y"": 219, ""w"": 204, ""h"": 140, ""area"": 28560.0, ""label"": ""grinder_spark"", ""confidence"": 0.9048284292221069}]"
+grinder2.mp4,601,24.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 339, ""y"": 219, ""w"": 157, ""h"": 140, ""area"": 21980.0, ""label"": ""grinder_spark"", ""confidence"": 0.8835374116897583}]"
+grinder2.mp4,602,24.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 351, ""y"": 225, ""w"": 147, ""h"": 135, ""area"": 19845.0, ""label"": ""grinder_spark"", ""confidence"": 0.9258637428283691}]"
+grinder2.mp4,603,24.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 396, ""y"": 229, ""w"": 101, ""h"": 130, ""area"": 13130.0, ""label"": ""grinder_spark"", ""confidence"": 0.919035017490387}]"
+grinder2.mp4,604,24.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 390, ""y"": 236, ""w"": 108, ""h"": 124, ""area"": 13392.0, ""label"": ""grinder_spark"", ""confidence"": 0.8754974603652954}]"
+grinder2.mp4,605,24.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 422, ""y"": 242, ""w"": 77, ""h"": 118, ""area"": 9086.0, ""label"": ""grinder_spark"", ""confidence"": 0.8804752230644226}]"
+grinder2.mp4,606,24.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 423, ""y"": 243, ""w"": 77, ""h"": 117, ""area"": 9009.0, ""label"": ""grinder_spark"", ""confidence"": 0.8800303936004639}]"
+grinder2.mp4,607,24.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 419, ""y"": 242, ""w"": 85, ""h"": 118, ""area"": 10030.0, ""label"": ""grinder_spark"", ""confidence"": 0.8690868616104126}]"
+grinder2.mp4,608,24.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 422, ""y"": 242, ""w"": 77, ""h"": 118, ""area"": 9086.0, ""label"": ""grinder_spark"", ""confidence"": 0.8984020352363586}]"
+grinder2.mp4,609,24.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 416, ""y"": 239, ""w"": 83, ""h"": 120, ""area"": 9960.0, ""label"": ""grinder_spark"", ""confidence"": 0.8934611082077026}]"
+grinder2.mp4,610,24.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 401, ""y"": 238, ""w"": 97, ""h"": 121, ""area"": 11737.0, ""label"": ""grinder_spark"", ""confidence"": 0.92838454246521}]"
+grinder2.mp4,611,24.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 379, ""y"": 235, ""w"": 119, ""h"": 125, ""area"": 14875.0, ""label"": ""grinder_spark"", ""confidence"": 0.9263228178024292}]"
+grinder2.mp4,612,24.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 380, ""y"": 229, ""w"": 118, ""h"": 131, ""area"": 15458.0, ""label"": ""grinder_spark"", ""confidence"": 0.9305593371391296}]"
+grinder2.mp4,613,24.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 362, ""y"": 226, ""w"": 135, ""h"": 134, ""area"": 18090.0, ""label"": ""grinder_spark"", ""confidence"": 0.9357731938362122}]"
+grinder2.mp4,614,24.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 349, ""y"": 225, ""w"": 149, ""h"": 135, ""area"": 20115.0, ""label"": ""grinder_spark"", ""confidence"": 0.9356679916381836}]"
+grinder2.mp4,615,24.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 336, ""y"": 224, ""w"": 158, ""h"": 135, ""area"": 21330.0, ""label"": ""grinder_spark"", ""confidence"": 0.8843124508857727}]"
+grinder2.mp4,616,24.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 222, ""w"": 185, ""h"": 137, ""area"": 25345.0, ""label"": ""grinder_spark"", ""confidence"": 0.9061554074287415}]"
+grinder2.mp4,617,24.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 289, ""y"": 220, ""w"": 207, ""h"": 139, ""area"": 28773.0, ""label"": ""grinder_spark"", ""confidence"": 0.9172684550285339}]"
+grinder2.mp4,618,24.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 258, ""y"": 219, ""w"": 237, ""h"": 140, ""area"": 33180.0, ""label"": ""grinder_spark"", ""confidence"": 0.9073552489280701}]"
+grinder2.mp4,619,24.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 253, ""y"": 219, ""w"": 242, ""h"": 140, ""area"": 33880.0, ""label"": ""grinder_spark"", ""confidence"": 0.908458948135376}]"
+grinder2.mp4,620,24.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 189, ""y"": 220, ""w"": 308, ""h"": 140, ""area"": 43120.0, ""label"": ""grinder_spark"", ""confidence"": 0.904933750629425}]"
+grinder2.mp4,621,24.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 169, ""y"": 220, ""w"": 328, ""h"": 139, ""area"": 45592.0, ""label"": ""grinder_spark"", ""confidence"": 0.898389458656311}]"
+grinder2.mp4,622,24.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 134, ""y"": 222, ""w"": 362, ""h"": 137, ""area"": 49594.0, ""label"": ""grinder_spark"", ""confidence"": 0.882293164730072}]"
+grinder2.mp4,623,24.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 71, ""y"": 219, ""w"": 426, ""h"": 140, ""area"": 59640.0, ""label"": ""grinder_spark"", ""confidence"": 0.8403529524803162}]"
+grinder2.mp4,624,24.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 63, ""y"": 221, ""w"": 436, ""h"": 133, ""area"": 57988.0, ""label"": ""grinder_spark"", ""confidence"": 0.8520954847335815}]"
+grinder2.mp4,625,25.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 22, ""y"": 215, ""w"": 478, ""h"": 140, ""area"": 66920.0, ""label"": ""grinder_spark"", ""confidence"": 0.8605025410652161}]"
+grinder2.mp4,626,25.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 221, ""w"": 482, ""h"": 135, ""area"": 65070.0, ""label"": ""grinder_spark"", ""confidence"": 0.8015148043632507}]"
+grinder2.mp4,627,25.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 215, ""w"": 492, ""h"": 139, ""area"": 68388.0, ""label"": ""grinder_spark"", ""confidence"": 0.8065974712371826}]"
+grinder2.mp4,628,25.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 216, ""w"": 539, ""h"": 133, ""area"": 71687.0, ""label"": ""grinder_spark"", ""confidence"": 0.6784178018569946}]"
+grinder2.mp4,629,25.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 217, ""w"": 502, ""h"": 126, ""area"": 63252.0, ""label"": ""grinder_spark"", ""confidence"": 0.7629584074020386}]"
+grinder2.mp4,630,25.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 210, ""w"": 481, ""h"": 127, ""area"": 61087.0, ""label"": ""grinder_spark"", ""confidence"": 0.8415932655334473}]"
+grinder2.mp4,631,25.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 1, ""y"": 208, ""w"": 495, ""h"": 105, ""area"": 51975.0, ""label"": ""grinder_spark"", ""confidence"": 0.7901157736778259}]"
+grinder2.mp4,632,25.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 1, ""y"": 205, ""w"": 489, ""h"": 112, ""area"": 54768.0, ""label"": ""grinder_spark"", ""confidence"": 0.8171126842498779}]"
+grinder2.mp4,633,25.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 203, ""w"": 475, ""h"": 110, ""area"": 52250.0, ""label"": ""grinder_spark"", ""confidence"": 0.7961544394493103}]"
+grinder2.mp4,634,25.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 204, ""w"": 477, ""h"": 103, ""area"": 49131.0, ""label"": ""grinder_spark"", ""confidence"": 0.8631349205970764}]"
+grinder2.mp4,635,25.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 207, ""w"": 478, ""h"": 116, ""area"": 55448.0, ""label"": ""grinder_spark"", ""confidence"": 0.8622391223907471}]"
+grinder2.mp4,636,25.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 206, ""w"": 477, ""h"": 102, ""area"": 48654.0, ""label"": ""grinder_spark"", ""confidence"": 0.8771687150001526}]"
+grinder2.mp4,637,25.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 213, ""w"": 475, ""h"": 110, ""area"": 52250.0, ""label"": ""grinder_spark"", ""confidence"": 0.8592389225959778}]"
+grinder2.mp4,638,25.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 224, ""w"": 486, ""h"": 114, ""area"": 55404.0, ""label"": ""grinder_spark"", ""confidence"": 0.8301805257797241}]"
+grinder2.mp4,639,25.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 216, ""w"": 490, ""h"": 135, ""area"": 66150.0, ""label"": ""grinder_spark"", ""confidence"": 0.8687423467636108}]"
+grinder2.mp4,640,25.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 1, ""y"": 221, ""w"": 503, ""h"": 121, ""area"": 60863.0, ""label"": ""grinder_spark"", ""confidence"": 0.7033066749572754}]"
+grinder2.mp4,641,25.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 114, ""y"": 227, ""w"": 382, ""h"": 128, ""area"": 48896.0, ""label"": ""grinder_spark"", ""confidence"": 0.7574232816696167}]"
+grinder2.mp4,642,25.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 162, ""y"": 228, ""w"": 327, ""h"": 130, ""area"": 42510.0, ""label"": ""grinder_spark"", ""confidence"": 0.86170893907547}]"
+grinder2.mp4,643,25.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 212, ""y"": 230, ""w"": 285, ""h"": 130, ""area"": 37050.0, ""label"": ""grinder_spark"", ""confidence"": 0.8538476824760437}]"
+grinder2.mp4,644,25.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 252, ""y"": 230, ""w"": 241, ""h"": 129, ""area"": 31089.0, ""label"": ""grinder_spark"", ""confidence"": 0.8604012727737427}]"
+grinder2.mp4,645,25.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 287, ""y"": 231, ""w"": 210, ""h"": 127, ""area"": 26670.0, ""label"": ""grinder_spark"", ""confidence"": 0.8781217336654663}]"
+grinder2.mp4,646,25.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 285, ""y"": 232, ""w"": 209, ""h"": 126, ""area"": 26334.0, ""label"": ""grinder_spark"", ""confidence"": 0.8852734565734863}]"
+grinder2.mp4,647,25.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 295, ""y"": 233, ""w"": 201, ""h"": 125, ""area"": 25125.0, ""label"": ""grinder_spark"", ""confidence"": 0.8725124001502991}]"
+grinder2.mp4,648,25.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 319, ""y"": 234, ""w"": 178, ""h"": 124, ""area"": 22072.0, ""label"": ""grinder_spark"", ""confidence"": 0.8942527174949646}]"
+grinder2.mp4,649,25.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 316, ""y"": 238, ""w"": 181, ""h"": 121, ""area"": 21901.0, ""label"": ""grinder_spark"", ""confidence"": 0.8947489857673645}]"
+grinder2.mp4,650,26.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 347, ""y"": 239, ""w"": 152, ""h"": 121, ""area"": 18392.0, ""label"": ""grinder_spark"", ""confidence"": 0.8798243403434753}]"
+grinder2.mp4,651,26.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 347, ""y"": 240, ""w"": 151, ""h"": 119, ""area"": 17969.0, ""label"": ""grinder_spark"", ""confidence"": 0.8721474409103394}]"
+grinder2.mp4,652,26.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 366, ""y"": 242, ""w"": 135, ""h"": 118, ""area"": 15930.0, ""label"": ""grinder_spark"", ""confidence"": 0.9290013313293457}]"
+grinder2.mp4,653,26.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 362, ""y"": 242, ""w"": 139, ""h"": 118, ""area"": 16402.0, ""label"": ""grinder_spark"", ""confidence"": 0.9132519364356995}]"
+grinder2.mp4,654,26.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 387, ""y"": 242, ""w"": 112, ""h"": 118, ""area"": 13216.0, ""label"": ""grinder_spark"", ""confidence"": 0.910004198551178}]"
+grinder2.mp4,655,26.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 388, ""y"": 244, ""w"": 113, ""h"": 116, ""area"": 13108.0, ""label"": ""grinder_spark"", ""confidence"": 0.9364040493965149}]"
+grinder2.mp4,656,26.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 391, ""y"": 243, ""w"": 112, ""h"": 116, ""area"": 12992.0, ""label"": ""grinder_spark"", ""confidence"": 0.9385879039764404}]"
+grinder2.mp4,657,26.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 403, ""y"": 242, ""w"": 103, ""h"": 118, ""area"": 12154.0, ""label"": ""grinder_spark"", ""confidence"": 0.9037990570068359}]"
+grinder2.mp4,658,26.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 413, ""y"": 246, ""w"": 94, ""h"": 113, ""area"": 10622.0, ""label"": ""grinder_spark"", ""confidence"": 0.9126071333885193}]"
+grinder2.mp4,659,26.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 425, ""y"": 245, ""w"": 84, ""h"": 114, ""area"": 9576.0, ""label"": ""grinder_spark"", ""confidence"": 0.9045087695121765}]"
+grinder2.mp4,660,26.4,False,False,no sparks (grinder_spark),1,0,"[{""x"": 434, ""y"": 246, ""w"": 76, ""h"": 113, ""area"": 8588.0, ""label"": ""grinder_spark"", ""confidence"": 0.8675397634506226}]"
+grinder2.mp4,661,26.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 440, ""y"": 244, ""w"": 70, ""h"": 115, ""area"": 8050.0, ""label"": ""grinder_spark"", ""confidence"": 0.877091109752655}]"
+grinder2.mp4,662,26.48,False,False,no sparks (grinder_spark),1,0,"[{""x"": 439, ""y"": 246, ""w"": 67, ""h"": 114, ""area"": 7638.0, ""label"": ""grinder_spark"", ""confidence"": 0.8847717642784119}]"
+grinder2.mp4,663,26.52,False,False,no sparks (grinder_spark),1,0,"[{""x"": 436, ""y"": 244, ""w"": 75, ""h"": 116, ""area"": 8700.0, ""label"": ""grinder_spark"", ""confidence"": 0.8792518973350525}]"
+grinder2.mp4,664,26.56,False,False,no sparks (grinder_spark),1,0,"[{""x"": 431, ""y"": 246, ""w"": 76, ""h"": 114, ""area"": 8664.0, ""label"": ""grinder_spark"", ""confidence"": 0.898741602897644}]"
+grinder2.mp4,665,26.6,False,False,no sparks (grinder_spark),1,0,"[{""x"": 423, ""y"": 245, ""w"": 83, ""h"": 115, ""area"": 9545.0, ""label"": ""grinder_spark"", ""confidence"": 0.9039179682731628}]"
+grinder2.mp4,666,26.64,False,False,no sparks (grinder_spark),1,0,"[{""x"": 411, ""y"": 245, ""w"": 94, ""h"": 115, ""area"": 10810.0, ""label"": ""grinder_spark"", ""confidence"": 0.8932217359542847}]"
+grinder2.mp4,667,26.68,False,False,no sparks (grinder_spark),1,0,"[{""x"": 409, ""y"": 246, ""w"": 96, ""h"": 114, ""area"": 10944.0, ""label"": ""grinder_spark"", ""confidence"": 0.9019643068313599}]"
+grinder2.mp4,668,26.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 395, ""y"": 245, ""w"": 109, ""h"": 114, ""area"": 12426.0, ""label"": ""grinder_spark"", ""confidence"": 0.9389095902442932}]"
+grinder2.mp4,669,26.76,False,False,no sparks (grinder_spark),1,0,"[{""x"": 387, ""y"": 243, ""w"": 118, ""h"": 117, ""area"": 13806.0, ""label"": ""grinder_spark"", ""confidence"": 0.9363041520118713}]"
+grinder2.mp4,670,26.8,False,False,no sparks (grinder_spark),1,0,"[{""x"": 365, ""y"": 243, ""w"": 140, ""h"": 116, ""area"": 16240.0, ""label"": ""grinder_spark"", ""confidence"": 0.9264326691627502}]"
+grinder2.mp4,671,26.84,False,False,no sparks (grinder_spark),1,0,"[{""x"": 366, ""y"": 244, ""w"": 137, ""h"": 115, ""area"": 15755.0, ""label"": ""grinder_spark"", ""confidence"": 0.9351663589477539}]"
+grinder2.mp4,672,26.88,False,False,no sparks (grinder_spark),1,0,"[{""x"": 350, ""y"": 244, ""w"": 151, ""h"": 115, ""area"": 17365.0, ""label"": ""grinder_spark"", ""confidence"": 0.8707432150840759}]"
+grinder2.mp4,673,26.92,False,False,no sparks (grinder_spark),1,0,"[{""x"": 334, ""y"": 243, ""w"": 167, ""h"": 115, ""area"": 19205.0, ""label"": ""grinder_spark"", ""confidence"": 0.8830000162124634}]"
+grinder2.mp4,674,26.96,False,False,no sparks (grinder_spark),1,0,"[{""x"": 314, ""y"": 243, ""w"": 185, ""h"": 115, ""area"": 21275.0, ""label"": ""grinder_spark"", ""confidence"": 0.8905472755432129}]"
+grinder2.mp4,675,27.0,False,False,no sparks (grinder_spark),1,0,"[{""x"": 290, ""y"": 244, ""w"": 209, ""h"": 114, ""area"": 23826.0, ""label"": ""grinder_spark"", ""confidence"": 0.8845946192741394}]"
+grinder2.mp4,676,27.04,False,False,no sparks (grinder_spark),1,0,"[{""x"": 274, ""y"": 242, ""w"": 223, ""h"": 117, ""area"": 26091.0, ""label"": ""grinder_spark"", ""confidence"": 0.8759461045265198}]"
+grinder2.mp4,677,27.08,False,False,no sparks (grinder_spark),1,0,"[{""x"": 239, ""y"": 241, ""w"": 259, ""h"": 117, ""area"": 30303.0, ""label"": ""grinder_spark"", ""confidence"": 0.872614860534668}]"
+grinder2.mp4,678,27.12,False,False,no sparks (grinder_spark),1,0,"[{""x"": 196, ""y"": 240, ""w"": 302, ""h"": 119, ""area"": 35938.0, ""label"": ""grinder_spark"", ""confidence"": 0.8431335687637329}]"
+grinder2.mp4,679,27.16,False,False,no sparks (grinder_spark),1,0,"[{""x"": 157, ""y"": 240, ""w"": 343, ""h"": 117, ""area"": 40131.0, ""label"": ""grinder_spark"", ""confidence"": 0.8543033003807068}]"
+grinder2.mp4,680,27.2,False,False,no sparks (grinder_spark),1,0,"[{""x"": 86, ""y"": 237, ""w"": 415, ""h"": 120, ""area"": 49800.0, ""label"": ""grinder_spark"", ""confidence"": 0.8258799314498901}]"
+grinder2.mp4,681,27.24,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 241, ""w"": 498, ""h"": 116, ""area"": 57768.0, ""label"": ""grinder_spark"", ""confidence"": 0.7239273190498352}]"
+grinder2.mp4,682,27.28,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 255, ""w"": 509, ""h"": 96, ""area"": 48864.0, ""label"": ""grinder_spark"", ""confidence"": 0.7415640354156494}]"
+grinder2.mp4,683,27.32,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 246, ""w"": 533, ""h"": 82, ""area"": 43706.0, ""label"": ""grinder_spark"", ""confidence"": 0.7507166266441345}]"
+grinder2.mp4,684,27.36,False,False,no sparks (grinder_spark),1,0,"[{""x"": 0, ""y"": 234, ""w"": 486, ""h"": 74, ""area"": 35964.0, ""label"": ""grinder_spark"", ""confidence"": 0.8256926536560059}]"
+grinder2.mp4,685,27.4,False,False,no sparks,0,0,[]
+grinder2.mp4,686,27.44,False,False,no sparks (grinder_spark),1,0,"[{""x"": 324, ""y"": 179, ""w"": 171, ""h"": 174, ""area"": 29754.0, ""label"": ""grinder_spark"", ""confidence"": 0.4229755401611328}]"
+grinder2.mp4,687,27.48,False,False,no sparks,0,0,[]
+grinder2.mp4,688,27.52,False,False,no sparks,0,0,[]
+grinder2.mp4,689,27.56,False,False,no sparks,0,0,[]
+grinder2.mp4,690,27.6,False,False,no sparks,0,0,[]
+grinder2.mp4,691,27.64,False,False,no sparks,0,0,[]
+grinder2.mp4,692,27.68,False,False,no sparks,0,0,[]
+grinder2.mp4,693,27.72,False,False,no sparks (grinder_spark),1,0,"[{""x"": 426, ""y"": 218, ""w"": 73, ""h"": 142, ""area"": 10366.0, ""label"": ""grinder_spark"", ""confidence"": 0.3337964415550232}]"
+grinder2.mp4,694,27.76,False,False,no sparks,0,0,[]
+grinder2.mp4,695,27.8,False,False,no sparks,0,0,[]
+grinder2.mp4,696,27.84,False,False,no sparks,0,0,[]
+grinder2.mp4,697,27.88,False,False,no sparks,0,0,[]
+grinder2.mp4,698,27.92,False,False,no sparks,0,0,[]
+grinder2.mp4,699,27.96,False,False,no sparks,0,0,[]
+grinder2.mp4,700,28.0,False,False,no sparks,0,0,[]
+grinder2.mp4,701,28.04,False,False,no sparks,0,0,[]
+grinder2.mp4,702,28.08,False,False,no sparks,0,0,[]
+grinder2.mp4,703,28.12,False,False,no sparks,0,0,[]
+grinder2.mp4,704,28.16,False,False,no sparks,0,0,[]
+grinder2.mp4,705,28.2,False,False,no sparks,0,0,[]
+grinder2.mp4,706,28.24,False,False,no sparks,0,0,[]
+grinder2.mp4,707,28.28,False,False,no sparks,0,0,[]
+grinder2.mp4,708,28.32,False,False,no sparks,0,0,[]
+grinder2.mp4,709,28.36,False,False,no sparks,0,0,[]
+grinder2.mp4,710,28.4,False,False,no sparks,0,0,[]
+grinder2.mp4,711,28.44,False,False,no sparks,0,0,[]
+grinder2.mp4,712,28.48,False,False,no sparks,0,0,[]
+grinder2.mp4,713,28.52,False,False,no sparks,0,0,[]
+grinder2.mp4,714,28.56,False,False,no sparks,0,0,[]
+grinder2.mp4,715,28.6,False,False,no sparks,0,0,[]
+grinder2.mp4,716,28.64,False,False,no sparks,0,0,[]
+grinder2.mp4,717,28.68,False,False,no sparks,0,0,[]
+grinder2.mp4,718,28.72,False,False,no sparks,0,0,[]
+grinder2.mp4,719,28.76,False,False,no sparks,0,0,[]
+grinder2.mp4,720,28.8,False,False,no sparks,0,0,[]
+grinder2.mp4,721,28.84,False,False,no sparks,0,0,[]
+grinder2.mp4,722,28.88,False,False,no sparks,0,0,[]
+grinder2.mp4,723,28.92,False,False,no sparks,0,0,[]
+grinder2.mp4,724,28.96,False,False,no sparks,0,0,[]
+grinder2.mp4,725,29.0,False,False,no sparks,0,0,[]
+grinder2.mp4,726,29.04,False,False,no sparks,0,0,[]
+grinder2.mp4,727,29.08,False,False,no sparks,0,0,[]
+grinder2.mp4,728,29.12,False,False,no sparks,0,0,[]
+grinder2.mp4,729,29.16,False,False,no sparks,0,0,[]
+grinder2.mp4,730,29.2,False,False,no sparks,0,0,[]
+grinder2.mp4,731,29.24,False,False,no sparks,0,0,[]
+grinder2.mp4,732,29.28,False,False,no sparks,0,0,[]
+grinder2.mp4,733,29.32,False,False,no sparks,0,0,[]
+grinder2.mp4,734,29.36,False,False,no sparks,0,0,[]
+grinder2.mp4,735,29.4,False,False,no sparks,0,0,[]
+grinder2.mp4,736,29.44,False,False,no sparks,0,0,[]
+grinder2.mp4,737,29.48,False,False,no sparks,0,0,[]
+grinder2.mp4,738,29.52,False,False,no sparks,0,0,[]
+grinder2.mp4,739,29.56,False,False,no sparks,0,0,[]
+grinder2.mp4,740,29.6,False,False,no sparks,0,0,[]
+grinder2.mp4,741,29.64,False,False,no sparks,0,0,[]
+grinder2.mp4,742,29.68,False,False,no sparks,0,0,[]
+grinder2.mp4,743,29.72,False,False,no sparks,0,0,[]
+grinder2.mp4,744,29.76,False,False,no sparks,0,0,[]
+grinder2.mp4,745,29.8,False,False,no sparks,0,0,[]
+grinder2.mp4,746,29.84,False,False,no sparks,0,0,[]
+grinder2.mp4,747,29.88,False,False,no sparks,0,0,[]
+grinder2.mp4,748,29.92,False,False,no sparks,0,0,[]
+grinder2.mp4,749,29.96,False,False,no sparks,0,0,[]
+grinder2.mp4,750,30.0,False,False,no sparks,0,0,[]
+grinder2.mp4,751,30.04,False,False,no sparks,0,0,[]
+grinder2.mp4,752,30.08,False,False,no sparks,0,0,[]
+grinder2.mp4,753,30.12,False,False,no sparks,0,0,[]
+grinder2.mp4,754,30.16,False,False,no sparks,0,0,[]
+grinder2.mp4,755,30.2,False,False,no sparks,0,0,[]
+grinder2.mp4,756,30.24,False,False,no sparks,0,0,[]
+grinder2.mp4,757,30.28,False,False,no sparks,0,0,[]
+grinder2.mp4,758,30.32,False,False,no sparks,0,0,[]
+grinder2.mp4,759,30.36,False,False,no sparks,0,0,[]
+grinder2.mp4,760,30.4,False,False,no sparks,0,0,[]
+grinder2.mp4,761,30.44,False,False,no sparks,0,0,[]
+grinder2.mp4,762,30.48,False,False,no sparks,0,0,[]
+grinder2.mp4,763,30.52,False,False,no sparks,0,0,[]
+grinder2.mp4,764,30.56,False,False,no sparks,0,0,[]
+grinder2.mp4,765,30.6,False,False,no sparks,0,0,[]
+grinder2.mp4,766,30.64,False,False,no sparks,0,0,[]
+grinder2.mp4,767,30.68,False,False,no sparks,0,0,[]
+grinder2.mp4,768,30.72,False,False,no sparks,0,0,[]
+grinder2.mp4,769,30.76,False,False,no sparks,0,0,[]
+grinder2.mp4,770,30.8,False,False,no sparks,0,0,[]
+grinder2.mp4,771,30.84,False,False,no sparks,0,0,[]
+grinder2.mp4,772,30.88,False,False,no sparks,0,0,[]
+grinder2.mp4,773,30.92,False,False,no sparks,0,0,[]
+grinder2.mp4,774,30.96,False,False,no sparks,0,0,[]
+grinder2.mp4,775,31.0,False,False,no sparks,0,0,[]
+grinder2.mp4,776,31.04,False,False,no sparks,0,0,[]
+grinder2.mp4,777,31.08,False,False,no sparks,0,0,[]
+grinder2.mp4,778,31.12,False,False,no sparks,0,0,[]
+grinder2.mp4,779,31.16,False,False,no sparks,0,0,[]
+grinder2.mp4,780,31.2,False,False,no sparks,0,0,[]
+grinder2.mp4,781,31.24,False,False,no sparks,0,0,[]
+grinder2.mp4,782,31.28,False,False,no sparks,0,0,[]
+grinder2.mp4,783,31.32,False,False,no sparks,0,0,[]
+grinder2.mp4,784,31.36,False,False,no sparks,0,0,[]
+grinder2.mp4,785,31.4,False,False,no sparks,0,0,[]
+grinder2.mp4,786,31.44,False,False,no sparks,0,0,[]
+grinder2.mp4,787,31.48,False,False,no sparks,0,0,[]
+grinder2.mp4,788,31.52,False,False,no sparks,0,0,[]
+grinder2.mp4,789,31.56,False,False,no sparks,0,0,[]
+grinder2.mp4,790,31.6,False,False,no sparks,0,0,[]
+grinder2.mp4,791,31.64,False,False,no sparks,0,0,[]
+grinder2.mp4,792,31.68,False,False,no sparks,0,0,[]
+grinder2.mp4,793,31.72,False,False,no sparks,0,0,[]
+grinder2.mp4,794,31.76,False,False,no sparks,0,0,[]
+grinder2.mp4,795,31.8,False,False,no sparks,0,0,[]
+grinder2.mp4,796,31.84,False,False,no sparks,0,0,[]
+grinder2.mp4,797,31.88,False,False,no sparks,0,0,[]
+grinder2.mp4,798,31.92,False,False,no sparks,0,0,[]
+grinder2.mp4,799,31.96,False,False,no sparks,0,0,[]
+grinder2.mp4,800,32.0,False,False,no sparks,0,0,[]
+grinder2.mp4,801,32.04,False,False,no sparks,0,0,[]
+grinder2.mp4,802,32.08,False,False,no sparks,0,0,[]
+grinder2.mp4,803,32.12,False,False,no sparks,0,0,[]
+grinder2.mp4,804,32.16,False,False,no sparks,0,0,[]
+grinder2.mp4,805,32.2,False,False,no sparks,0,0,[]
+grinder2.mp4,806,32.24,False,False,no sparks,0,0,[]
+grinder2.mp4,807,32.28,False,False,no sparks,0,0,[]
+grinder2.mp4,808,32.32,False,False,no sparks,0,0,[]
+grinder2.mp4,809,32.36,False,False,no sparks,0,0,[]
+grinder2.mp4,810,32.4,False,False,no sparks,0,0,[]
+grinder2.mp4,811,32.44,False,False,no sparks,0,0,[]
+grinder2.mp4,812,32.48,False,False,no sparks,0,0,[]
+grinder2.mp4,813,32.52,False,False,no sparks,0,0,[]
+grinder2.mp4,814,32.56,False,False,no sparks,0,0,[]
+grinder2.mp4,815,32.6,False,False,no sparks,0,0,[]
+grinder2.mp4,816,32.64,False,False,no sparks,0,0,[]
+grinder2.mp4,817,32.68,False,False,no sparks,0,0,[]
+grinder2.mp4,818,32.72,False,False,no sparks,0,0,[]
+grinder2.mp4,819,32.76,False,False,no sparks,0,0,[]
+grinder2.mp4,820,32.8,False,False,no sparks,0,0,[]
+grinder2.mp4,821,32.84,False,False,no sparks,0,0,[]
+grinder2.mp4,822,32.88,False,False,no sparks,0,0,[]
+grinder2.mp4,823,32.92,False,False,no sparks,0,0,[]
+grinder2.mp4,824,32.96,False,False,no sparks,0,0,[]
+grinder2.mp4,825,33.0,False,False,no sparks,0,0,[]
+grinder2.mp4,826,33.04,False,False,no sparks,0,0,[]
+grinder2.mp4,827,33.08,False,False,no sparks,0,0,[]
+grinder2.mp4,828,33.12,False,False,no sparks,0,0,[]
+grinder2.mp4,829,33.16,False,False,no sparks,0,0,[]
+grinder2.mp4,830,33.2,False,False,no sparks,0,0,[]
+grinder2.mp4,831,33.24,False,False,no sparks,0,0,[]
+grinder2.mp4,832,33.28,False,False,no sparks,0,0,[]
+grinder2.mp4,833,33.32,False,False,no sparks,0,0,[]
+grinder2.mp4,834,33.36,False,False,no sparks,0,0,[]
+grinder2.mp4,835,33.4,False,False,no sparks,0,0,[]
+grinder2.mp4,836,33.44,False,False,no sparks,0,0,[]
+grinder2.mp4,837,33.48,False,False,no sparks,0,0,[]
+grinder2.mp4,838,33.52,False,False,no sparks,0,0,[]
+grinder2.mp4,839,33.56,False,False,no sparks,0,0,[]
+grinder2.mp4,840,33.6,False,False,no sparks,0,0,[]
+grinder2.mp4,841,33.64,False,False,no sparks,0,0,[]
+grinder2.mp4,842,33.68,False,False,no sparks,0,0,[]
+grinder2.mp4,843,33.72,False,False,no sparks,0,0,[]
+grinder2.mp4,844,33.76,False,False,no sparks,0,0,[]
+grinder2.mp4,845,33.8,False,False,no sparks,0,0,[]
+grinder2.mp4,846,33.84,False,False,no sparks,0,0,[]
+grinder2.mp4,847,33.88,False,False,no sparks,0,0,[]
+grinder2.mp4,848,33.92,False,False,no sparks,0,0,[]
+grinder2.mp4,849,33.96,False,False,no sparks,0,0,[]
+grinder2.mp4,850,34.0,False,False,no sparks,0,0,[]
+grinder2.mp4,851,34.04,False,False,no sparks,0,0,[]
+grinder2.mp4,852,34.08,False,False,no sparks,0,0,[]
+grinder2.mp4,853,34.12,False,False,no sparks,0,0,[]
+grinder2.mp4,854,34.16,False,False,no sparks,0,0,[]
+grinder2.mp4,855,34.2,False,False,no sparks,0,0,[]
+grinder2.mp4,856,34.24,False,False,no sparks,0,0,[]
+grinder2.mp4,857,34.28,False,False,no sparks,0,0,[]
+grinder2.mp4,858,34.32,False,False,no sparks,0,0,[]
+grinder2.mp4,859,34.36,False,False,no sparks,0,0,[]
+grinder2.mp4,860,34.4,False,False,no sparks,0,0,[]
+grinder2.mp4,861,34.44,False,False,no sparks,0,0,[]
+grinder2.mp4,862,34.48,False,False,no sparks,0,0,[]
+grinder2.mp4,863,34.52,False,False,no sparks,0,0,[]
+grinder2.mp4,864,34.56,False,False,no sparks,0,0,[]
+grinder2.mp4,865,34.6,False,False,no sparks,0,0,[]
+grinder2.mp4,866,34.64,False,False,no sparks,0,0,[]
+grinder2.mp4,867,34.68,False,False,no sparks,0,0,[]
+grinder2.mp4,868,34.72,False,False,no sparks,0,0,[]
+grinder2.mp4,869,34.76,False,False,no sparks,0,0,[]
+grinder2.mp4,870,34.8,False,False,no sparks,0,0,[]
+grinder2.mp4,871,34.84,False,False,no sparks,0,0,[]
+grinder2.mp4,872,34.88,False,False,no sparks,0,0,[]
+grinder2.mp4,873,34.92,False,False,no sparks,0,0,[]
+grinder2.mp4,874,34.96,False,False,no sparks,0,0,[]

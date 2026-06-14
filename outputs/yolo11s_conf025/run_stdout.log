@@ -1,0 +1,6 @@
+Saved annotated video: outputs\yolo11s_conf025\videos\test-sparks-easy_yolo_sparks_detected.mp4
+Saved predictions: outputs\yolo11s_conf025\predictions\test-sparks-easy_yolo_predictions.csv
+Saved annotated video: outputs\yolo11s_conf025\videos\test-sparks-medium_yolo_sparks_detected.mp4
+Saved predictions: outputs\yolo11s_conf025\predictions\test-sparks-medium_yolo_predictions.csv
+Saved annotated video: outputs\yolo11s_conf025\videos\test-sparks-nopositives_yolo_sparks_detected.mp4
+Saved predictions: outputs\yolo11s_conf025\predictions\test-sparks-nopositives_yolo_predictions.csv

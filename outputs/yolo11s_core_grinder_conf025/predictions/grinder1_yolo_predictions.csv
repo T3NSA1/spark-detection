@@ -1,0 +1,516 @@
+video_name,frame_idx,time_sec,has_sparks,raw_has_sparks,pred_label,n_components,mask_pixels,boxes_json
+grinder1.mp4,0,0.0,False,False,no sparks,0,0,[]
+grinder1.mp4,1,0.033367,False,False,no sparks,0,0,[]
+grinder1.mp4,2,0.066733,False,False,no sparks,0,0,[]
+grinder1.mp4,3,0.1001,False,False,no sparks,0,0,[]
+grinder1.mp4,4,0.133467,False,False,no sparks,0,0,[]
+grinder1.mp4,5,0.166833,False,False,no sparks,0,0,[]
+grinder1.mp4,6,0.2002,False,False,no sparks,0,0,[]
+grinder1.mp4,7,0.233567,False,False,no sparks,0,0,[]
+grinder1.mp4,8,0.266933,False,False,no sparks,0,0,[]
+grinder1.mp4,9,0.3003,False,False,no sparks,0,0,[]
+grinder1.mp4,10,0.333667,False,False,no sparks,0,0,[]
+grinder1.mp4,11,0.367033,False,False,no sparks,0,0,[]
+grinder1.mp4,12,0.4004,False,False,no sparks,0,0,[]
+grinder1.mp4,13,0.433767,False,False,no sparks,0,0,[]
+grinder1.mp4,14,0.467133,False,False,no sparks,0,0,[]
+grinder1.mp4,15,0.5005,False,False,no sparks,0,0,[]
+grinder1.mp4,16,0.533867,False,False,no sparks,0,0,[]
+grinder1.mp4,17,0.567233,False,False,no sparks,0,0,[]
+grinder1.mp4,18,0.6006,False,False,no sparks,0,0,[]
+grinder1.mp4,19,0.633967,False,False,no sparks,0,0,[]
+grinder1.mp4,20,0.667333,False,False,no sparks,0,0,[]
+grinder1.mp4,21,0.7007,False,False,no sparks,0,0,[]
+grinder1.mp4,22,0.734067,False,False,no sparks,0,0,[]
+grinder1.mp4,23,0.767433,False,False,no sparks,0,0,[]
+grinder1.mp4,24,0.8008,False,False,no sparks,0,0,[]
+grinder1.mp4,25,0.834167,False,False,no sparks,0,0,[]
+grinder1.mp4,26,0.867533,False,False,no sparks,0,0,[]
+grinder1.mp4,27,0.9009,False,False,no sparks,0,0,[]
+grinder1.mp4,28,0.934267,False,False,no sparks,0,0,[]
+grinder1.mp4,29,0.967633,False,False,no sparks,0,0,[]
+grinder1.mp4,30,1.001,False,False,no sparks,0,0,[]
+grinder1.mp4,31,1.034367,False,False,no sparks,0,0,[]
+grinder1.mp4,32,1.067733,False,False,no sparks,0,0,[]
+grinder1.mp4,33,1.1011,False,False,no sparks,0,0,[]
+grinder1.mp4,34,1.134467,False,False,no sparks,0,0,[]
+grinder1.mp4,35,1.167833,False,False,no sparks,0,0,[]
+grinder1.mp4,36,1.2012,False,False,no sparks,0,0,[]
+grinder1.mp4,37,1.234567,False,False,no sparks,0,0,[]
+grinder1.mp4,38,1.267933,False,False,no sparks,0,0,[]
+grinder1.mp4,39,1.3013,False,False,no sparks,0,0,[]
+grinder1.mp4,40,1.334667,False,False,no sparks,0,0,[]
+grinder1.mp4,41,1.368033,False,False,no sparks,0,0,[]
+grinder1.mp4,42,1.4014,False,False,no sparks,0,0,[]
+grinder1.mp4,43,1.434767,False,False,no sparks,0,0,[]
+grinder1.mp4,44,1.468133,False,False,no sparks,0,0,[]
+grinder1.mp4,45,1.5015,False,False,no sparks,0,0,[]
+grinder1.mp4,46,1.534867,False,False,no sparks,0,0,[]
+grinder1.mp4,47,1.568233,False,False,no sparks,0,0,[]
+grinder1.mp4,48,1.6016,False,False,no sparks,0,0,[]
+grinder1.mp4,49,1.634967,False,False,no sparks,0,0,[]
+grinder1.mp4,50,1.668333,False,False,no sparks,0,0,[]
+grinder1.mp4,51,1.7017,False,False,no sparks,0,0,[]
+grinder1.mp4,52,1.735067,False,False,no sparks,0,0,[]
+grinder1.mp4,53,1.768433,False,False,no sparks,0,0,[]
+grinder1.mp4,54,1.8018,False,False,no sparks,0,0,[]
+grinder1.mp4,55,1.835167,False,False,no sparks,0,0,[]
+grinder1.mp4,56,1.868533,False,False,no sparks,0,0,[]
+grinder1.mp4,57,1.9019,False,False,no sparks,0,0,[]
+grinder1.mp4,58,1.935267,False,False,no sparks,0,0,[]
+grinder1.mp4,59,1.968633,False,False,no sparks,0,0,[]
+grinder1.mp4,60,2.002,False,False,no sparks,0,0,[]
+grinder1.mp4,61,2.035367,False,False,no sparks,0,0,[]
+grinder1.mp4,62,2.068733,False,False,no sparks,0,0,[]
+grinder1.mp4,63,2.1021,False,False,no sparks,0,0,[]
+grinder1.mp4,64,2.135467,False,False,no sparks,0,0,[]
+grinder1.mp4,65,2.168833,False,False,no sparks,0,0,[]
+grinder1.mp4,66,2.2022,False,False,no sparks,0,0,[]
+grinder1.mp4,67,2.235567,False,False,no sparks,0,0,[]
+grinder1.mp4,68,2.268933,False,False,no sparks,0,0,[]
+grinder1.mp4,69,2.3023,False,False,no sparks,0,0,[]
+grinder1.mp4,70,2.335667,False,False,no sparks,0,0,[]
+grinder1.mp4,71,2.369033,False,False,no sparks,0,0,[]
+grinder1.mp4,72,2.4024,False,False,no sparks,0,0,[]
+grinder1.mp4,73,2.435767,False,False,no sparks,0,0,[]
+grinder1.mp4,74,2.469133,False,False,no sparks,0,0,[]
+grinder1.mp4,75,2.5025,False,False,no sparks,0,0,[]
+grinder1.mp4,76,2.535867,False,False,no sparks,0,0,[]
+grinder1.mp4,77,2.569233,False,False,no sparks,0,0,[]
+grinder1.mp4,78,2.6026,False,False,no sparks,0,0,[]
+grinder1.mp4,79,2.635967,False,False,no sparks,0,0,[]
+grinder1.mp4,80,2.669333,False,False,no sparks,0,0,[]
+grinder1.mp4,81,2.7027,False,False,no sparks,0,0,[]
+grinder1.mp4,82,2.736067,False,False,no sparks,0,0,[]
+grinder1.mp4,83,2.769433,False,False,no sparks,0,0,[]
+grinder1.mp4,84,2.8028,False,False,no sparks,0,0,[]
+grinder1.mp4,85,2.836167,False,False,no sparks,0,0,[]
+grinder1.mp4,86,2.869533,False,False,no sparks,0,0,[]
+grinder1.mp4,87,2.9029,False,False,no sparks,0,0,[]
+grinder1.mp4,88,2.936267,False,False,no sparks,0,0,[]
+grinder1.mp4,89,2.969633,False,False,no sparks,0,0,[]
+grinder1.mp4,90,3.003,False,False,no sparks,0,0,[]
+grinder1.mp4,91,3.036367,False,False,no sparks,0,0,[]
+grinder1.mp4,92,3.069733,False,False,no sparks,0,0,[]
+grinder1.mp4,93,3.1031,False,False,no sparks,0,0,[]
+grinder1.mp4,94,3.136467,False,False,no sparks,0,0,[]
+grinder1.mp4,95,3.169833,False,False,no sparks,0,0,[]
+grinder1.mp4,96,3.2032,False,False,no sparks,0,0,[]
+grinder1.mp4,97,3.236567,False,False,no sparks (grinder_spark),1,0,"[{""x"": 319, ""y"": 243, ""w"": 50, ""h"": 83, ""area"": 4150.0, ""label"": ""grinder_spark"", ""confidence"": 0.286304771900177}]"
+grinder1.mp4,98,3.269933,False,False,no sparks (grinder_spark),1,0,"[{""x"": 318, ""y"": 242, ""w"": 46, ""h"": 106, ""area"": 4876.0, ""label"": ""grinder_spark"", ""confidence"": 0.6388920545578003}]"
+grinder1.mp4,99,3.3033,False,False,no sparks (grinder_spark),1,0,"[{""x"": 318, ""y"": 243, ""w"": 46, ""h"": 115, ""area"": 5290.0, ""label"": ""grinder_spark"", ""confidence"": 0.6799195408821106}]"
+grinder1.mp4,100,3.336667,False,False,no sparks (grinder_spark),1,0,"[{""x"": 329, ""y"": 239, ""w"": 48, ""h"": 109, ""area"": 5232.0, ""label"": ""grinder_spark"", ""confidence"": 0.6620100736618042}]"
+grinder1.mp4,101,3.370033,False,False,no sparks (grinder_spark),1,0,"[{""x"": 316, ""y"": 244, ""w"": 87, ""h"": 116, ""area"": 10092.0, ""label"": ""grinder_spark"", ""confidence"": 0.8786540627479553}]"
+grinder1.mp4,102,3.4034,False,False,no sparks (grinder_spark),1,0,"[{""x"": 316, ""y"": 241, ""w"": 82, ""h"": 119, ""area"": 9758.0, ""label"": ""grinder_spark"", ""confidence"": 0.8885297179222107}]"
+grinder1.mp4,103,3.436767,False,False,no sparks (grinder_spark),1,0,"[{""x"": 315, ""y"": 240, ""w"": 89, ""h"": 120, ""area"": 10680.0, ""label"": ""grinder_spark"", ""confidence"": 0.9049192667007446}]"
+grinder1.mp4,104,3.470133,False,False,no sparks (grinder_spark),1,0,"[{""x"": 317, ""y"": 240, ""w"": 64, ""h"": 84, ""area"": 5376.0, ""label"": ""grinder_spark"", ""confidence"": 0.9170461297035217}]"
+grinder1.mp4,105,3.5035,False,False,no sparks (grinder_spark),1,0,"[{""x"": 315, ""y"": 239, ""w"": 100, ""h"": 121, ""area"": 12100.0, ""label"": ""grinder_spark"", ""confidence"": 0.9143582582473755}]"
+grinder1.mp4,106,3.536867,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 95, ""h"": 121, ""area"": 11495.0, ""label"": ""grinder_spark"", ""confidence"": 0.9013344645500183}]"
+grinder1.mp4,107,3.570233,False,False,no sparks (grinder_spark),1,0,"[{""x"": 314, ""y"": 239, ""w"": 98, ""h"": 120, ""area"": 11760.0, ""label"": ""grinder_spark"", ""confidence"": 0.9091734290122986}]"
+grinder1.mp4,108,3.6036,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 238, ""w"": 96, ""h"": 122, ""area"": 11712.0, ""label"": ""grinder_spark"", ""confidence"": 0.9219353795051575}]"
+grinder1.mp4,109,3.636967,False,False,no sparks (grinder_spark),1,0,"[{""x"": 315, ""y"": 239, ""w"": 92, ""h"": 120, ""area"": 11040.0, ""label"": ""grinder_spark"", ""confidence"": 0.9190180897712708}]"
+grinder1.mp4,110,3.670333,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 238, ""w"": 94, ""h"": 122, ""area"": 11468.0, ""label"": ""grinder_spark"", ""confidence"": 0.9312039017677307}]"
+grinder1.mp4,111,3.7037,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 97, ""h"": 121, ""area"": 11737.0, ""label"": ""grinder_spark"", ""confidence"": 0.937714159488678}]"
+grinder1.mp4,112,3.737067,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 97, ""h"": 121, ""area"": 11737.0, ""label"": ""grinder_spark"", ""confidence"": 0.9099714159965515}]"
+grinder1.mp4,113,3.770433,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 97, ""h"": 120, ""area"": 11640.0, ""label"": ""grinder_spark"", ""confidence"": 0.9130333662033081}]"
+grinder1.mp4,114,3.8038,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 85, ""h"": 121, ""area"": 10285.0, ""label"": ""grinder_spark"", ""confidence"": 0.8851788640022278}]"
+grinder1.mp4,115,3.837167,False,False,no sparks (grinder_spark),1,0,"[{""x"": 314, ""y"": 239, ""w"": 80, ""h"": 121, ""area"": 9680.0, ""label"": ""grinder_spark"", ""confidence"": 0.9263445138931274}]"
+grinder1.mp4,116,3.870533,False,False,no sparks (grinder_spark),1,0,"[{""x"": 314, ""y"": 238, ""w"": 94, ""h"": 122, ""area"": 11468.0, ""label"": ""grinder_spark"", ""confidence"": 0.9125356674194336}]"
+grinder1.mp4,117,3.9039,False,False,no sparks (grinder_spark),1,0,"[{""x"": 314, ""y"": 238, ""w"": 91, ""h"": 121, ""area"": 11011.0, ""label"": ""grinder_spark"", ""confidence"": 0.9324721693992615}]"
+grinder1.mp4,118,3.937267,False,False,no sparks (grinder_spark),1,0,"[{""x"": 314, ""y"": 238, ""w"": 104, ""h"": 122, ""area"": 12688.0, ""label"": ""grinder_spark"", ""confidence"": 0.9200192093849182}]"
+grinder1.mp4,119,3.970633,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 238, ""w"": 100, ""h"": 121, ""area"": 12100.0, ""label"": ""grinder_spark"", ""confidence"": 0.926599383354187}]"
+grinder1.mp4,120,4.004,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 238, ""w"": 90, ""h"": 122, ""area"": 10980.0, ""label"": ""grinder_spark"", ""confidence"": 0.9264319539070129}]"
+grinder1.mp4,121,4.037367,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 238, ""w"": 94, ""h"": 121, ""area"": 11374.0, ""label"": ""grinder_spark"", ""confidence"": 0.9274683594703674}]"
+grinder1.mp4,122,4.070733,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 240, ""w"": 92, ""h"": 120, ""area"": 11040.0, ""label"": ""grinder_spark"", ""confidence"": 0.9295264482498169}]"
+grinder1.mp4,123,4.1041,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 241, ""w"": 87, ""h"": 118, ""area"": 10266.0, ""label"": ""grinder_spark"", ""confidence"": 0.9244158864021301}]"
+grinder1.mp4,124,4.137467,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 240, ""w"": 98, ""h"": 120, ""area"": 11760.0, ""label"": ""grinder_spark"", ""confidence"": 0.9209287166595459}]"
+grinder1.mp4,125,4.170833,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 95, ""h"": 120, ""area"": 11400.0, ""label"": ""grinder_spark"", ""confidence"": 0.926474928855896}]"
+grinder1.mp4,126,4.2042,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 238, ""w"": 107, ""h"": 122, ""area"": 13054.0, ""label"": ""grinder_spark"", ""confidence"": 0.9096878170967102}]"
+grinder1.mp4,127,4.237567,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 240, ""w"": 91, ""h"": 119, ""area"": 10829.0, ""label"": ""grinder_spark"", ""confidence"": 0.9315200448036194}]"
+grinder1.mp4,128,4.270933,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 241, ""w"": 89, ""h"": 119, ""area"": 10591.0, ""label"": ""grinder_spark"", ""confidence"": 0.8974007368087769}]"
+grinder1.mp4,129,4.3043,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 239, ""w"": 80, ""h"": 121, ""area"": 9680.0, ""label"": ""grinder_spark"", ""confidence"": 0.9267899990081787}]"
+grinder1.mp4,130,4.337667,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 240, ""w"": 80, ""h"": 120, ""area"": 9600.0, ""label"": ""grinder_spark"", ""confidence"": 0.9160358309745789}]"
+grinder1.mp4,131,4.371033,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 78, ""h"": 120, ""area"": 9360.0, ""label"": ""grinder_spark"", ""confidence"": 0.9243031740188599}]"
+grinder1.mp4,132,4.4044,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 82, ""h"": 121, ""area"": 9922.0, ""label"": ""grinder_spark"", ""confidence"": 0.9256483912467957}]"
+grinder1.mp4,133,4.437767,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 85, ""h"": 121, ""area"": 10285.0, ""label"": ""grinder_spark"", ""confidence"": 0.9056832194328308}]"
+grinder1.mp4,134,4.471133,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 239, ""w"": 96, ""h"": 120, ""area"": 11520.0, ""label"": ""grinder_spark"", ""confidence"": 0.928213894367218}]"
+grinder1.mp4,135,4.5045,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 240, ""w"": 92, ""h"": 120, ""area"": 11040.0, ""label"": ""grinder_spark"", ""confidence"": 0.9414989948272705}]"
+grinder1.mp4,136,4.537867,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 240, ""w"": 86, ""h"": 120, ""area"": 10320.0, ""label"": ""grinder_spark"", ""confidence"": 0.9228160381317139}]"
+grinder1.mp4,137,4.571233,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 240, ""w"": 87, ""h"": 120, ""area"": 10440.0, ""label"": ""grinder_spark"", ""confidence"": 0.93360435962677}]"
+grinder1.mp4,138,4.6046,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 240, ""w"": 79, ""h"": 120, ""area"": 9480.0, ""label"": ""grinder_spark"", ""confidence"": 0.9205554723739624}]"
+grinder1.mp4,139,4.637967,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 240, ""w"": 97, ""h"": 120, ""area"": 11640.0, ""label"": ""grinder_spark"", ""confidence"": 0.9377102851867676}]"
+grinder1.mp4,140,4.671333,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 89, ""h"": 121, ""area"": 10769.0, ""label"": ""grinder_spark"", ""confidence"": 0.9207082390785217}]"
+grinder1.mp4,141,4.7047,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 238, ""w"": 98, ""h"": 122, ""area"": 11956.0, ""label"": ""grinder_spark"", ""confidence"": 0.9333332777023315}]"
+grinder1.mp4,142,4.738067,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 239, ""w"": 99, ""h"": 121, ""area"": 11979.0, ""label"": ""grinder_spark"", ""confidence"": 0.9311755895614624}]"
+grinder1.mp4,143,4.771433,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 239, ""w"": 108, ""h"": 121, ""area"": 13068.0, ""label"": ""grinder_spark"", ""confidence"": 0.9326514005661011}]"
+grinder1.mp4,144,4.8048,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 240, ""w"": 91, ""h"": 120, ""area"": 10920.0, ""label"": ""grinder_spark"", ""confidence"": 0.9256243705749512}]"
+grinder1.mp4,145,4.838167,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 239, ""w"": 81, ""h"": 121, ""area"": 9801.0, ""label"": ""grinder_spark"", ""confidence"": 0.9429818391799927}]"
+grinder1.mp4,146,4.871533,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 239, ""w"": 81, ""h"": 121, ""area"": 9801.0, ""label"": ""grinder_spark"", ""confidence"": 0.9355751276016235}]"
+grinder1.mp4,147,4.9049,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 88, ""h"": 121, ""area"": 10648.0, ""label"": ""grinder_spark"", ""confidence"": 0.9273746013641357}]"
+grinder1.mp4,148,4.938267,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 238, ""w"": 110, ""h"": 122, ""area"": 13420.0, ""label"": ""grinder_spark"", ""confidence"": 0.9190338253974915}]"
+grinder1.mp4,149,4.971633,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 239, ""w"": 99, ""h"": 120, ""area"": 11880.0, ""label"": ""grinder_spark"", ""confidence"": 0.9423204064369202}]"
+grinder1.mp4,150,5.005,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 239, ""w"": 102, ""h"": 121, ""area"": 12342.0, ""label"": ""grinder_spark"", ""confidence"": 0.9343529939651489}]"
+grinder1.mp4,151,5.038367,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 240, ""w"": 100, ""h"": 119, ""area"": 11900.0, ""label"": ""grinder_spark"", ""confidence"": 0.9348769783973694}]"
+grinder1.mp4,152,5.071733,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 239, ""w"": 88, ""h"": 121, ""area"": 10648.0, ""label"": ""grinder_spark"", ""confidence"": 0.9330587983131409}]"
+grinder1.mp4,153,5.1051,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 240, ""w"": 94, ""h"": 120, ""area"": 11280.0, ""label"": ""grinder_spark"", ""confidence"": 0.9397361278533936}]"
+grinder1.mp4,154,5.138467,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 241, ""w"": 92, ""h"": 119, ""area"": 10948.0, ""label"": ""grinder_spark"", ""confidence"": 0.9179496169090271}]"
+grinder1.mp4,155,5.171833,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 241, ""w"": 93, ""h"": 119, ""area"": 11067.0, ""label"": ""grinder_spark"", ""confidence"": 0.9489840269088745}]"
+grinder1.mp4,156,5.2052,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 239, ""w"": 108, ""h"": 120, ""area"": 12960.0, ""label"": ""grinder_spark"", ""confidence"": 0.9311644434928894}]"
+grinder1.mp4,157,5.238567,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 239, ""w"": 98, ""h"": 121, ""area"": 11858.0, ""label"": ""grinder_spark"", ""confidence"": 0.9345930218696594}]"
+grinder1.mp4,158,5.271933,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 239, ""w"": 102, ""h"": 120, ""area"": 12240.0, ""label"": ""grinder_spark"", ""confidence"": 0.886497437953949}]"
+grinder1.mp4,159,5.3053,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 240, ""w"": 92, ""h"": 120, ""area"": 11040.0, ""label"": ""grinder_spark"", ""confidence"": 0.9307880401611328}]"
+grinder1.mp4,160,5.338667,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 241, ""w"": 80, ""h"": 119, ""area"": 9520.0, ""label"": ""grinder_spark"", ""confidence"": 0.9064974784851074}]"
+grinder1.mp4,161,5.372033,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 241, ""w"": 79, ""h"": 119, ""area"": 9401.0, ""label"": ""grinder_spark"", ""confidence"": 0.9215500950813293}]"
+grinder1.mp4,162,5.4054,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 241, ""w"": 91, ""h"": 119, ""area"": 10829.0, ""label"": ""grinder_spark"", ""confidence"": 0.9357356429100037}]"
+grinder1.mp4,163,5.438767,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 239, ""w"": 99, ""h"": 120, ""area"": 11880.0, ""label"": ""grinder_spark"", ""confidence"": 0.937157154083252}]"
+grinder1.mp4,164,5.472133,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 238, ""w"": 106, ""h"": 122, ""area"": 12932.0, ""label"": ""grinder_spark"", ""confidence"": 0.9154190421104431}]"
+grinder1.mp4,165,5.5055,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 240, ""w"": 109, ""h"": 119, ""area"": 12971.0, ""label"": ""grinder_spark"", ""confidence"": 0.9172641634941101}]"
+grinder1.mp4,166,5.538867,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 239, ""w"": 111, ""h"": 120, ""area"": 13320.0, ""label"": ""grinder_spark"", ""confidence"": 0.9378433227539062}]"
+grinder1.mp4,167,5.572233,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 238, ""w"": 97, ""h"": 121, ""area"": 11737.0, ""label"": ""grinder_spark"", ""confidence"": 0.9398821592330933}]"
+grinder1.mp4,168,5.6056,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 238, ""w"": 102, ""h"": 122, ""area"": 12444.0, ""label"": ""grinder_spark"", ""confidence"": 0.9264536499977112}]"
+grinder1.mp4,169,5.638967,False,False,no sparks (grinder_spark),1,0,"[{""x"": 308, ""y"": 240, ""w"": 81, ""h"": 120, ""area"": 9720.0, ""label"": ""grinder_spark"", ""confidence"": 0.9112768769264221}]"
+grinder1.mp4,170,5.672333,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 240, ""w"": 70, ""h"": 119, ""area"": 8330.0, ""label"": ""grinder_spark"", ""confidence"": 0.8946218490600586}]"
+grinder1.mp4,171,5.7057,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 240, ""w"": 84, ""h"": 120, ""area"": 10080.0, ""label"": ""grinder_spark"", ""confidence"": 0.9229286313056946}]"
+grinder1.mp4,172,5.739067,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 241, ""w"": 91, ""h"": 119, ""area"": 10829.0, ""label"": ""grinder_spark"", ""confidence"": 0.9228931665420532}]"
+grinder1.mp4,173,5.772433,False,False,no sparks (grinder_spark),1,0,"[{""x"": 313, ""y"": 241, ""w"": 71, ""h"": 118, ""area"": 8378.0, ""label"": ""grinder_spark"", ""confidence"": 0.9040740132331848}]"
+grinder1.mp4,174,5.8058,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 241, ""w"": 66, ""h"": 119, ""area"": 7854.0, ""label"": ""grinder_spark"", ""confidence"": 0.9217317700386047}]"
+grinder1.mp4,175,5.839167,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 242, ""w"": 62, ""h"": 117, ""area"": 7254.0, ""label"": ""grinder_spark"", ""confidence"": 0.9236893057823181}]"
+grinder1.mp4,176,5.872533,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 240, ""w"": 76, ""h"": 120, ""area"": 9120.0, ""label"": ""grinder_spark"", ""confidence"": 0.8963290452957153}]"
+grinder1.mp4,177,5.9059,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 241, ""w"": 77, ""h"": 118, ""area"": 9086.0, ""label"": ""grinder_spark"", ""confidence"": 0.9085976481437683}]"
+grinder1.mp4,178,5.939267,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 241, ""w"": 73, ""h"": 117, ""area"": 8541.0, ""label"": ""grinder_spark"", ""confidence"": 0.9095286130905151}]"
+grinder1.mp4,179,5.972633,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 240, ""w"": 81, ""h"": 120, ""area"": 9720.0, ""label"": ""grinder_spark"", ""confidence"": 0.9329360127449036}]"
+grinder1.mp4,180,6.006,False,False,no sparks (grinder_spark),1,0,"[{""x"": 312, ""y"": 241, ""w"": 72, ""h"": 118, ""area"": 8496.0, ""label"": ""grinder_spark"", ""confidence"": 0.9064581990242004}]"
+grinder1.mp4,181,6.039367,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 241, ""w"": 72, ""h"": 119, ""area"": 8568.0, ""label"": ""grinder_spark"", ""confidence"": 0.8787637948989868}]"
+grinder1.mp4,182,6.072733,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 241, ""w"": 65, ""h"": 119, ""area"": 7735.0, ""label"": ""grinder_spark"", ""confidence"": 0.9196421504020691}]"
+grinder1.mp4,183,6.1061,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 241, ""w"": 66, ""h"": 119, ""area"": 7854.0, ""label"": ""grinder_spark"", ""confidence"": 0.918773889541626}]"
+grinder1.mp4,184,6.139467,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 240, ""w"": 81, ""h"": 119, ""area"": 9639.0, ""label"": ""grinder_spark"", ""confidence"": 0.9116275310516357}]"
+grinder1.mp4,185,6.172833,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 240, ""w"": 93, ""h"": 120, ""area"": 11160.0, ""label"": ""grinder_spark"", ""confidence"": 0.928539514541626}]"
+grinder1.mp4,186,6.2062,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 240, ""w"": 85, ""h"": 119, ""area"": 10115.0, ""label"": ""grinder_spark"", ""confidence"": 0.9072535634040833}]"
+grinder1.mp4,187,6.239567,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 239, ""w"": 85, ""h"": 121, ""area"": 10285.0, ""label"": ""grinder_spark"", ""confidence"": 0.9145635366439819}]"
+grinder1.mp4,188,6.272933,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 239, ""w"": 84, ""h"": 121, ""area"": 10164.0, ""label"": ""grinder_spark"", ""confidence"": 0.9296776652336121}]"
+grinder1.mp4,189,6.3063,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 240, ""w"": 90, ""h"": 120, ""area"": 10800.0, ""label"": ""grinder_spark"", ""confidence"": 0.9070515632629395}]"
+grinder1.mp4,190,6.339667,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 239, ""w"": 82, ""h"": 121, ""area"": 9922.0, ""label"": ""grinder_spark"", ""confidence"": 0.941117525100708}]"
+grinder1.mp4,191,6.373033,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 239, ""w"": 81, ""h"": 121, ""area"": 9801.0, ""label"": ""grinder_spark"", ""confidence"": 0.9184466600418091}]"
+grinder1.mp4,192,6.4064,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 239, ""w"": 95, ""h"": 121, ""area"": 11495.0, ""label"": ""grinder_spark"", ""confidence"": 0.9344818592071533}]"
+grinder1.mp4,193,6.439767,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 240, ""w"": 94, ""h"": 120, ""area"": 11280.0, ""label"": ""grinder_spark"", ""confidence"": 0.9359022378921509}]"
+grinder1.mp4,194,6.473133,False,False,no sparks (grinder_spark),1,0,"[{""x"": 309, ""y"": 240, ""w"": 79, ""h"": 118, ""area"": 9322.0, ""label"": ""grinder_spark"", ""confidence"": 0.9142491221427917}]"
+grinder1.mp4,195,6.5065,False,False,no sparks (grinder_spark),1,0,"[{""x"": 309, ""y"": 241, ""w"": 74, ""h"": 119, ""area"": 8806.0, ""label"": ""grinder_spark"", ""confidence"": 0.9194639325141907}]"
+grinder1.mp4,196,6.539867,False,False,no sparks (grinder_spark),1,0,"[{""x"": 309, ""y"": 241, ""w"": 81, ""h"": 119, ""area"": 9639.0, ""label"": ""grinder_spark"", ""confidence"": 0.9223477244377136}]"
+grinder1.mp4,197,6.573233,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 240, ""w"": 78, ""h"": 120, ""area"": 9360.0, ""label"": ""grinder_spark"", ""confidence"": 0.9028816819190979}]"
+grinder1.mp4,198,6.6066,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 239, ""w"": 91, ""h"": 121, ""area"": 11011.0, ""label"": ""grinder_spark"", ""confidence"": 0.9340159893035889}]"
+grinder1.mp4,199,6.639967,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 240, ""w"": 84, ""h"": 120, ""area"": 10080.0, ""label"": ""grinder_spark"", ""confidence"": 0.927051305770874}]"
+grinder1.mp4,200,6.673333,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 240, ""w"": 101, ""h"": 120, ""area"": 12120.0, ""label"": ""grinder_spark"", ""confidence"": 0.9117464423179626}]"
+grinder1.mp4,201,6.7067,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 240, ""w"": 84, ""h"": 120, ""area"": 10080.0, ""label"": ""grinder_spark"", ""confidence"": 0.9084246754646301}]"
+grinder1.mp4,202,6.740067,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 242, ""w"": 67, ""h"": 118, ""area"": 7906.0, ""label"": ""grinder_spark"", ""confidence"": 0.9285445809364319}]"
+grinder1.mp4,203,6.773433,False,False,no sparks (grinder_spark),1,0,"[{""x"": 309, ""y"": 240, ""w"": 94, ""h"": 120, ""area"": 11280.0, ""label"": ""grinder_spark"", ""confidence"": 0.9296689033508301}]"
+grinder1.mp4,204,6.8068,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 240, ""w"": 109, ""h"": 120, ""area"": 13080.0, ""label"": ""grinder_spark"", ""confidence"": 0.925894021987915}]"
+grinder1.mp4,205,6.840167,False,False,no sparks (grinder_spark),1,0,"[{""x"": 310, ""y"": 240, ""w"": 96, ""h"": 119, ""area"": 11424.0, ""label"": ""grinder_spark"", ""confidence"": 0.9466939568519592}]"
+grinder1.mp4,206,6.873533,False,False,no sparks (grinder_spark),1,0,"[{""x"": 311, ""y"": 240, ""w"": 100, ""h"": 120, ""area"": 12000.0, ""label"": ""grinder_spark"", ""confidence"": 0.9205219745635986}]"
+grinder1.mp4,207,6.9069,False,False,no sparks,0,0,[]
+grinder1.mp4,208,6.940267,False,False,no sparks (grinder_spark),1,0,"[{""x"": 315, ""y"": 243, ""w"": 31, ""h"": 88, ""area"": 2728.0, ""label"": ""grinder_spark"", ""confidence"": 0.772284746170044}]"
+grinder1.mp4,209,6.973633,False,False,no sparks,0,0,[]
+grinder1.mp4,210,7.007,False,False,no sparks,0,0,[]
+grinder1.mp4,211,7.040367,False,False,no sparks,0,0,[]
+grinder1.mp4,212,7.073733,False,False,no sparks,0,0,[]
+grinder1.mp4,213,7.1071,False,False,no sparks,0,0,[]
+grinder1.mp4,214,7.140467,False,False,no sparks,0,0,[]
+grinder1.mp4,215,7.173833,False,False,no sparks,0,0,[]
+grinder1.mp4,216,7.2072,False,False,no sparks,0,0,[]
+grinder1.mp4,217,7.240567,False,False,no sparks,0,0,[]
+grinder1.mp4,218,7.273933,False,False,no sparks,0,0,[]
+grinder1.mp4,219,7.3073,False,False,no sparks,0,0,[]
+grinder1.mp4,220,7.340667,False,False,no sparks,0,0,[]
+grinder1.mp4,221,7.374033,False,False,no sparks,0,0,[]
+grinder1.mp4,222,7.4074,False,False,no sparks,0,0,[]
+grinder1.mp4,223,7.440767,False,False,no sparks,0,0,[]
+grinder1.mp4,224,7.474133,False,False,no sparks,0,0,[]
+grinder1.mp4,225,7.5075,False,False,no sparks,0,0,[]
+grinder1.mp4,226,7.540867,False,False,no sparks,0,0,[]
+grinder1.mp4,227,7.574233,False,False,no sparks,0,0,[]
+grinder1.mp4,228,7.6076,False,False,no sparks,0,0,[]
+grinder1.mp4,229,7.640967,False,False,no sparks,0,0,[]
+grinder1.mp4,230,7.674333,False,False,no sparks,0,0,[]
+grinder1.mp4,231,7.7077,False,False,no sparks,0,0,[]
+grinder1.mp4,232,7.741067,False,False,no sparks,0,0,[]
+grinder1.mp4,233,7.774433,False,False,no sparks,0,0,[]
+grinder1.mp4,234,7.8078,False,False,no sparks,0,0,[]
+grinder1.mp4,235,7.841167,False,False,no sparks,0,0,[]
+grinder1.mp4,236,7.874533,False,False,no sparks,0,0,[]
+grinder1.mp4,237,7.9079,False,False,no sparks,0,0,[]
+grinder1.mp4,238,7.941267,False,False,no sparks,0,0,[]
+grinder1.mp4,239,7.974633,False,False,no sparks,0,0,[]
+grinder1.mp4,240,8.008,False,False,no sparks,0,0,[]
+grinder1.mp4,241,8.041367,False,False,no sparks,0,0,[]
+grinder1.mp4,242,8.074733,False,False,no sparks,0,0,[]
+grinder1.mp4,243,8.1081,False,False,no sparks,0,0,[]
+grinder1.mp4,244,8.141467,False,False,no sparks,0,0,[]
+grinder1.mp4,245,8.174833,False,False,no sparks,0,0,[]
+grinder1.mp4,246,8.2082,False,False,no sparks,0,0,[]
+grinder1.mp4,247,8.241567,False,False,no sparks,0,0,[]
+grinder1.mp4,248,8.274933,False,False,no sparks,0,0,[]
+grinder1.mp4,249,8.3083,False,False,no sparks,0,0,[]
+grinder1.mp4,250,8.341667,False,False,no sparks,0,0,[]
+grinder1.mp4,251,8.375033,False,False,no sparks,0,0,[]
+grinder1.mp4,252,8.4084,False,False,no sparks,0,0,[]
+grinder1.mp4,253,8.441767,False,False,no sparks,0,0,[]
+grinder1.mp4,254,8.475133,False,False,no sparks,0,0,[]
+grinder1.mp4,255,8.5085,False,False,no sparks,0,0,[]
+grinder1.mp4,256,8.541867,False,False,no sparks,0,0,[]
+grinder1.mp4,257,8.575233,False,False,no sparks,0,0,[]
+grinder1.mp4,258,8.6086,False,False,no sparks,0,0,[]
+grinder1.mp4,259,8.641967,False,False,no sparks,0,0,[]
+grinder1.mp4,260,8.675333,False,False,no sparks,0,0,[]
+grinder1.mp4,261,8.7087,False,False,no sparks,0,0,[]
+grinder1.mp4,262,8.742067,False,False,no sparks,0,0,[]
+grinder1.mp4,263,8.775433,False,False,no sparks,0,0,[]
+grinder1.mp4,264,8.8088,False,False,no sparks,0,0,[]
+grinder1.mp4,265,8.842167,False,False,no sparks,0,0,[]
+grinder1.mp4,266,8.875533,False,False,no sparks,0,0,[]
+grinder1.mp4,267,8.9089,False,False,no sparks,0,0,[]
+grinder1.mp4,268,8.942267,False,False,no sparks,0,0,[]
+grinder1.mp4,269,8.975633,False,False,no sparks,0,0,[]
+grinder1.mp4,270,9.009,False,False,no sparks,0,0,[]
+grinder1.mp4,271,9.042367,False,False,no sparks,0,0,[]
+grinder1.mp4,272,9.075733,False,False,no sparks,0,0,[]
+grinder1.mp4,273,9.1091,False,False,no sparks,0,0,[]
+grinder1.mp4,274,9.142467,False,False,no sparks,0,0,[]
+grinder1.mp4,275,9.175833,False,False,no sparks,0,0,[]
+grinder1.mp4,276,9.2092,False,False,no sparks,0,0,[]
+grinder1.mp4,277,9.242567,False,False,no sparks,0,0,[]
+grinder1.mp4,278,9.275933,False,False,no sparks,0,0,[]
+grinder1.mp4,279,9.3093,False,False,no sparks,0,0,[]
+grinder1.mp4,280,9.342667,False,False,no sparks,0,0,[]
+grinder1.mp4,281,9.376033,False,False,no sparks,0,0,[]
+grinder1.mp4,282,9.4094,False,False,no sparks,0,0,[]
+grinder1.mp4,283,9.442767,False,False,no sparks,0,0,[]
+grinder1.mp4,284,9.476133,False,False,no sparks,0,0,[]
+grinder1.mp4,285,9.5095,False,False,no sparks,0,0,[]
+grinder1.mp4,286,9.542867,False,False,no sparks,0,0,[]
+grinder1.mp4,287,9.576233,False,False,no sparks,0,0,[]
+grinder1.mp4,288,9.6096,False,False,no sparks,0,0,[]
+grinder1.mp4,289,9.642967,False,False,no sparks,0,0,[]
+grinder1.mp4,290,9.676333,False,False,no sparks,0,0,[]
+grinder1.mp4,291,9.7097,False,False,no sparks,0,0,[]
+grinder1.mp4,292,9.743067,False,False,no sparks,0,0,[]
+grinder1.mp4,293,9.776433,False,False,no sparks,0,0,[]
+grinder1.mp4,294,9.8098,False,False,no sparks,0,0,[]
+grinder1.mp4,295,9.843167,False,False,no sparks,0,0,[]
+grinder1.mp4,296,9.876533,False,False,no sparks,0,0,[]
+grinder1.mp4,297,9.9099,False,False,no sparks,0,0,[]
+grinder1.mp4,298,9.943267,False,False,no sparks,0,0,[]
+grinder1.mp4,299,9.976633,False,False,no sparks,0,0,[]
+grinder1.mp4,300,10.01,False,False,no sparks,0,0,[]
+grinder1.mp4,301,10.043367,False,False,no sparks,0,0,[]
+grinder1.mp4,302,10.076733,False,False,no sparks,0,0,[]
+grinder1.mp4,303,10.1101,False,False,no sparks,0,0,[]
+grinder1.mp4,304,10.143467,False,False,no sparks,0,0,[]
+grinder1.mp4,305,10.176833,False,False,no sparks,0,0,[]
+grinder1.mp4,306,10.2102,False,False,no sparks,0,0,[]
+grinder1.mp4,307,10.243567,False,False,no sparks,0,0,[]
+grinder1.mp4,308,10.276933,False,False,no sparks,0,0,[]
+grinder1.mp4,309,10.3103,False,False,no sparks,0,0,[]
+grinder1.mp4,310,10.343667,False,False,no sparks,0,0,[]
+grinder1.mp4,311,10.377033,False,False,no sparks,0,0,[]
+grinder1.mp4,312,10.4104,False,False,no sparks,0,0,[]
+grinder1.mp4,313,10.443767,False,False,no sparks,0,0,[]
+grinder1.mp4,314,10.477133,False,False,no sparks,0,0,[]
+grinder1.mp4,315,10.5105,False,False,no sparks,0,0,[]
+grinder1.mp4,316,10.543867,False,False,no sparks,0,0,[]
+grinder1.mp4,317,10.577233,False,False,no sparks,0,0,[]
+grinder1.mp4,318,10.6106,False,False,no sparks,0,0,[]
+grinder1.mp4,319,10.643967,False,False,no sparks,0,0,[]
+grinder1.mp4,320,10.677333,False,False,no sparks,0,0,[]
+grinder1.mp4,321,10.7107,False,False,no sparks,0,0,[]
+grinder1.mp4,322,10.744067,False,False,no sparks,0,0,[]
+grinder1.mp4,323,10.777433,False,False,no sparks,0,0,[]
+grinder1.mp4,324,10.8108,False,False,no sparks,0,0,[]
+grinder1.mp4,325,10.844167,False,False,no sparks,0,0,[]
+grinder1.mp4,326,10.877533,False,False,no sparks,0,0,[]
+grinder1.mp4,327,10.9109,False,False,no sparks,0,0,[]
+grinder1.mp4,328,10.944267,False,False,no sparks,0,0,[]
+grinder1.mp4,329,10.977633,False,False,no sparks,0,0,[]
+grinder1.mp4,330,11.011,False,False,no sparks,0,0,[]
+grinder1.mp4,331,11.044367,False,False,no sparks,0,0,[]
+grinder1.mp4,332,11.077733,False,False,no sparks,0,0,[]
+grinder1.mp4,333,11.1111,False,False,no sparks,0,0,[]
+grinder1.mp4,334,11.144467,False,False,no sparks,0,0,[]
+grinder1.mp4,335,11.177833,False,False,no sparks,0,0,[]
+grinder1.mp4,336,11.2112,False,False,no sparks,0,0,[]
+grinder1.mp4,337,11.244567,False,False,no sparks,0,0,[]
+grinder1.mp4,338,11.277933,False,False,no sparks,0,0,[]
+grinder1.mp4,339,11.3113,False,False,no sparks,0,0,[]
+grinder1.mp4,340,11.344667,False,False,no sparks,0,0,[]
+grinder1.mp4,341,11.378033,False,False,no sparks,0,0,[]
+grinder1.mp4,342,11.4114,False,False,no sparks,0,0,[]
+grinder1.mp4,343,11.444767,False,False,no sparks,0,0,[]
+grinder1.mp4,344,11.478133,False,False,no sparks,0,0,[]
+grinder1.mp4,345,11.5115,False,False,no sparks,0,0,[]
+grinder1.mp4,346,11.544867,False,False,no sparks,0,0,[]
+grinder1.mp4,347,11.578233,False,False,no sparks,0,0,[]
+grinder1.mp4,348,11.6116,False,False,no sparks,0,0,[]
+grinder1.mp4,349,11.644967,False,False,no sparks,0,0,[]
+grinder1.mp4,350,11.678333,False,False,no sparks,0,0,[]
+grinder1.mp4,351,11.7117,False,False,no sparks,0,0,[]
+grinder1.mp4,352,11.745067,False,False,no sparks,0,0,[]
+grinder1.mp4,353,11.778433,False,False,no sparks,0,0,[]
+grinder1.mp4,354,11.8118,False,False,no sparks,0,0,[]
+grinder1.mp4,355,11.845167,False,False,no sparks,0,0,[]
+grinder1.mp4,356,11.878533,False,False,no sparks,0,0,[]
+grinder1.mp4,357,11.9119,False,False,no sparks,0,0,[]
+grinder1.mp4,358,11.945267,False,False,no sparks,0,0,[]
+grinder1.mp4,359,11.978633,False,False,no sparks,0,0,[]
+grinder1.mp4,360,12.012,False,False,no sparks,0,0,[]
+grinder1.mp4,361,12.045367,False,False,no sparks,0,0,[]
+grinder1.mp4,362,12.078733,False,False,no sparks,0,0,[]
+grinder1.mp4,363,12.1121,False,False,no sparks,0,0,[]
+grinder1.mp4,364,12.145467,False,False,no sparks,0,0,[]
+grinder1.mp4,365,12.178833,False,False,no sparks,0,0,[]
+grinder1.mp4,366,12.2122,False,False,no sparks,0,0,[]
+grinder1.mp4,367,12.245567,False,False,no sparks,0,0,[]
+grinder1.mp4,368,12.278933,False,False,no sparks,0,0,[]
+grinder1.mp4,369,12.3123,False,False,no sparks,0,0,[]
+grinder1.mp4,370,12.345667,False,False,no sparks,0,0,[]
+grinder1.mp4,371,12.379033,False,False,no sparks,0,0,[]
+grinder1.mp4,372,12.4124,False,False,no sparks,0,0,[]
+grinder1.mp4,373,12.445767,False,False,no sparks,0,0,[]
+grinder1.mp4,374,12.479133,False,False,no sparks,0,0,[]
+grinder1.mp4,375,12.5125,False,False,no sparks,0,0,[]
+grinder1.mp4,376,12.545867,False,False,no sparks,0,0,[]
+grinder1.mp4,377,12.579233,False,False,no sparks,0,0,[]
+grinder1.mp4,378,12.6126,False,False,no sparks,0,0,[]
+grinder1.mp4,379,12.645967,False,False,no sparks,0,0,[]
+grinder1.mp4,380,12.679333,False,False,no sparks,0,0,[]
+grinder1.mp4,381,12.7127,False,False,no sparks,0,0,[]
+grinder1.mp4,382,12.746067,False,False,no sparks,0,0,[]
+grinder1.mp4,383,12.779433,False,False,no sparks,0,0,[]
+grinder1.mp4,384,12.8128,False,False,no sparks,0,0,[]
+grinder1.mp4,385,12.846167,False,False,no sparks,0,0,[]
+grinder1.mp4,386,12.879533,False,False,no sparks,0,0,[]
+grinder1.mp4,387,12.9129,False,False,no sparks,0,0,[]
+grinder1.mp4,388,12.946267,False,False,no sparks,0,0,[]
+grinder1.mp4,389,12.979633,False,False,no sparks,0,0,[]
+grinder1.mp4,390,13.013,False,False,no sparks,0,0,[]
+grinder1.mp4,391,13.046367,False,False,no sparks,0,0,[]
+grinder1.mp4,392,13.079733,False,False,no sparks,0,0,[]
+grinder1.mp4,393,13.1131,False,False,no sparks,0,0,[]
+grinder1.mp4,394,13.146467,False,False,no sparks,0,0,[]
+grinder1.mp4,395,13.179833,False,False,no sparks,0,0,[]
+grinder1.mp4,396,13.2132,False,False,no sparks,0,0,[]
+grinder1.mp4,397,13.246567,False,False,no sparks,0,0,[]
+grinder1.mp4,398,13.279933,False,False,no sparks,0,0,[]
+grinder1.mp4,399,13.3133,False,False,no sparks,0,0,[]
+grinder1.mp4,400,13.346667,False,False,no sparks,0,0,[]
+grinder1.mp4,401,13.380033,False,False,no sparks,0,0,[]
+grinder1.mp4,402,13.4134,False,False,no sparks,0,0,[]
+grinder1.mp4,403,13.446767,False,False,no sparks,0,0,[]
+grinder1.mp4,404,13.480133,False,False,no sparks,0,0,[]
+grinder1.mp4,405,13.5135,False,False,no sparks,0,0,[]
+grinder1.mp4,406,13.546867,False,False,no sparks,0,0,[]
+grinder1.mp4,407,13.580233,False,False,no sparks,0,0,[]
+grinder1.mp4,408,13.6136,False,False,no sparks,0,0,[]
+grinder1.mp4,409,13.646967,False,False,no sparks,0,0,[]
+grinder1.mp4,410,13.680333,False,False,no sparks,0,0,[]
+grinder1.mp4,411,13.7137,False,False,no sparks,0,0,[]
+grinder1.mp4,412,13.747067,False,False,no sparks,0,0,[]
+grinder1.mp4,413,13.780433,False,False,no sparks,0,0,[]
+grinder1.mp4,414,13.8138,False,False,no sparks,0,0,[]
+grinder1.mp4,415,13.847167,False,False,no sparks,0,0,[]
+grinder1.mp4,416,13.880533,False,False,no sparks,0,0,[]
+grinder1.mp4,417,13.9139,False,False,no sparks,0,0,[]
+grinder1.mp4,418,13.947267,False,False,no sparks,0,0,[]
+grinder1.mp4,419,13.980633,False,False,no sparks,0,0,[]
+grinder1.mp4,420,14.014,False,False,no sparks,0,0,[]
+grinder1.mp4,421,14.047367,False,False,no sparks,0,0,[]
+grinder1.mp4,422,14.080733,False,False,no sparks,0,0,[]
+grinder1.mp4,423,14.1141,False,False,no sparks,0,0,[]
+grinder1.mp4,424,14.147467,False,False,no sparks,0,0,[]
+grinder1.mp4,425,14.180833,False,False,no sparks,0,0,[]
+grinder1.mp4,426,14.2142,False,False,no sparks,0,0,[]
+grinder1.mp4,427,14.247567,False,False,no sparks,0,0,[]
+grinder1.mp4,428,14.280933,False,False,no sparks,0,0,[]
+grinder1.mp4,429,14.3143,False,False,no sparks,0,0,[]
+grinder1.mp4,430,14.347667,False,False,no sparks,0,0,[]
+grinder1.mp4,431,14.381033,False,False,no sparks,0,0,[]
+grinder1.mp4,432,14.4144,False,False,no sparks,0,0,[]
+grinder1.mp4,433,14.447767,False,False,no sparks,0,0,[]
+grinder1.mp4,434,14.481133,False,False,no sparks,0,0,[]
+grinder1.mp4,435,14.5145,False,False,no sparks,0,0,[]
+grinder1.mp4,436,14.547867,False,False,no sparks,0,0,[]
+grinder1.mp4,437,14.581233,False,False,no sparks,0,0,[]
+grinder1.mp4,438,14.6146,False,False,no sparks,0,0,[]
+grinder1.mp4,439,14.647967,False,False,no sparks,0,0,[]
+grinder1.mp4,440,14.681333,False,False,no sparks,0,0,[]
+grinder1.mp4,441,14.7147,False,False,no sparks,0,0,[]
+grinder1.mp4,442,14.748067,False,False,no sparks,0,0,[]
+grinder1.mp4,443,14.781433,False,False,no sparks,0,0,[]
+grinder1.mp4,444,14.8148,False,False,no sparks,0,0,[]
+grinder1.mp4,445,14.848167,False,False,no sparks,0,0,[]
+grinder1.mp4,446,14.881533,False,False,no sparks,0,0,[]
+grinder1.mp4,447,14.9149,False,False,no sparks,0,0,[]
+grinder1.mp4,448,14.948267,False,False,no sparks,0,0,[]
+grinder1.mp4,449,14.981633,False,False,no sparks,0,0,[]
+grinder1.mp4,450,15.015,False,False,no sparks,0,0,[]
+grinder1.mp4,451,15.048367,False,False,no sparks,0,0,[]
+grinder1.mp4,452,15.081733,False,False,no sparks,0,0,[]
+grinder1.mp4,453,15.1151,False,False,no sparks,0,0,[]
+grinder1.mp4,454,15.148467,False,False,no sparks,0,0,[]
+grinder1.mp4,455,15.181833,False,False,no sparks,0,0,[]
+grinder1.mp4,456,15.2152,False,False,no sparks,0,0,[]
+grinder1.mp4,457,15.248567,False,False,no sparks,0,0,[]
+grinder1.mp4,458,15.281933,False,False,no sparks,0,0,[]
+grinder1.mp4,459,15.3153,False,False,no sparks,0,0,[]
+grinder1.mp4,460,15.348667,False,False,no sparks,0,0,[]
+grinder1.mp4,461,15.382033,False,False,no sparks,0,0,[]
+grinder1.mp4,462,15.4154,False,False,no sparks,0,0,[]
+grinder1.mp4,463,15.448767,False,False,no sparks,0,0,[]
+grinder1.mp4,464,15.482133,False,False,no sparks,0,0,[]
+grinder1.mp4,465,15.5155,False,False,no sparks,0,0,[]
+grinder1.mp4,466,15.548867,False,False,no sparks,0,0,[]
+grinder1.mp4,467,15.582233,False,False,no sparks,0,0,[]
+grinder1.mp4,468,15.6156,False,False,no sparks,0,0,[]
+grinder1.mp4,469,15.648967,False,False,no sparks,0,0,[]
+grinder1.mp4,470,15.682333,False,False,no sparks,0,0,[]
+grinder1.mp4,471,15.7157,False,False,no sparks,0,0,[]
+grinder1.mp4,472,15.749067,False,False,no sparks,0,0,[]
+grinder1.mp4,473,15.782433,False,False,no sparks,0,0,[]
+grinder1.mp4,474,15.8158,False,False,no sparks,0,0,[]
+grinder1.mp4,475,15.849167,False,False,no sparks,0,0,[]
+grinder1.mp4,476,15.882533,False,False,no sparks,0,0,[]
+grinder1.mp4,477,15.9159,False,False,no sparks,0,0,[]
+grinder1.mp4,478,15.949267,False,False,no sparks,0,0,[]
+grinder1.mp4,479,15.982633,False,False,no sparks,0,0,[]
+grinder1.mp4,480,16.016,False,False,no sparks,0,0,[]
+grinder1.mp4,481,16.049367,False,False,no sparks,0,0,[]
+grinder1.mp4,482,16.082733,False,False,no sparks,0,0,[]
+grinder1.mp4,483,16.1161,False,False,no sparks,0,0,[]
+grinder1.mp4,484,16.149467,False,False,no sparks,0,0,[]
+grinder1.mp4,485,16.182833,False,False,no sparks,0,0,[]
+grinder1.mp4,486,16.2162,False,False,no sparks,0,0,[]
+grinder1.mp4,487,16.249567,False,False,no sparks,0,0,[]
+grinder1.mp4,488,16.282933,False,False,no sparks,0,0,[]
+grinder1.mp4,489,16.3163,False,False,no sparks,0,0,[]
+grinder1.mp4,490,16.349667,False,False,no sparks,0,0,[]
+grinder1.mp4,491,16.383033,False,False,no sparks,0,0,[]
+grinder1.mp4,492,16.4164,False,False,no sparks,0,0,[]
+grinder1.mp4,493,16.449767,False,False,no sparks,0,0,[]
+grinder1.mp4,494,16.483133,False,False,no sparks,0,0,[]
+grinder1.mp4,495,16.5165,False,False,no sparks,0,0,[]
+grinder1.mp4,496,16.549867,False,False,no sparks,0,0,[]
+grinder1.mp4,497,16.583233,False,False,no sparks,0,0,[]
+grinder1.mp4,498,16.6166,False,False,no sparks,0,0,[]
+grinder1.mp4,499,16.649967,False,False,no sparks,0,0,[]
+grinder1.mp4,500,16.683333,False,False,no sparks,0,0,[]
+grinder1.mp4,501,16.7167,False,False,no sparks,0,0,[]
+grinder1.mp4,502,16.750067,False,False,no sparks,0,0,[]
+grinder1.mp4,503,16.783433,False,False,no sparks,0,0,[]
+grinder1.mp4,504,16.8168,False,False,no sparks,0,0,[]
+grinder1.mp4,505,16.850167,False,False,no sparks,0,0,[]
+grinder1.mp4,506,16.883533,False,False,no sparks,0,0,[]
+grinder1.mp4,507,16.9169,False,False,no sparks,0,0,[]
+grinder1.mp4,508,16.950267,False,False,no sparks,0,0,[]
+grinder1.mp4,509,16.983633,False,False,no sparks,0,0,[]
+grinder1.mp4,510,17.017,False,False,no sparks,0,0,[]
+grinder1.mp4,511,17.050367,False,False,no sparks,0,0,[]
+grinder1.mp4,512,17.083733,False,False,no sparks,0,0,[]
+grinder1.mp4,513,17.1171,False,False,no sparks,0,0,[]
+grinder1.mp4,514,17.150467,False,False,no sparks,0,0,[]
